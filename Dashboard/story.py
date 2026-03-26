@@ -25,39 +25,6 @@ from Statistiken.extract_statistiken import get_marktwerte as _get_marktwerte
 
 
 # ============================================================================
-# DEBUG: WOHER KOMMEN DIE DATEN?
-# ============================================================================
-
-if st.checkbox("🔍 DEBUG: Datenquelle überprüfen"):
-    st.markdown("### Debug: Verfolgung der Datenquellen")
-
-    # 1. Check get_marktwerte() aus extract_statistiken
-    st.markdown("#### 1️⃣ get_marktwerte() (extract_statistiken.py):")
-    try:
-        from Statistiken.extract_statistiken import get_marktwerte as extract_marktwerte
-
-        df_extract = extract_marktwerte()
-        st.write(f"**Verfügbare Spalten:**")
-        st.write(sorted(df_extract.columns.tolist()))
-    except Exception as e:
-        st.error(f"Fehler: {e}")
-
-    # 2. Check get_underrated_players() aus load_statistiken
-    st.markdown("#### 2️⃣ get_underrated_players() (load_statistiken.py):")
-    try:
-        from Statistiken.load_statistiken import get_underrated_players
-
-        df_underrated = get_underrated_players(min_marktwert=0, max_marktwert=50_000_000)
-        st.write(f"**Verfügbare Spalten:**")
-        st.write(sorted(df_underrated.columns.tolist()))
-        st.write(f"\n**Sample-Daten:**")
-        st.dataframe(df_underrated.head(1), width='stretch')
-    except Exception as e:
-        st.error(f"Fehler: {e}")
-
-    st.divider()
-
-# ============================================================================
 # STREAMLIT KONFIGURATION
 # ============================================================================
 
