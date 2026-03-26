@@ -942,7 +942,7 @@ elif statistik_view == "Spieler-Scouting":
 st.markdown("---")
 st.markdown(
     "<div style='text-align: center; color: gray;'>"
-    "<small>Powered by Team JALT - Deployed im Rahmen der LV Business Intelligence der HWR Berlin </small>"
+    "<small>Powered by Team JALT - Deployed im Rahmen der LV 'Business Intelligence' an der HWR Berlin </small>"
     "</div>",
     unsafe_allow_html=True
 )
