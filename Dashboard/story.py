@@ -4,7 +4,7 @@ project_root = Path(__file__).parent.parent
 sys.path.insert(0, str(project_root))
 import streamlit as st
 import pandas as pd
-#import plotly.express as px
+import plotly.express as px
 from Statistiken.load_statistiken import (
     get_tabelle,
     get_Teams,
