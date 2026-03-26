@@ -1,31 +1,34 @@
 import os
 import json
-from operator import and_
-
-from dotenv import load_dotenv
-from google.oauth2 import service_account
-from google.cloud import bigquery
 import pandas as pd
+from google.cloud import bigquery
+from datetime import datetime
+from google.oauth2 import service_account
+import streamlit as st  # ← WICHTIG: Das fehlte!
 
-# Client
+
 def load_Statistiken():
-
-    if os.path.exists(os.path.expanduser("~/Downloads/business-inteligence-490515-b6c96d4e150a.json")):
-        client = bigquery.Client.from_service_account_json(
-            os.path.expanduser("~/Downloads/business-inteligence-490515-b6c96d4e150a.json"),
+    # Versuche zuerst die lokale Datei
+    creds_path = os.path.expanduser("~/Downloads/business-inteligence-490515-b6c96d4e150a.json")
+    if os.path.exists(creds_path):
+        return bigquery.Client.from_service_account_json(
+            creds_path,
             project="business-inteligence-490515"
         )
-    else:
-        print("test2")
-        credentials_json = os.environ.get("GCP_SERVICE_ACCOUNT_KEY")
+
+    # Falls nicht vorhanden, nutze Streamlit Secrets
+    try:
+        credentials_json = st.secrets["GCP_SERVICE_ACCOUNT_KEY"]  # ← Korrigiert!
         credentials_info = json.loads(credentials_json)
         credentials = service_account.Credentials.from_service_account_info(credentials_info)
-        client = bigquery.Client(
+        return bigquery.Client(
             credentials=credentials,
             project="business-inteligence-490515"
         )
+    except Exception as e:
+        print(f"Fehler beim Laden der Credentials: {e}")
+        return None
 
-    return client
 
 def get_reiseentfernung():
     client = load_Statistiken()
