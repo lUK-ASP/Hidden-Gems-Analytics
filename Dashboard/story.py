@@ -29,7 +29,6 @@ from utils import SAISON_OPTIONS, create_analysis_table, create_comparison_table
 st.set_page_config(
     page_title="Hidden Gems Analytics",
     layout="wide",
-    layout="wide",
     initial_sidebar_state="collapsed"
 )
 
