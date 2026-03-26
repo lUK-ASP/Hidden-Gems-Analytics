@@ -1,0 +1,567 @@
+<tbody>
+<tr class="odd">
+<td class="zentriert rueckennummer bg_Torwart" title="Torwart"><div class="rn_nummer">1</div></td><td class="posrela">
+<table class="inline-table">
+    <tbody><tr>
+        <td rowspan="2">
+            <img src="https://img.a.transfermarkt.technology/portrait/medium/84938-1753298252.jpg?lm=1" data-src="https://img.a.transfermarkt.technology/portrait/medium/84938-1753298252.jpg?lm=1" title="Timo Horn" alt="Timo Horn" class="bilderrahmen-fixed lazy entered loaded" data-ll-status="loaded">        </td>
+        <td class="hauptlink">
+            <a href="/timo-horn/profil/spieler/84938">
+                Timo Horn            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Torwart        </td>
+    </tr>
+</tbody></table>
+</td><td class="zentriert">12.05.1993 (32)</td><td class="zentriert"><img src="https://tmssl.akamaized.net//images/flagge/verysmall/40.png?lm=1520612525" title="Deutschland" alt="Deutschland" class="flaggenrahmen"></td><td class="zentriert"><a title="VfL Bochum" href="/vfl-bochum/startseite/verein/80"><img src="https://tmssl.akamaized.net//images/wappen/verysmall/80.png?lm=1656583090" title="VfL Bochum" alt="VfL Bochum" class=""></a></td><td class="zentriert">1,92m</td><td class="zentriert">links</td><td class="zentriert">01.08.2024</td><td class="zentriert"><a title="FC Red Bull Salzburg: Ablöse ablösefrei" href="/red-bull-salzburg/startseite/verein/409/saison_id/2024"><img src="https://tmssl.akamaized.net//images/wappen/verysmall/409.png?lm=1557737354" title="FC Red Bull Salzburg" alt="FC Red Bull Salzburg" class=""></a></td><td class="rechts hauptlink"><a href="/timo-horn/marktwertverlauf/spieler/84938">800 Tsd. €</a></td></tr>
+<tr class="even">
+<td class="zentriert rueckennummer bg_Torwart" title="Torwart"><div class="rn_nummer">27</div></td><td class="posrela">
+<table class="inline-table">
+    <tbody><tr>
+        <td rowspan="2">
+            <img src="https://img.a.transfermarkt.technology/portrait/medium/94192-1721851751.jpg?lm=1" data-src="https://img.a.transfermarkt.technology/portrait/medium/94192-1721851751.jpg?lm=1" title="Patrick Drewes" alt="Patrick Drewes" class="bilderrahmen-fixed lazy entered loaded" data-ll-status="loaded">        </td>
+        <td class="hauptlink">
+            <a href="/patrick-drewes/profil/spieler/94192">
+                Patrick Drewes<span title="keine Spielberechtigung – UEFA Champions League – bis 26.02.2026" class="svg-icon suspension-icon"><svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+  <path d="M4.93 4.93L19.07 19.07M22 12C22 17.5228 17.5228 22 12 22C6.47715 22 2 17.5228 2 12C2 6.47715 6.47715 2 12 2C17.5228 2 22 6.47715 22 12Z" fill="none" stroke="currentColor" stroke-width="var(--stroke-width, 1.8)" stroke-linecap="round" stroke-linejoin="round"></path>
+</svg></span>            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Torwart        </td>
+    </tr>
+</tbody></table>
+</td><td class="zentriert">04.02.1993 (32)</td><td class="zentriert"><img src="https://tmssl.akamaized.net//images/flagge/verysmall/40.png?lm=1520612525" title="Deutschland" alt="Deutschland" class="flaggenrahmen"></td><td class="zentriert"><a title="Borussia Dortmund" href="/borussia-dortmund/startseite/verein/16"><img src="https://tmssl.akamaized.net//images/wappen/verysmall/16.png?lm=1396275280" title="Borussia Dortmund" alt="Borussia Dortmund" class=""></a></td><td class="zentriert">1,94m</td><td class="zentriert">rechts</td><td class="zentriert">01.07.2024</td><td class="zentriert"><a title="Karlsruher SC: Ablöse ablösefrei" href="/karlsruher-sc/startseite/verein/48/saison_id/2024"><img src="https://tmssl.akamaized.net//images/wappen/verysmall/48.png?lm=1434793006" title="Karlsruher SC" alt="Karlsruher SC" class=""></a></td><td class="rechts hauptlink"><a href="/patrick-drewes/marktwertverlauf/spieler/94192">500 Tsd. €</a></td></tr>
+<tr class="odd">
+<td class="zentriert rueckennummer bg_Torwart" title="Torwart"><div class="rn_nummer">34</div></td><td class="posrela">
+<table class="inline-table">
+    <tbody><tr>
+        <td rowspan="2">
+            <img src="https://img.a.transfermarkt.technology/portrait/medium/452192-1657283109.jpg?lm=1" data-src="https://img.a.transfermarkt.technology/portrait/medium/452192-1657283109.jpg?lm=1" title="Paul Grave" alt="Paul Grave" class="bilderrahmen-fixed lazy entered loaded" data-ll-status="loaded">        </td>
+        <td class="hauptlink">
+            <a href="/paul-grave/profil/spieler/452192">
+                Paul Grave            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Torwart        </td>
+    </tr>
+</tbody></table>
+</td><td class="zentriert">10.04.2001 (24)</td><td class="zentriert"><img src="https://tmssl.akamaized.net//images/flagge/verysmall/40.png?lm=1520612525" title="Deutschland" alt="Deutschland" class="flaggenrahmen"></td><td class="zentriert"><a title="1.FC Bocholt" href="/1-fc-bocholt/startseite/verein/392"><img src="https://tmssl.akamaized.net//images/wappen/verysmall/392.png?lm=1520155309" title="1.FC Bocholt" alt="1.FC Bocholt" class=""></a></td><td class="zentriert">1,93m</td><td class="zentriert">rechts</td><td class="zentriert">01.07.2019</td><td class="zentriert"><a title="VfL Bochum U19: Ablöse -" href="/vfl-bochum-u19/startseite/verein/3862/saison_id/2018"><img src="https://tmssl.akamaized.net//images/wappen/verysmall/3862.png?lm=1685994441" title="VfL Bochum U19" alt="VfL Bochum U19" class=""></a></td><td class="rechts hauptlink"><a href="/paul-grave/marktwertverlauf/spieler/452192">50 Tsd. €</a></td></tr>
+<tr class="even">
+<td class="zentriert rueckennummer bg_Abwehr" title="Abwehr"><div class="rn_nummer">14</div></td><td class="posrela">
+<table class="inline-table">
+    <tbody><tr>
+        <td rowspan="2">
+            <img src="https://img.a.transfermarkt.technology/portrait/medium/696164-1657283257.jpg?lm=1" data-src="https://img.a.transfermarkt.technology/portrait/medium/696164-1657283257.jpg?lm=1" title="Tim Oermann" alt="Tim Oermann" class="bilderrahmen-fixed lazy entered loaded" data-ll-status="loaded">        </td>
+        <td class="hauptlink">
+            <a href="/tim-oermann/profil/spieler/696164">
+                Tim Oermann            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Innenverteidiger        </td>
+    </tr>
+</tbody></table>
+</td><td class="zentriert">06.10.2003 (21)</td><td class="zentriert"><img src="https://tmssl.akamaized.net//images/flagge/verysmall/40.png?lm=1520612525" title="Deutschland" alt="Deutschland" class="flaggenrahmen"></td><td class="zentriert"><a title="Bayer 04 Leverkusen" href="/bayer-04-leverkusen/startseite/verein/15"><img src="https://tmssl.akamaized.net//images/wappen/verysmall/15.png?lm=1710156317" title="Bayer 04 Leverkusen" alt="Bayer 04 Leverkusen" class=""></a></td><td class="zentriert">1,89m</td><td class="zentriert">rechts</td><td class="zentriert">01.07.2022</td><td class="zentriert"><a title="VfL Bochum U19: Ablöse -" href="/vfl-bochum-u19/startseite/verein/3862/saison_id/2022"><img src="https://tmssl.akamaized.net//images/wappen/verysmall/3862.png?lm=1685994441" title="VfL Bochum U19" alt="VfL Bochum U19" class=""></a></td><td class="rechts hauptlink"><a href="/tim-oermann/marktwertverlauf/spieler/696164">5,00 Mio. €</a></td></tr>
+<tr class="odd">
+<td class="zentriert rueckennummer bg_Abwehr" title="Abwehr"><div class="rn_nummer">4</div></td><td class="posrela">
+<table class="inline-table">
+    <tbody><tr>
+        <td rowspan="2">
+            <img src="https://img.a.transfermarkt.technology/portrait/medium/343959-1657283131.jpg?lm=1" data-src="https://img.a.transfermarkt.technology/portrait/medium/343959-1657283131.jpg?lm=1" title="Erhan Masovic" alt="Erhan Masovic" class="bilderrahmen-fixed lazy entered loaded" data-ll-status="loaded">        </td>
+        <td class="hauptlink">
+            <a href="/erhan-masovic/profil/spieler/343959">
+                Erhan Masovic            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Innenverteidiger        </td>
+    </tr>
+</tbody></table>
+</td><td class="zentriert">22.11.1998 (26)</td><td class="zentriert"><img src="https://tmssl.akamaized.net//images/flagge/verysmall/215.png?lm=1520611569" title="Serbien" alt="Serbien" class="flaggenrahmen"></td><td class="zentriert"><a title="VfL Bochum" href="/vfl-bochum/startseite/verein/80"><img src="https://tmssl.akamaized.net//images/wappen/verysmall/80.png?lm=1656583090" title="VfL Bochum" alt="VfL Bochum" class=""></a></td><td class="zentriert">1,89m</td><td class="zentriert">beidfüßig</td><td class="zentriert">05.10.2020</td><td class="zentriert"><a title="Club Brügge: Ablöse ablösefrei" href="/fc-brugge/startseite/verein/2282/saison_id/2020"><img src="https://tmssl.akamaized.net//images/wappen/verysmall/2282.png?lm=1716279106" title="Club Brügge" alt="Club Brügge" class=""></a></td><td class="rechts hauptlink"><a href="/erhan-masovic/marktwertverlauf/spieler/343959">2,00 Mio. €</a></td></tr>
+<tr class="even">
+<td class="zentriert rueckennummer bg_Abwehr" title="Abwehr"><div class="rn_nummer">13</div></td><td class="posrela">
+<table class="inline-table">
+    <tbody><tr>
+        <td rowspan="2">
+            <img src="https://img.a.transfermarkt.technology/portrait/medium/488755-1689779607.jpg?lm=1" data-src="https://img.a.transfermarkt.technology/portrait/medium/488755-1689779607.jpg?lm=1" title="Jakov Medic" alt="Jakov Medic" class="bilderrahmen-fixed lazy entered loaded" data-ll-status="loaded">        </td>
+        <td class="hauptlink">
+            <a href="/jakov-medic/profil/spieler/488755">
+                Jakov Medic            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Innenverteidiger        </td>
+    </tr>
+</tbody></table>
+</td><td class="zentriert">07.09.1998 (26)</td><td class="zentriert"><img src="https://tmssl.akamaized.net//images/flagge/verysmall/37.png?lm=1520611569" title="Kroatien" alt="Kroatien" class="flaggenrahmen"></td><td class="zentriert"><a title="Norwich City" href="/norwich-city/startseite/verein/1123"><img src="https://tmssl.akamaized.net//images/wappen/verysmall/1123.png?lm=1655469640" title="Norwich City" alt="Norwich City" class=""></a></td><td class="zentriert">1,93m</td><td class="zentriert">rechts</td><td class="zentriert">20.08.2024</td><td class="zentriert"><a title="Ajax Amsterdam: Ablöse ?" href="/ajax-amsterdam/startseite/verein/610/saison_id/2024"><img src="https://tmssl.akamaized.net//images/wappen/verysmall/610_1750407814.png?lm=1750407814" title=": Ablöse ?" alt="Ajax Amsterdam" class=""></a></td><td class="rechts hauptlink"><a href="/jakov-medic/marktwertverlauf/spieler/488755">2,00 Mio. €</a></td></tr>
+<tr class="odd">
+<td class="zentriert rueckennummer bg_Abwehr" title="Abwehr"><div class="rn_nummer">20</div></td><td class="posrela">
+<table class="inline-table">
+    <tbody><tr>
+        <td rowspan="2">
+            <img src="https://img.a.transfermarkt.technology/portrait/medium/118850-1721851592.jpg?lm=1" data-src="https://img.a.transfermarkt.technology/portrait/medium/118850-1721851592.jpg?lm=1" title="Ivan Ordets" alt="Ivan Ordets" class="bilderrahmen-fixed lazy entered loaded" data-ll-status="loaded">        </td>
+        <td class="hauptlink">
+            <a href="/ivan-ordets/profil/spieler/118850">
+                Ivan Ordets            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Innenverteidiger        </td>
+    </tr>
+</tbody></table>
+</td><td class="zentriert">08.07.1992 (32)</td><td class="zentriert"><img src="https://tmssl.akamaized.net//images/flagge/verysmall/177.png?lm=1520611569" title="Ukraine" alt="Ukraine" class="flaggenrahmen"></td><td class="zentriert"><a title="FK Aktobe" href="/fk-aktobe/startseite/verein/10157"><img src="https://tmssl.akamaized.net//images/wappen/verysmall/10157.png?lm=1708924702" title="FK Aktobe" alt="FK Aktobe" class=""></a></td><td class="zentriert">1,95m</td><td class="zentriert">rechts</td><td class="zentriert">01.07.2024</td><td class="zentriert"><a title="Dinamo Moskau: Ablöse ablösefrei" href="/dinamo-moskau/startseite/verein/121/saison_id/2024"><img src="https://tmssl.akamaized.net//images/wappen/verysmall/121.png?lm=1597937447" title="Dinamo Moskau" alt="Dinamo Moskau" class=""></a></td><td class="rechts hauptlink"><a href="/ivan-ordets/marktwertverlauf/spieler/118850">1,00 Mio. €</a></td></tr>
+<tr class="even">
+<td class="zentriert rueckennummer bg_Abwehr" title="Abwehr"><div class="rn_nummer">-</div></td><td class="posrela"><span class="wechsel-kader-wappen hide-for-small"><a title="Rückkehr nach Leihe von: SpVgg Greuther Fürth; Datum: 30.06.2025; Ablöse: Leih-Ende" href="/spvgg-greuther-furth/startseite/verein/65/saison_id/2024"><img src="https://tmssl.akamaized.net//images/wappen/kaderquad/65.png?lm=1503682935" title="SpVgg Greuther Fürth" alt="SpVgg Greuther Fürth" class=""></a></span><a title="Rückkehr nach Leihe von: SpVgg Greuther Fürth; Datum: 30.06.2025; Ablöse: Leih-Ende" class="hide-for-small" href="/spvgg-greuther-furth/startseite/verein/65/saison_id/2024"><img src="/images/icons/rueckkehr_beta_kader.png" class="wechsel-symbol" width="19px" height="19px"></a>
+<table class="inline-table">
+    <tbody><tr>
+        <td rowspan="2">
+            <img src="https://img.a.transfermarkt.technology/portrait/medium/265209-1691250300.jpg?lm=1" data-src="https://img.a.transfermarkt.technology/portrait/medium/265209-1691250300.jpg?lm=1" title="Noah Loosli" alt="Noah Loosli" class="bilderrahmen-fixed lazy entered loaded" data-ll-status="loaded">        </td>
+        <td class="hauptlink">
+            <a href="/noah-loosli/profil/spieler/265209">
+                Noah Loosli            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Innenverteidiger        </td>
+    </tr>
+</tbody></table>
+</td><td class="zentriert">23.01.1997 (28)</td><td class="zentriert"><img src="https://tmssl.akamaized.net//images/flagge/verysmall/148.png?lm=1520611569" title="Schweiz" alt="Schweiz" class="flaggenrahmen"></td><td class="zentriert"><a title="VfL Bochum" href="/vfl-bochum/startseite/verein/80"><img src="https://tmssl.akamaized.net//images/wappen/verysmall/80.png?lm=1656583090" title="VfL Bochum" alt="VfL Bochum" class=""></a></td><td class="zentriert">1,86m</td><td class="zentriert">rechts</td><td class="zentriert">01.07.2023</td><td class="zentriert"><a title="Grasshopper Club Zürich: Ablöse ablösefrei" href="/grasshopper-club-zurich/startseite/verein/504/saison_id/2023"><img src="https://tmssl.akamaized.net//images/wappen/verysmall/504.png?lm=1688507097" title="Grasshopper Club Zürich" alt="Grasshopper Club Zürich" class=""></a></td><td class="rechts hauptlink"><a href="/noah-loosli/marktwertverlauf/spieler/265209">600 Tsd. €</a></td></tr>
+<tr class="odd">
+<td class="zentriert rueckennummer bg_Abwehr" title="Abwehr"><div class="rn_nummer">25</div></td><td class="posrela">
+<table class="inline-table">
+    <tbody><tr>
+        <td rowspan="2">
+            <img src="https://img.a.transfermarkt.technology/portrait/medium/813730-1691250541.jpg?lm=1" data-src="https://img.a.transfermarkt.technology/portrait/medium/813730-1691250541.jpg?lm=1" title="Mohammed Tolba" alt="Mohammed Tolba" class="bilderrahmen-fixed lazy entered loaded" data-ll-status="loaded">        </td>
+        <td class="hauptlink">
+            <a href="/mohammed-tolba/profil/spieler/813730">
+                Mohammed Tolba            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Innenverteidiger        </td>
+    </tr>
+</tbody></table>
+</td><td class="zentriert">19.07.2004 (20)</td><td class="zentriert"><img src="https://tmssl.akamaized.net//images/flagge/verysmall/40.png?lm=1520612525" title="Deutschland" alt="Deutschland" class="flaggenrahmen"><br><img src="https://tmssl.akamaized.net//images/flagge/verysmall/2.png?lm=1520611569" title="Ägypten" alt="Ägypten" class="flaggenrahmen"></td><td class="zentriert"><a title="VfL Bochum II" href="/vfl-bochum-ii/startseite/verein/446"><img src="https://tmssl.akamaized.net//images/wappen/verysmall/446.png?lm=1685994440" title="VfL Bochum II" alt="VfL Bochum II" class=""></a></td><td class="zentriert">1,85m</td><td class="zentriert">rechts</td><td class="zentriert">01.07.2022</td><td class="zentriert"><a title="VfL Bochum U19: Ablöse -" href="/vfl-bochum-u19/startseite/verein/3862/saison_id/2022"><img src="https://tmssl.akamaized.net//images/wappen/verysmall/3862.png?lm=1685994441" title="VfL Bochum U19" alt="VfL Bochum U19" class=""></a></td><td class="rechts hauptlink"><a href="/mohammed-tolba/marktwertverlauf/spieler/813730">200 Tsd. €</a></td></tr>
+<tr class="even">
+<td class="zentriert rueckennummer bg_Abwehr" title="Abwehr"><div class="rn_nummer">5</div></td><td class="posrela">
+<table class="inline-table">
+    <tbody><tr>
+        <td rowspan="2">
+            <img src="https://img.a.transfermarkt.technology/portrait/medium/364258-1691250245.jpg?lm=1" data-src="https://img.a.transfermarkt.technology/portrait/medium/364258-1691250245.jpg?lm=1" title="Bernardo" alt="Bernardo" class="bilderrahmen-fixed lazy entered loaded" data-ll-status="loaded">        </td>
+        <td class="hauptlink">
+            <a href="/bernardo/profil/spieler/364258">
+                Bernardo<span title="Knieprobleme - Rückkehr unbekannt" class="verletzt-table icons_sprite">&nbsp;</span>            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Linker Verteidiger        </td>
+    </tr>
+</tbody></table>
+</td><td class="zentriert">14.05.1995 (30)</td><td class="zentriert"><img src="https://tmssl.akamaized.net//images/flagge/verysmall/26.png?lm=1520611569" title="Brasilien" alt="Brasilien" class="flaggenrahmen"></td><td class="zentriert"><a title="TSG 1899 Hoffenheim" href="/tsg-1899-hoffenheim/startseite/verein/533"><img src="https://tmssl.akamaized.net//images/wappen/verysmall/533.png?lm=1675591766" title="TSG 1899 Hoffenheim" alt="TSG 1899 Hoffenheim" class=""></a></td><td class="zentriert">1,86m</td><td class="zentriert">links</td><td class="zentriert">02.08.2023</td><td class="zentriert"><a title="FC Red Bull Salzburg: Ablöse 600 Tsd. €" href="/red-bull-salzburg/startseite/verein/409/saison_id/2023"><img src="https://tmssl.akamaized.net//images/wappen/verysmall/409.png?lm=1557737354" title="FC Red Bull Salzburg" alt="FC Red Bull Salzburg" class=""></a></td><td class="rechts hauptlink"><a href="/bernardo/marktwertverlauf/spieler/364258">5,50 Mio. €</a></td></tr>
+<tr class="odd">
+<td class="zentriert rueckennummer bg_Abwehr" title="Abwehr"><div class="rn_nummer">32</div></td><td class="posrela">
+<table class="inline-table">
+    <tbody><tr>
+        <td rowspan="2">
+            <img src="https://img.a.transfermarkt.technology/portrait/medium/196793-1721851854.jpg?lm=1" data-src="https://img.a.transfermarkt.technology/portrait/medium/196793-1721851854.jpg?lm=1" title="Maximilian Wittek" alt="Maximilian Wittek" class="bilderrahmen-fixed lazy entered loaded" data-ll-status="loaded">        </td>
+        <td class="hauptlink">
+            <a href="/maximilian-wittek/profil/spieler/196793">
+                Maximilian Wittek            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Linker Verteidiger        </td>
+    </tr>
+</tbody></table>
+</td><td class="zentriert">21.08.1995 (29)</td><td class="zentriert"><img src="https://tmssl.akamaized.net//images/flagge/verysmall/40.png?lm=1520612525" title="Deutschland" alt="Deutschland" class="flaggenrahmen"></td><td class="zentriert"><a title="VfL Bochum" href="/vfl-bochum/startseite/verein/80"><img src="https://tmssl.akamaized.net//images/wappen/verysmall/80.png?lm=1656583090" title="VfL Bochum" alt="VfL Bochum" class=""></a></td><td class="zentriert">1,73m</td><td class="zentriert">links</td><td class="zentriert">14.08.2023</td><td class="zentriert"><a title="Vitesse Arnheim: Ablöse 750 Tsd. €" href="/vitesse-arnheim/startseite/verein/499/saison_id/2023"><img src="https://tmssl.akamaized.net//images/wappen/verysmall/499.png?lm=1679396090" title="Vitesse Arnheim" alt="Vitesse Arnheim" class=""></a></td><td class="rechts hauptlink"><a href="/maximilian-wittek/marktwertverlauf/spieler/196793">1,50 Mio. €</a></td></tr>
+<tr class="even">
+<td class="zentriert rueckennummer bg_Abwehr" title="Abwehr"><div class="rn_nummer">15</div></td><td class="posrela">
+<table class="inline-table">
+    <tbody><tr>
+        <td rowspan="2">
+            <img src="https://img.a.transfermarkt.technology/portrait/medium/274461-1691250368.jpg?lm=1" data-src="https://img.a.transfermarkt.technology/portrait/medium/274461-1691250368.jpg?lm=1" title="Felix Passlack" alt="Felix Passlack" class="bilderrahmen-fixed lazy entered loaded" data-ll-status="loaded">        </td>
+        <td class="hauptlink">
+            <a href="/felix-passlack/profil/spieler/274461">
+                Felix Passlack            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Rechter Verteidiger        </td>
+    </tr>
+</tbody></table>
+</td><td class="zentriert">29.05.1998 (27)</td><td class="zentriert"><img src="https://tmssl.akamaized.net//images/flagge/verysmall/40.png?lm=1520612525" title="Deutschland" alt="Deutschland" class="flaggenrahmen"></td><td class="zentriert"><a title="Hibernian FC" href="/hibernian-fc/startseite/verein/903"><img src="https://tmssl.akamaized.net//images/wappen/verysmall/903.png?lm=1737462058" title="Hibernian FC" alt="Hibernian FC" class=""></a></td><td class="zentriert">1,70m</td><td class="zentriert">rechts</td><td class="zentriert">01.07.2023</td><td class="zentriert"><a title="Borussia Dortmund: Ablöse ablösefrei" href="/borussia-dortmund/startseite/verein/16/saison_id/2023"><img src="https://tmssl.akamaized.net//images/wappen/verysmall/16.png?lm=1396275280" title="Borussia Dortmund" alt="Borussia Dortmund" class=""></a></td><td class="rechts hauptlink"><a href="/felix-passlack/marktwertverlauf/spieler/274461">2,00 Mio. €</a></td></tr>
+<tr class="odd">
+<td class="zentriert rueckennummer bg_Abwehr" title="Abwehr"><div class="rn_nummer">2</div></td><td class="posrela">
+<table class="inline-table">
+    <tbody><tr>
+        <td rowspan="2">
+            <img src="https://img.a.transfermarkt.technology/portrait/medium/121686-1657283791.jpg?lm=1" data-src="https://img.a.transfermarkt.technology/portrait/medium/121686-1657283791.jpg?lm=1" title="Cristian Gamboa" alt="Cristian Gamboa" class="bilderrahmen-fixed lazy entered loaded" data-ll-status="loaded">        </td>
+        <td class="hauptlink">
+            <a href="/cristian-gamboa/profil/spieler/121686">
+                Cristian Gamboa            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Rechter Verteidiger        </td>
+    </tr>
+</tbody></table>
+</td><td class="zentriert">24.10.1989 (35)</td><td class="zentriert"><img src="https://tmssl.akamaized.net//images/flagge/verysmall/36.png?lm=1520611569" title="Costa Rica" alt="Costa Rica" class="flaggenrahmen"></td><td class="zentriert"><img src="https://tmssl.akamaized.net//images/wappen/verysmall/123.png?lm=1456997286" title="Karriereende" alt="Karriereende" class=""></td><td class="zentriert">1,75m</td><td class="zentriert">rechts</td><td class="zentriert">27.08.2019</td><td class="zentriert"><a title="Celtic Glasgow: Ablöse ablösefrei" href="/celtic-glasgow/startseite/verein/371/saison_id/2019"><img src="https://tmssl.akamaized.net//images/wappen/verysmall/371_1758007411.png?lm=1758007411" title=": Ablöse ablösefrei" alt="Celtic Glasgow" class=""></a></td><td class="rechts hauptlink"><a href="/cristian-gamboa/marktwertverlauf/spieler/121686">500 Tsd. €</a></td></tr>
+<tr class="even">
+<td class="zentriert rueckennummer bg_Abwehr" title="Abwehr"><div class="rn_nummer">-</div></td><td class="posrela"><span class="wechsel-kader-wappen hide-for-small"><a title="Interner Wechsel: VfL Bochum U19; Datum: 01.07.2025" href="/vfl-bochum-u19/startseite/verein/3862/saison_id/2025"><img src="https://tmssl.akamaized.net//images/wappen/kaderquad/3862.png?lm=1685994441" title="VfL Bochum U19" alt="VfL Bochum U19" class=""></a></span><a title="Interner Wechsel: VfL Bochum U19; Datum: 01.07.2025" class="hide-for-small" href="/vfl-bochum-u19/startseite/verein/3862/saison_id/2025"><img src="/images/icons/zugang_beta_kader.png" class="wechsel-symbol" width="19px" height="19px"></a>
+<table class="inline-table">
+    <tbody><tr>
+        <td rowspan="2">
+            <img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/medium/1058515-1753298715.jpg?lm=1" title="Kacper Koscierski" alt="Kacper Koscierski" class="bilderrahmen-fixed lazy lazy">        </td>
+        <td class="hauptlink">
+            <a href="/kacper-koscierski/profil/spieler/1058515">
+                Kacper Koscierski            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Rechter Verteidiger        </td>
+    </tr>
+</tbody></table>
+</td><td class="zentriert">23.06.2007 (18)</td><td class="zentriert"><img src="https://tmssl.akamaized.net//images/flagge/verysmall/40.png?lm=1520612525" title="Deutschland" alt="Deutschland" class="flaggenrahmen"><br><img src="https://tmssl.akamaized.net//images/flagge/verysmall/135.png?lm=1520611569" title="Polen" alt="Polen" class="flaggenrahmen"></td><td class="zentriert"><a title="VfL Bochum" href="/vfl-bochum/startseite/verein/80"><img src="https://tmssl.akamaized.net//images/wappen/verysmall/80.png?lm=1656583090" title="VfL Bochum" alt="VfL Bochum" class=""></a></td><td class="zentriert">1,79m</td><td class="zentriert">rechts</td><td class="zentriert">01.07.2025</td><td class="zentriert"><a title="VfL Bochum U19: Ablöse -" href="/vfl-bochum-u19/startseite/verein/3862/saison_id/2025"><img src="https://tmssl.akamaized.net//images/wappen/verysmall/3862.png?lm=1685994441" title="VfL Bochum U19" alt="VfL Bochum U19" class=""></a></td><td class="rechts hauptlink"><a href="/kacper-koscierski/marktwertverlauf/spieler/1058515">200 Tsd. €</a></td></tr>
+<tr class="odd">
+<td class="zentriert rueckennummer bg_Mittelfeld" title="Mittelfeld"><div class="rn_nummer">6</div></td><td class="posrela">
+<table class="inline-table">
+    <tbody><tr>
+        <td rowspan="2">
+            <img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/medium/372712-1721851302.jpg?lm=1" title="Ibrahima Sissoko" alt="Ibrahima Sissoko" class="bilderrahmen-fixed lazy lazy">        </td>
+        <td class="hauptlink">
+            <a href="/ibrahima-sissoko/profil/spieler/372712">
+                Ibrahima Sissoko            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Defensives Mittelfeld        </td>
+    </tr>
+</tbody></table>
+</td><td class="zentriert">27.10.1997 (27)</td><td class="zentriert"><img src="https://tmssl.akamaized.net//images/flagge/verysmall/105.png?lm=1520611569" title="Mali" alt="Mali" class="flaggenrahmen"><br><img src="https://tmssl.akamaized.net//images/flagge/verysmall/50.png?lm=1520611569" title="Frankreich" alt="Frankreich" class="flaggenrahmen"></td><td class="zentriert"><a title="FC Nantes" href="/fc-nantes/startseite/verein/995"><img src="https://tmssl.akamaized.net//images/wappen/verysmall/995.png?lm=1581355747" title="FC Nantes" alt="FC Nantes" class=""></a></td><td class="zentriert">1,93m</td><td class="zentriert">rechts</td><td class="zentriert">01.07.2024</td><td class="zentriert"><a title="RC Straßburg Alsace: Ablöse ablösefrei" href="/rc-strassburg-alsace/startseite/verein/667/saison_id/2024"><img src="https://tmssl.akamaized.net//images/wappen/verysmall/667.png?lm=1664991833" title="RC Straßburg Alsace" alt="RC Straßburg Alsace" class=""></a></td><td class="rechts hauptlink"><a href="/ibrahima-sissoko/marktwertverlauf/spieler/372712">6,00 Mio. €</a></td></tr>
+<tr class="even">
+<td class="zentriert rueckennummer bg_Mittelfeld" title="Mittelfeld"><div class="rn_nummer">17</div></td><td class="posrela">
+<table class="inline-table">
+    <tbody><tr>
+        <td rowspan="2">
+            <img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/medium/405687-1752739063.jpg?lm=1" title="Tom Krauß" alt="Tom Krauß" class="bilderrahmen-fixed lazy lazy">        </td>
+        <td class="hauptlink">
+            <a href="/tom-krauss/profil/spieler/405687">
+                Tom Krauß            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Defensives Mittelfeld        </td>
+    </tr>
+</tbody></table>
+</td><td class="zentriert">22.06.2001 (24)</td><td class="zentriert"><img src="https://tmssl.akamaized.net//images/flagge/verysmall/40.png?lm=1520612525" title="Deutschland" alt="Deutschland" class="flaggenrahmen"></td><td class="zentriert"><a title="1.FC Köln" href="/1-fc-koln/startseite/verein/3"><img src="https://tmssl.akamaized.net//images/wappen/verysmall/3.png?lm=1656580823" title="1.FC Köln" alt="1.FC Köln" class=""></a></td><td class="zentriert">1,82m</td><td class="zentriert">rechts</td><td class="zentriert">30.01.2025</td><td class="zentriert"><a title="1.FSV Mainz 05: Ablöse 200 Tsd. €" href="/1-fsv-mainz-05/startseite/verein/39/saison_id/2024"><img src="https://tmssl.akamaized.net//images/wappen/verysmall/39.png?lm=1564748880" title="1.FSV Mainz 05" alt="1.FSV Mainz 05" class=""></a></td><td class="rechts hauptlink"><a href="/tom-krauss/marktwertverlauf/spieler/405687">4,00 Mio. €</a></td></tr>
+<tr class="odd">
+<td class="zentriert rueckennummer bg_Mittelfeld" title="Mittelfeld"><div class="rn_nummer">8</div></td><td class="posrela">
+<table class="inline-table">
+    <tbody><tr>
+        <td rowspan="2">
+            <img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/medium/111266-1657283817.jpg?lm=1" title="Anthony Losilla" alt="Anthony Losilla" class="bilderrahmen-fixed lazy lazy">        </td>
+        <td class="hauptlink">
+            <a href="/anthony-losilla/profil/spieler/111266">
+                Anthony Losilla            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Defensives Mittelfeld        </td>
+    </tr>
+</tbody></table>
+</td><td class="zentriert">10.03.1986 (39)</td><td class="zentriert"><img src="https://tmssl.akamaized.net//images/flagge/verysmall/50.png?lm=1520611569" title="Frankreich" alt="Frankreich" class="flaggenrahmen"></td><td class="zentriert"><img src="https://tmssl.akamaized.net//images/wappen/verysmall/123.png?lm=1456997286" title="Karriereende" alt="Karriereende" class=""></td><td class="zentriert">1,85m</td><td class="zentriert">rechts</td><td class="zentriert">01.07.2014</td><td class="zentriert"><a title="SG Dynamo Dresden: Ablöse ablösefrei" href="/sg-dynamo-dresden/startseite/verein/129/saison_id/2014"><img src="https://tmssl.akamaized.net//images/wappen/verysmall/129.png?lm=1403259018" title="SG Dynamo Dresden" alt="SG Dynamo Dresden" class=""></a></td><td class="rechts hauptlink"><a href="/anthony-losilla/marktwertverlauf/spieler/111266">500 Tsd. €</a></td></tr>
+<tr class="even">
+<td class="zentriert rueckennummer bg_Mittelfeld" title="Mittelfeld"><div class="rn_nummer">16</div></td><td class="posrela">
+<table class="inline-table">
+    <tbody><tr>
+        <td rowspan="2">
+            <img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/medium/744600-1713773332.jpg?lm=1" title="Niklas Jahn" alt="Niklas Jahn" class="bilderrahmen-fixed lazy lazy">        </td>
+        <td class="hauptlink">
+            <a href="/niklas-jahn/profil/spieler/744600">
+                Niklas Jahn            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Defensives Mittelfeld        </td>
+    </tr>
+</tbody></table>
+</td><td class="zentriert">26.07.2004 (20)</td><td class="zentriert"><img src="https://tmssl.akamaized.net//images/flagge/verysmall/40.png?lm=1520612525" title="Deutschland" alt="Deutschland" class="flaggenrahmen"></td><td class="zentriert"><a title="VfL Bochum II" href="/vfl-bochum-ii/startseite/verein/446"><img src="https://tmssl.akamaized.net//images/wappen/verysmall/446.png?lm=1685994440" title="VfL Bochum II" alt="VfL Bochum II" class=""></a></td><td class="zentriert">1,72m</td><td class="zentriert">rechts</td><td class="zentriert">01.07.2024</td><td class="zentriert"><a title="1.FC Nürnberg II: Ablöse ablösefrei" href="/1-fc-nurnberg-ii/startseite/verein/473/saison_id/2024"><img src="https://tmssl.akamaized.net//images/wappen/verysmall/473.png?lm=1525459914" title="1.FC Nürnberg II" alt="1.FC Nürnberg II" class=""></a></td><td class="rechts hauptlink"><a href="/niklas-jahn/marktwertverlauf/spieler/744600">200 Tsd. €</a></td></tr>
+<tr class="odd">
+<td class="zentriert rueckennummer bg_Mittelfeld" title="Mittelfeld"><div class="rn_nummer">19</div></td><td class="posrela">
+<table class="inline-table">
+    <tbody><tr>
+        <td rowspan="2">
+            <img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/medium/204047-1753298001.jpg?lm=1" title="Matus Bero" alt="Matus Bero" class="bilderrahmen-fixed lazy lazy">        </td>
+        <td class="hauptlink">
+            <a href="/matus-bero/profil/spieler/204047">
+                Matus Bero<span title="Mannschaftskapitän" class="kapitaenicon-table icons_sprite">&nbsp;</span><span title="Sprunggelenksprobleme - Rückkehr vsl. am 28.02.2026" class="verletzt-table icons_sprite">&nbsp;</span>            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Zentrales Mittelfeld        </td>
+    </tr>
+</tbody></table>
+</td><td class="zentriert">06.09.1995 (29)</td><td class="zentriert"><img src="https://tmssl.akamaized.net//images/flagge/verysmall/154.png?lm=1520611569" title="Slowakei" alt="Slowakei" class="flaggenrahmen"></td><td class="zentriert"><a title="VfL Bochum" href="/vfl-bochum/startseite/verein/80"><img src="https://tmssl.akamaized.net//images/wappen/verysmall/80.png?lm=1656583090" title="VfL Bochum" alt="VfL Bochum" class=""></a></td><td class="zentriert">1,81m</td><td class="zentriert">rechts</td><td class="zentriert">01.07.2023</td><td class="zentriert"><a title="Vitesse Arnheim: Ablöse ablösefrei" href="/vitesse-arnheim/startseite/verein/499/saison_id/2023"><img src="https://tmssl.akamaized.net//images/wappen/verysmall/499.png?lm=1679396090" title="Vitesse Arnheim" alt="Vitesse Arnheim" class=""></a></td><td class="rechts hauptlink"><a href="/matus-bero/marktwertverlauf/spieler/204047">3,00 Mio. €</a></td></tr>
+<tr class="even">
+<td class="zentriert rueckennummer bg_Mittelfeld" title="Mittelfeld"><div class="rn_nummer">24</div></td><td class="posrela">
+<table class="inline-table">
+    <tbody><tr>
+        <td rowspan="2">
+            <img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/medium/796221-1691249799.jpg?lm=1" title="Mats Pannewig" alt="Mats Pannewig" class="bilderrahmen-fixed lazy lazy">        </td>
+        <td class="hauptlink">
+            <a href="/mats-pannewig/profil/spieler/796221">
+                Mats Pannewig            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Zentrales Mittelfeld        </td>
+    </tr>
+</tbody></table>
+</td><td class="zentriert">28.10.2004 (20)</td><td class="zentriert"><img src="https://tmssl.akamaized.net//images/flagge/verysmall/40.png?lm=1520612525" title="Deutschland" alt="Deutschland" class="flaggenrahmen"></td><td class="zentriert"><a title="VfL Bochum" href="/vfl-bochum/startseite/verein/80"><img src="https://tmssl.akamaized.net//images/wappen/verysmall/80.png?lm=1656583090" title="VfL Bochum" alt="VfL Bochum" class=""></a></td><td class="zentriert">1,95m</td><td class="zentriert">&nbsp;</td><td class="zentriert">01.07.2023</td><td class="zentriert"><a title="VfL Bochum U19: Ablöse -" href="/vfl-bochum-u19/startseite/verein/3862/saison_id/2023"><img src="https://tmssl.akamaized.net//images/wappen/verysmall/3862.png?lm=1685994441" title="VfL Bochum U19" alt="VfL Bochum U19" class=""></a></td><td class="rechts hauptlink"><a href="/mats-pannewig/marktwertverlauf/spieler/796221">1,00 Mio. €</a></td></tr>
+<tr class="odd">
+<td class="zentriert rueckennummer bg_Mittelfeld" title="Mittelfeld"><div class="rn_nummer">-</div></td><td class="posrela"><span class="wechsel-kader-wappen hide-for-small"><a title="Rückkehr nach Leihe von: HNK Gorica; Datum: 30.06.2025; Ablöse: Leih-Ende" href="/hnk-gorica/startseite/verein/24575/saison_id/2024"><img src="https://tmssl.akamaized.net//images/wappen/kaderquad/24575.png?lm=1438118371" title="HNK Gorica" alt="HNK Gorica" class=""></a></span><a title="Rückkehr nach Leihe von: HNK Gorica; Datum: 30.06.2025; Ablöse: Leih-Ende" class="hide-for-small" href="/hnk-gorica/startseite/verein/24575/saison_id/2024"><img src="/images/icons/rueckkehr_beta_kader.png" class="wechsel-symbol" width="19px" height="19px"></a>
+<table class="inline-table">
+    <tbody><tr>
+        <td rowspan="2">
+            <img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/medium/505324-1759081811.jpg?lm=1" title="Agon Elezi" alt="Agon Elezi" class="bilderrahmen-fixed lazy lazy">        </td>
+        <td class="hauptlink">
+            <a href="/agon-elezi/profil/spieler/505324">
+                Agon Elezi            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Zentrales Mittelfeld        </td>
+    </tr>
+</tbody></table>
+</td><td class="zentriert">01.03.2001 (24)</td><td class="zentriert"><img src="https://tmssl.akamaized.net//images/flagge/verysmall/100.png?lm=1520611569" title="Nordmazedonien" alt="Nordmazedonien" class="flaggenrahmen"><br><img src="https://tmssl.akamaized.net//images/flagge/verysmall/3.png?lm=1520611569" title="Albanien" alt="Albanien" class="flaggenrahmen"></td><td class="zentriert"><a title="FK Sarajevo" href="/fk-sarajevo/startseite/verein/282"><img src="https://tmssl.akamaized.net//images/wappen/verysmall/282.png?lm=1454929485" title="FK Sarajevo" alt="FK Sarajevo" class=""></a></td><td class="zentriert">1,81m</td><td class="zentriert">rechts</td><td class="zentriert">30.01.2024</td><td class="zentriert"><a title="NK Varazdin: Ablöse ?" href="/nk-varazdin/startseite/verein/599/saison_id/2023"><img src="https://tmssl.akamaized.net//images/wappen/verysmall/599.png?lm=1613048309" title="NK Varazdin" alt="NK Varazdin" class=""></a></td><td class="rechts hauptlink"><a href="/agon-elezi/marktwertverlauf/spieler/505324">650 Tsd. €</a></td></tr>
+<tr class="even">
+<td class="zentriert rueckennummer bg_Mittelfeld" title="Mittelfeld"><div class="rn_nummer">23</div></td><td class="posrela">
+<table class="inline-table">
+    <tbody><tr>
+        <td rowspan="2">
+            <img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/medium/295060-1753298404.jpg?lm=1" title="Koji Miyoshi" alt="Koji Miyoshi" class="bilderrahmen-fixed lazy lazy">        </td>
+        <td class="hauptlink">
+            <a href="/koji-miyoshi/profil/spieler/295060">
+                Koji Miyoshi<span title="Gelbsperre – 2. Bundesliga – bis 23.02.2026" class="svg-icon"><svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+  <rect x="4" width="16" height="24" rx="2" fill="#EEE507"></rect>
+</svg></span>            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Rechtes Mittelfeld        </td>
+    </tr>
+</tbody></table>
+</td><td class="zentriert">26.03.1997 (28)</td><td class="zentriert"><img src="https://tmssl.akamaized.net//images/flagge/verysmall/77.png?lm=1520611569" title="Japan" alt="Japan" class="flaggenrahmen"></td><td class="zentriert"><a title="VfL Bochum" href="/vfl-bochum/startseite/verein/80"><img src="https://tmssl.akamaized.net//images/wappen/verysmall/80.png?lm=1656583090" title="VfL Bochum" alt="VfL Bochum" class=""></a></td><td class="zentriert">1,67m</td><td class="zentriert">links</td><td class="zentriert">30.08.2024</td><td class="zentriert"><a title="Birmingham City: Ablöse 400 Tsd. €" href="/birmingham-city/startseite/verein/337/saison_id/2024"><img src="https://tmssl.akamaized.net//images/wappen/verysmall/337.png?lm=1672321276" title="Birmingham City" alt="Birmingham City" class=""></a></td><td class="rechts hauptlink"><a href="/koji-miyoshi/marktwertverlauf/spieler/295060">1,50 Mio. €</a></td></tr>
+<tr class="odd">
+<td class="zentriert rueckennummer bg_Mittelfeld" title="Mittelfeld"><div class="rn_nummer">10</div></td><td class="posrela">
+<table class="inline-table">
+    <tbody><tr>
+        <td rowspan="2">
+            <img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/medium/340459-1753095664.jpg?lm=1" title="Dani de Wit" alt="Dani de Wit" class="bilderrahmen-fixed lazy lazy">        </td>
+        <td class="hauptlink">
+            <a href="/dani-de-wit/profil/spieler/340459">
+                Dani de Wit            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Offensives Mittelfeld        </td>
+    </tr>
+</tbody></table>
+</td><td class="zentriert">28.01.1998 (27)</td><td class="zentriert"><img src="https://tmssl.akamaized.net//images/flagge/verysmall/122.png?lm=1520611569" title="Niederlande" alt="Niederlande" class="flaggenrahmen"></td><td class="zentriert"><a title="FC Utrecht" href="/fc-utrecht/startseite/verein/200"><img src="https://tmssl.akamaized.net//images/wappen/verysmall/200.png?lm=1628450351" title="FC Utrecht" alt="FC Utrecht" class=""></a></td><td class="zentriert">1,84m</td><td class="zentriert">rechts</td><td class="zentriert">03.07.2024</td><td class="zentriert"><a title="AZ Alkmaar: Ablöse ablösefrei" href="/az-alkmaar/startseite/verein/1090/saison_id/2024"><img src="https://tmssl.akamaized.net//images/wappen/verysmall/1090.png?lm=1586848339" title="AZ Alkmaar" alt="AZ Alkmaar" class=""></a></td><td class="rechts hauptlink"><a href="/dani-de-wit/marktwertverlauf/spieler/340459">2,50 Mio. €</a></td></tr>
+<tr class="even">
+<td class="zentriert rueckennummer bg_Mittelfeld" title="Mittelfeld"><div class="rn_nummer">-</div></td><td class="posrela"><span class="wechsel-kader-wappen hide-for-small"><a title="Rückkehr nach Leihe von: Fortuna Düsseldorf; Datum: 30.06.2025; Ablöse: Leih-Ende" href="/fortuna-dusseldorf/startseite/verein/38/saison_id/2024"><img src="https://tmssl.akamaized.net//images/wappen/kaderquad/38.png?lm=1405514004" title="Fortuna Düsseldorf" alt="Fortuna Düsseldorf" class=""></a></span><a title="Rückkehr nach Leihe von: Fortuna Düsseldorf; Datum: 30.06.2025; Ablöse: Leih-Ende" class="hide-for-small" href="/fortuna-dusseldorf/startseite/verein/38/saison_id/2024"><img src="/images/icons/rueckkehr_beta_kader.png" class="wechsel-symbol" width="19px" height="19px"></a>
+<table class="inline-table">
+    <tbody><tr>
+        <td rowspan="2">
+            <img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/medium/316575-1691249734.jpg?lm=1" title="Moritz-Broni Kwarteng" alt="Moritz-Broni Kwarteng" class="bilderrahmen-fixed lazy lazy">        </td>
+        <td class="hauptlink">
+            <a href="/moritz-broni-kwarteng/profil/spieler/316575">
+                Moritz-Broni Kwarteng            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Offensives Mittelfeld        </td>
+    </tr>
+</tbody></table>
+</td><td class="zentriert">28.04.1998 (27)</td><td class="zentriert"><img src="https://tmssl.akamaized.net//images/flagge/verysmall/40.png?lm=1520612525" title="Deutschland" alt="Deutschland" class="flaggenrahmen"><br><img src="https://tmssl.akamaized.net//images/flagge/verysmall/54.png?lm=1520611569" title="Ghana" alt="Ghana" class="flaggenrahmen"></td><td class="zentriert"><a title="VfL Bochum" href="/vfl-bochum/startseite/verein/80"><img src="https://tmssl.akamaized.net//images/wappen/verysmall/80.png?lm=1656583090" title="VfL Bochum" alt="VfL Bochum" class=""></a></td><td class="zentriert">1,75m</td><td class="zentriert">beidfüßig</td><td class="zentriert">01.07.2023</td><td class="zentriert"><a title="1.FC Magdeburg: Ablöse 1,10 Mio. €" href="/1-fc-magdeburg/startseite/verein/187/saison_id/2023"><img src="https://tmssl.akamaized.net//images/wappen/verysmall/187.png?lm=1559905461" title="1.FC Magdeburg" alt="1.FC Magdeburg" class=""></a></td><td class="rechts hauptlink"><a href="/moritz-broni-kwarteng/marktwertverlauf/spieler/316575">1,00 Mio. €</a></td></tr>
+<tr class="odd">
+<td class="zentriert rueckennummer bg_Mittelfeld" title="Mittelfeld"><div class="rn_nummer">-</div></td><td class="posrela"><span class="wechsel-kader-wappen hide-for-small"><a title="Rückkehr nach Leihe von: FC St. Gallen 1879; Datum: 30.06.2025; Ablöse: Leih-Ende" href="/fc-st-gallen-1879/startseite/verein/257/saison_id/2024"><img src="https://tmssl.akamaized.net//images/wappen/kaderquad/257.png?lm=1692697904" title="FC St. Gallen 1879" alt="FC St. Gallen 1879" class=""></a></span><a title="Rückkehr nach Leihe von: FC St. Gallen 1879; Datum: 30.06.2025; Ablöse: Leih-Ende" class="hide-for-small" href="/fc-st-gallen-1879/startseite/verein/257/saison_id/2024"><img src="/images/icons/rueckkehr_beta_kader.png" class="wechsel-symbol" width="19px" height="19px"></a>
+<table class="inline-table">
+    <tbody><tr>
+        <td rowspan="2">
+            <img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/medium/334213-1755009710.png?lm=1" title="Lukas Daschner" alt="Lukas Daschner" class="bilderrahmen-fixed lazy lazy">        </td>
+        <td class="hauptlink">
+            <a href="/lukas-daschner/profil/spieler/334213">
+                Lukas Daschner            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Offensives Mittelfeld        </td>
+    </tr>
+</tbody></table>
+</td><td class="zentriert">01.10.1998 (26)</td><td class="zentriert"><img src="https://tmssl.akamaized.net//images/flagge/verysmall/40.png?lm=1520612525" title="Deutschland" alt="Deutschland" class="flaggenrahmen"></td><td class="zentriert"><a title="FC St. Gallen 1879" href="/fc-st-gallen-1879/startseite/verein/257"><img src="https://tmssl.akamaized.net//images/wappen/verysmall/257.png?lm=1692697904" title="FC St. Gallen 1879" alt="FC St. Gallen 1879" class=""></a></td><td class="zentriert">1,85m</td><td class="zentriert">beidfüßig</td><td class="zentriert">01.07.2023</td><td class="zentriert"><a title="FC St. Pauli: Ablöse ablösefrei" href="/fc-st-pauli/startseite/verein/35/saison_id/2023"><img src="https://tmssl.akamaized.net//images/wappen/verysmall/35.png?lm=1521036360" title="FC St. Pauli" alt="FC St. Pauli" class=""></a></td><td class="rechts hauptlink"><a href="/lukas-daschner/marktwertverlauf/spieler/334213">900 Tsd. €</a></td></tr>
+<tr class="even">
+<td class="zentriert rueckennummer bg_Mittelfeld" title="Mittelfeld"><div class="rn_nummer">28</div></td><td class="posrela">
+<table class="inline-table">
+    <tbody><tr>
+        <td rowspan="2">
+            <img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/medium/930008-1721851800.jpg?lm=1" title="Lennart Koerdt" alt="Lennart Koerdt" class="bilderrahmen-fixed lazy lazy">        </td>
+        <td class="hauptlink">
+            <a href="/lennart-koerdt/profil/spieler/930008">
+                Lennart Koerdt            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Offensives Mittelfeld        </td>
+    </tr>
+</tbody></table>
+</td><td class="zentriert">07.01.2005 (20)</td><td class="zentriert"><img src="https://tmssl.akamaized.net//images/flagge/verysmall/40.png?lm=1520612525" title="Deutschland" alt="Deutschland" class="flaggenrahmen"></td><td class="zentriert"><a title="VfL Bochum II" href="/vfl-bochum-ii/startseite/verein/446"><img src="https://tmssl.akamaized.net//images/wappen/verysmall/446.png?lm=1685994440" title="VfL Bochum II" alt="VfL Bochum II" class=""></a></td><td class="zentriert">1,87m</td><td class="zentriert">rechts</td><td class="zentriert">01.07.2024</td><td class="zentriert"><a title="VfL Bochum U19: Ablöse -" href="/vfl-bochum-u19/startseite/verein/3862/saison_id/2024"><img src="https://tmssl.akamaized.net//images/wappen/verysmall/3862.png?lm=1685994441" title="VfL Bochum U19" alt="VfL Bochum U19" class=""></a></td><td class="rechts hauptlink">-</td></tr>
+<tr class="odd">
+<td class="zentriert rueckennummer bg_Sturm" title="Sturm"><div class="rn_nummer">11</div></td><td class="posrela">
+<table class="inline-table">
+    <tbody><tr>
+        <td rowspan="2">
+            <img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/medium/329517-1718287090.jpg?lm=1" title="Georgios Masouras" alt="Georgios Masouras" class="bilderrahmen-fixed lazy lazy">        </td>
+        <td class="hauptlink">
+            <a href="/georgios-masouras/profil/spieler/329517">
+                Georgios Masouras            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Linksaußen        </td>
+    </tr>
+</tbody></table>
+</td><td class="zentriert">01.01.1994 (31)</td><td class="zentriert"><img src="https://tmssl.akamaized.net//images/flagge/verysmall/56.png?lm=1520611569" title="Griechenland" alt="Griechenland" class="flaggenrahmen"></td><td class="zentriert"><a title="Al-Khaleej FC" href="/al-khaleej/startseite/verein/6070"><img src="https://tmssl.akamaized.net//images/wappen/verysmall/6070.png?lm=1756255441" title="Al-Khaleej FC" alt="Al-Khaleej FC" class=""></a></td><td class="zentriert">1,84m</td><td class="zentriert">rechts</td><td class="zentriert">01.02.2025</td><td class="zentriert"><a title="Olympiakos Piräus: Ablöse ?" href="/olympiakos-piraus/startseite/verein/683/saison_id/2024"><img src="https://tmssl.akamaized.net//images/wappen/verysmall/683.png?lm=1717764764" title="Olympiakos Piräus" alt="Olympiakos Piräus" class=""></a></td><td class="rechts hauptlink"><a href="/georgios-masouras/marktwertverlauf/spieler/329517">2,00 Mio. €</a></td></tr>
+<tr class="even">
+<td class="zentriert rueckennummer bg_Sturm" title="Sturm"><div class="rn_nummer">-</div></td><td class="posrela">
+<table class="inline-table">
+    <tbody><tr>
+        <td rowspan="2">
+            <img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/medium/666977-1755009724.png?lm=1" title="Aliou Baldé" alt="Aliou Baldé" class="bilderrahmen-fixed lazy lazy">        </td>
+        <td class="hauptlink">
+            <a href="/aliou-balde/profil/spieler/666977">
+                Aliou Baldé            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Linksaußen        </td>
+    </tr>
+</tbody></table>
+</td><td class="zentriert">12.12.2002 (22)</td><td class="zentriert"><img src="https://tmssl.akamaized.net//images/flagge/verysmall/59.png?lm=1520611569" title="Guinea" alt="Guinea" class="flaggenrahmen"><br><img src="https://tmssl.akamaized.net//images/flagge/verysmall/149.png?lm=1520611569" title="Senegal" alt="Senegal" class="flaggenrahmen"></td><td class="zentriert"><a title="FC St. Gallen 1879" href="/fc-st-gallen-1879/startseite/verein/257"><img src="https://tmssl.akamaized.net//images/wappen/verysmall/257.png?lm=1692697904" title="FC St. Gallen 1879" alt="FC St. Gallen 1879" class=""></a></td><td class="zentriert">1,70m</td><td class="zentriert">rechts</td><td class="zentriert">10.08.2024</td><td class="zentriert"><a title="OGC Nizza: Ablöse ?" href="/ogc-nizza/startseite/verein/417/saison_id/2024"><img src="https://tmssl.akamaized.net//images/wappen/verysmall/417.png?lm=1408779490" title="OGC Nizza" alt="OGC Nizza" class=""></a></td><td class="rechts hauptlink"><a href="/aliou-balde/marktwertverlauf/spieler/666977">800 Tsd. €</a></td></tr>
+<tr class="odd">
+<td class="zentriert rueckennummer bg_Sturm" title="Sturm"><div class="rn_nummer">21</div></td><td class="posrela">
+<table class="inline-table">
+    <tbody><tr>
+        <td rowspan="2">
+            <img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/medium/190289-1721851662.jpg?lm=1" title="Gerrit Holtmann" alt="Gerrit Holtmann" class="bilderrahmen-fixed lazy lazy">        </td>
+        <td class="hauptlink">
+            <a href="/gerrit-holtmann/profil/spieler/190289">
+                Gerrit Holtmann            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Linksaußen        </td>
+    </tr>
+</tbody></table>
+</td><td class="zentriert">25.03.1995 (30)</td><td class="zentriert"><img src="https://tmssl.akamaized.net//images/flagge/verysmall/134.png?lm=1520611569" title="Philippinen" alt="Philippinen" class="flaggenrahmen"><br><img src="https://tmssl.akamaized.net//images/flagge/verysmall/40.png?lm=1520612525" title="Deutschland" alt="Deutschland" class="flaggenrahmen"></td><td class="zentriert"><a title="VfL Bochum" href="/vfl-bochum/startseite/verein/80"><img src="https://tmssl.akamaized.net//images/wappen/verysmall/80.png?lm=1656583090" title="VfL Bochum" alt="VfL Bochum" class=""></a></td><td class="zentriert">1,85m</td><td class="zentriert">links</td><td class="zentriert">24.08.2020</td><td class="zentriert"><a title="1.FSV Mainz 05: Ablöse ablösefrei" href="/1-fsv-mainz-05/startseite/verein/39/saison_id/2020"><img src="https://tmssl.akamaized.net//images/wappen/verysmall/39.png?lm=1564748880" title="1.FSV Mainz 05" alt="1.FSV Mainz 05" class=""></a></td><td class="rechts hauptlink"><a href="/gerrit-holtmann/marktwertverlauf/spieler/190289">700 Tsd. €</a></td></tr>
+<tr class="even">
+<td class="zentriert rueckennummer bg_Sturm" title="Sturm"><div class="rn_nummer">18</div></td><td class="posrela">
+<table class="inline-table">
+    <tbody><tr>
+        <td rowspan="2">
+            <img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/medium/684318-1721851536.jpg?lm=1" title="Samuel Bamba" alt="Samuel Bamba" class="bilderrahmen-fixed lazy lazy">        </td>
+        <td class="hauptlink">
+            <a href="/samuel-bamba/profil/spieler/684318">
+                Samuel Bamba            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Rechtsaußen        </td>
+    </tr>
+</tbody></table>
+</td><td class="zentriert">13.02.2004 (21)</td><td class="zentriert"><img src="https://tmssl.akamaized.net//images/flagge/verysmall/40.png?lm=1520612525" title="Deutschland" alt="Deutschland" class="flaggenrahmen"><br><img src="https://tmssl.akamaized.net//images/flagge/verysmall/193.png?lm=1520611569" title="DR Kongo" alt="DR Kongo" class="flaggenrahmen"></td><td class="zentriert"><a title="Willem II Tilburg" href="/willem-ii-tilburg/startseite/verein/403"><img src="https://tmssl.akamaized.net//images/wappen/verysmall/403.png?lm=1686931031" title="Willem II Tilburg" alt="Willem II Tilburg" class=""></a></td><td class="zentriert">1,79m</td><td class="zentriert">beidfüßig</td><td class="zentriert">01.07.2024</td><td class="zentriert"><a title="Borussia Dortmund II: Ablöse ablösefrei" href="/borussia-dortmund-ii/startseite/verein/17/saison_id/2024"><img src="https://tmssl.akamaized.net//images/wappen/verysmall/17.png?lm=1396275305" title="Borussia Dortmund II" alt="Borussia Dortmund II" class=""></a></td><td class="rechts hauptlink"><a href="/samuel-bamba/marktwertverlauf/spieler/684318">500 Tsd. €</a></td></tr>
+<tr class="odd">
+<td class="zentriert rueckennummer bg_Sturm" title="Sturm"><div class="rn_nummer">9</div></td><td class="posrela">
+<table class="inline-table">
+    <tbody><tr>
+        <td rowspan="2">
+            <img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/medium/412932-1666692057.jpg?lm=1" title="Myron Boadu" alt="Myron Boadu" class="bilderrahmen-fixed lazy lazy">        </td>
+        <td class="hauptlink">
+            <a href="/myron-boadu/profil/spieler/412932">
+                Myron Boadu            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Mittelstürmer        </td>
+    </tr>
+</tbody></table>
+</td><td class="zentriert">14.01.2001 (24)</td><td class="zentriert"><img src="https://tmssl.akamaized.net//images/flagge/verysmall/122.png?lm=1520611569" title="Niederlande" alt="Niederlande" class="flaggenrahmen"><br><img src="https://tmssl.akamaized.net//images/flagge/verysmall/54.png?lm=1520611569" title="Ghana" alt="Ghana" class="flaggenrahmen"></td><td class="zentriert"><a title="PSV Eindhoven" href="/psv-eindhoven/startseite/verein/383"><img src="https://tmssl.akamaized.net//images/wappen/verysmall/383.png?lm=1682925949" title="PSV Eindhoven" alt="PSV Eindhoven" class=""></a></td><td class="zentriert">1,83m</td><td class="zentriert">rechts</td><td class="zentriert">09.08.2024</td><td class="zentriert"><a title="AS Monaco: Ablöse ?" href="/as-monaco/startseite/verein/162/saison_id/2024"><img src="https://tmssl.akamaized.net//images/wappen/verysmall/162.png?lm=1654781919" title="AS Monaco" alt="AS Monaco" class=""></a></td><td class="rechts hauptlink"><a href="/myron-boadu/marktwertverlauf/spieler/412932">7,00 Mio. €</a></td></tr>
+<tr class="even">
+<td class="zentriert rueckennummer bg_Sturm" title="Sturm"><div class="rn_nummer">29</div></td><td class="posrela">
+<table class="inline-table">
+    <tbody><tr>
+        <td rowspan="2">
+            <img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/medium/406973-1691250658.jpg?lm=1" title="Moritz Broschinski" alt="Moritz Broschinski" class="bilderrahmen-fixed lazy lazy">        </td>
+        <td class="hauptlink">
+            <a href="/moritz-broschinski/profil/spieler/406973">
+                Moritz Broschinski            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Mittelstürmer        </td>
+    </tr>
+</tbody></table>
+</td><td class="zentriert">23.09.2000 (24)</td><td class="zentriert"><img src="https://tmssl.akamaized.net//images/flagge/verysmall/40.png?lm=1520612525" title="Deutschland" alt="Deutschland" class="flaggenrahmen"></td><td class="zentriert"><a title="FC Basel 1893" href="/fc-basel-1893/startseite/verein/26"><img src="https://tmssl.akamaized.net//images/wappen/verysmall/26.png?lm=1656417702" title="FC Basel 1893" alt="FC Basel 1893" class=""></a></td><td class="zentriert">1,90m</td><td class="zentriert">rechts</td><td class="zentriert">22.01.2023</td><td class="zentriert"><a title="Borussia Dortmund II: Ablöse 135 Tsd. €" href="/borussia-dortmund-ii/startseite/verein/17/saison_id/2022"><img src="https://tmssl.akamaized.net//images/wappen/verysmall/17.png?lm=1396275305" title="Borussia Dortmund II" alt="Borussia Dortmund II" class=""></a></td><td class="rechts hauptlink"><a href="/moritz-broschinski/marktwertverlauf/spieler/406973">2,00 Mio. €</a></td></tr>
+<tr class="odd">
+<td class="zentriert rueckennummer bg_Sturm" title="Sturm"><div class="rn_nummer">33</div></td><td class="posrela">
+<table class="inline-table">
+    <tbody><tr>
+        <td rowspan="2">
+            <img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/medium/119037-1753297934.jpg?lm=1" title="Philipp Hofmann" alt="Philipp Hofmann" class="bilderrahmen-fixed lazy lazy">        </td>
+        <td class="hauptlink">
+            <a href="/philipp-hofmann/profil/spieler/119037">
+                Philipp Hofmann            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Mittelstürmer        </td>
+    </tr>
+</tbody></table>
+</td><td class="zentriert">30.03.1993 (32)</td><td class="zentriert"><img src="https://tmssl.akamaized.net//images/flagge/verysmall/40.png?lm=1520612525" title="Deutschland" alt="Deutschland" class="flaggenrahmen"></td><td class="zentriert"><a title="VfL Bochum" href="/vfl-bochum/startseite/verein/80"><img src="https://tmssl.akamaized.net//images/wappen/verysmall/80.png?lm=1656583090" title="VfL Bochum" alt="VfL Bochum" class=""></a></td><td class="zentriert">1,95m</td><td class="zentriert">links</td><td class="zentriert">01.07.2022</td><td class="zentriert"><a title="Karlsruher SC: Ablöse ablösefrei" href="/karlsruher-sc/startseite/verein/48/saison_id/2022"><img src="https://tmssl.akamaized.net//images/wappen/verysmall/48.png?lm=1434793006" title="Karlsruher SC" alt="Karlsruher SC" class=""></a></td><td class="rechts hauptlink"><a href="/philipp-hofmann/marktwertverlauf/spieler/119037">1,00 Mio. €</a></td></tr>
+</tbody>

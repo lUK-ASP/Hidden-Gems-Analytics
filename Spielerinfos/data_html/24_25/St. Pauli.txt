@@ -1,0 +1,648 @@
+<tbody>
+<tr class="odd">
+<td class="zentriert rueckennummer bg_Torwart" title="Torwart"><div class="rn_nummer">22</div></td><td class="posrela">
+<table class="inline-table">
+    <tbody><tr>
+        <td rowspan="2">
+            <img src="https://img.a.transfermarkt.technology/portrait/medium/248454-1755032189.jpg?lm=1" data-src="https://img.a.transfermarkt.technology/portrait/medium/248454-1755032189.jpg?lm=1" title="Nikola Vasilj" alt="Nikola Vasilj" class="bilderrahmen-fixed lazy entered loaded" data-ll-status="loaded">        </td>
+        <td class="hauptlink">
+            <a href="/nikola-vasilj/profil/spieler/248454">
+                Nikola Vasilj            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Torwart        </td>
+    </tr>
+</tbody></table>
+</td><td class="zentriert">02.12.1995 (29)</td><td class="zentriert"><img src="https://tmssl.akamaized.net//images/flagge/verysmall/24.png?lm=1569523290" title="Bosnien-Herzegowina" alt="Bosnien-Herzegowina" class="flaggenrahmen"><br><img src="https://tmssl.akamaized.net//images/flagge/verysmall/37.png?lm=1520611569" title="Kroatien" alt="Kroatien" class="flaggenrahmen"></td><td class="zentriert"><a title="FC St. Pauli" href="/fc-st-pauli/startseite/verein/35"><img src="https://tmssl.akamaized.net//images/wappen/verysmall/35.png?lm=1521036360" title="FC St. Pauli" alt="FC St. Pauli" class=""></a></td><td class="zentriert">1,93m</td><td class="zentriert">rechts</td><td class="zentriert">01.07.2021</td><td class="zentriert"><a title="Zorya Lugansk: Ablöse ablösefrei" href="/zorya-lugansk/startseite/verein/10690/saison_id/2021"><img src="https://tmssl.akamaized.net//images/wappen/verysmall/10690_1677239716.png?lm=1677239717" title=": Ablöse ablösefrei" alt="Zorya Lugansk" class=""></a></td><td class="rechts hauptlink"><a href="/nikola-vasilj/marktwertverlauf/spieler/248454">3,50 Mio. €</a></td></tr>
+<tr class="even">
+<td class="zentriert rueckennummer bg_Torwart" title="Torwart"><div class="rn_nummer">1</div></td><td class="posrela">
+<table class="inline-table">
+    <tbody><tr>
+        <td rowspan="2">
+            <img src="https://img.a.transfermarkt.technology/portrait/medium/453742-1755032245.jpg?lm=1" data-src="https://img.a.transfermarkt.technology/portrait/medium/453742-1755032245.jpg?lm=1" title="Ben Voll" alt="Ben Voll" class="bilderrahmen-fixed lazy entered loaded" data-ll-status="loaded">        </td>
+        <td class="hauptlink">
+            <a href="/ben-voll/profil/spieler/453742">
+                Ben Voll            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Torwart        </td>
+    </tr>
+</tbody></table>
+</td><td class="zentriert">09.12.2000 (24)</td><td class="zentriert"><img src="https://tmssl.akamaized.net//images/flagge/verysmall/40.png?lm=1520612525" title="Deutschland" alt="Deutschland" class="flaggenrahmen"></td><td class="zentriert"><a title="FC St. Pauli" href="/fc-st-pauli/startseite/verein/35"><img src="https://tmssl.akamaized.net//images/wappen/verysmall/35.png?lm=1521036360" title="FC St. Pauli" alt="FC St. Pauli" class=""></a></td><td class="zentriert">1,95m</td><td class="zentriert">beidfüßig</td><td class="zentriert">01.07.2024</td><td class="zentriert"><a title="FC Viktoria Köln: Ablöse 100 Tsd. €" href="/fc-viktoria-koln/startseite/verein/1622/saison_id/2024"><img src="https://tmssl.akamaized.net//images/wappen/verysmall/1622.png?lm=1403603014" title="FC Viktoria Köln" alt="FC Viktoria Köln" class=""></a></td><td class="rechts hauptlink"><a href="/ben-voll/marktwertverlauf/spieler/453742">500 Tsd. €</a></td></tr>
+<tr class="odd">
+<td class="zentriert rueckennummer bg_Torwart" title="Torwart"><div class="rn_nummer">32</div></td><td class="posrela">
+<table class="inline-table">
+    <tbody><tr>
+        <td rowspan="2">
+            <img src="https://img.a.transfermarkt.technology/portrait/medium/152460-1629450680.jpg?lm=1" data-src="https://img.a.transfermarkt.technology/portrait/medium/152460-1629450680.jpg?lm=1" title="Eric Oelschlägel" alt="Eric Oelschlägel" class="bilderrahmen-fixed lazy entered loaded" data-ll-status="loaded">        </td>
+        <td class="hauptlink">
+            <a href="/eric-oelschlagel/profil/spieler/152460">
+                Eric Oelschlägel            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Torwart        </td>
+    </tr>
+</tbody></table>
+</td><td class="zentriert">20.09.1995 (29)</td><td class="zentriert"><img src="https://tmssl.akamaized.net//images/flagge/verysmall/40.png?lm=1520612525" title="Deutschland" alt="Deutschland" class="flaggenrahmen"></td><td class="zentriert"><a title="VereinslosVereinslos" href="/vereinslos/startseite/verein/515"><img src="https://tmssl.akamaized.net//images/wappen/verysmall/515.png?lm=1456997255" title="Vereinslos" alt="Vereinslos" class=""></a></td><td class="zentriert">1,93m</td><td class="zentriert">rechts</td><td class="zentriert">23.10.2024</td><td class="zentriert"><a title="Vereinslos: Ablöse -" href="/vereinslos/startseite/verein/515/saison_id/2024"><img src="https://tmssl.akamaized.net//images/wappen/verysmall/515.png?lm=1456997255" title="Vereinslos" alt="Vereinslos" class=""></a></td><td class="rechts hauptlink"><a href="/eric-oelschlagel/marktwertverlauf/spieler/152460">300 Tsd. €</a></td></tr>
+<tr class="even">
+<td class="zentriert rueckennummer bg_Torwart" title="Torwart"><div class="rn_nummer">30</div></td><td class="posrela">
+<table class="inline-table">
+    <tbody><tr>
+        <td rowspan="2">
+            <img src="https://img.a.transfermarkt.technology/portrait/medium/36898-1723630766.jpeg?lm=1" data-src="https://img.a.transfermarkt.technology/portrait/medium/36898-1723630766.jpeg?lm=1" title="Sascha Burchert" alt="Sascha Burchert" class="bilderrahmen-fixed lazy entered loaded" data-ll-status="loaded">        </td>
+        <td class="hauptlink">
+            <a href="/sascha-burchert/profil/spieler/36898">
+                Sascha Burchert            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Torwart        </td>
+    </tr>
+</tbody></table>
+</td><td class="zentriert">30.10.1989 (35)</td><td class="zentriert"><img src="https://tmssl.akamaized.net//images/flagge/verysmall/40.png?lm=1520612525" title="Deutschland" alt="Deutschland" class="flaggenrahmen"></td><td class="zentriert"><img src="https://tmssl.akamaized.net//images/wappen/verysmall/123.png?lm=1456997286" title="Karriereende" alt="Karriereende" class=""></td><td class="zentriert">1,87m</td><td class="zentriert">rechts</td><td class="zentriert">08.08.2022</td><td class="zentriert"><a title="SpVgg Greuther Fürth: Ablöse ablösefrei" href="/spvgg-greuther-furth/startseite/verein/65/saison_id/2022"><img src="https://tmssl.akamaized.net//images/wappen/verysmall/65.png?lm=1503682935" title="SpVgg Greuther Fürth" alt="SpVgg Greuther Fürth" class=""></a></td><td class="rechts hauptlink"><a href="/sascha-burchert/marktwertverlauf/spieler/36898">200 Tsd. €</a></td></tr>
+<tr class="odd">
+<td class="zentriert rueckennummer bg_Torwart" title="Torwart"><div class="rn_nummer">-</div></td><td class="posrela">
+<table class="inline-table">
+    <tbody><tr>
+        <td rowspan="2">
+            <img src="https://img.a.transfermarkt.technology/portrait/medium/915071-1729340270.jpg?lm=1" data-src="https://img.a.transfermarkt.technology/portrait/medium/915071-1729340270.jpg?lm=1" title="Ronny Seibt" alt="Ronny Seibt" class="bilderrahmen-fixed lazy entered loaded" data-ll-status="loaded">        </td>
+        <td class="hauptlink">
+            <a href="/ronny-seibt/profil/spieler/915071">
+                Ronny Seibt            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Torwart        </td>
+    </tr>
+</tbody></table>
+</td><td class="zentriert">10.07.2005 (19)</td><td class="zentriert"><img src="https://tmssl.akamaized.net//images/flagge/verysmall/40.png?lm=1520612525" title="Deutschland" alt="Deutschland" class="flaggenrahmen"></td><td class="zentriert"><a title="SC Weiche Flensburg 08" href="/sc-weiche-flensburg-08/startseite/verein/10284"><img src="https://tmssl.akamaized.net//images/wappen/verysmall/10284.png?lm=1503172009" title="SC Weiche Flensburg 08" alt="SC Weiche Flensburg 08" class=""></a></td><td class="zentriert">1,91m</td><td class="zentriert">rechts</td><td class="zentriert"></td><td class="zentriert">&nbsp;</td><td class="rechts hauptlink"><a href="/ronny-seibt/marktwertverlauf/spieler/915071">75 Tsd. €</a></td></tr>
+<tr class="even">
+<td class="zentriert rueckennummer bg_Torwart" title="Torwart"><div class="rn_nummer">28</div></td><td class="posrela">
+<table class="inline-table">
+    <tbody><tr>
+        <td rowspan="2">
+            <img src="https://img.a.transfermarkt.technology/portrait/medium/333074-1723630704.jpeg?lm=1" data-src="https://img.a.transfermarkt.technology/portrait/medium/333074-1723630704.jpeg?lm=1" title="Sören Ahlers" alt="Sören Ahlers" class="bilderrahmen-fixed lazy entered loaded" data-ll-status="loaded">        </td>
+        <td class="hauptlink">
+            <a href="/soren-ahlers/profil/spieler/333074">
+                Sören Ahlers            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Torwart        </td>
+    </tr>
+</tbody></table>
+</td><td class="zentriert">09.09.1997 (27)</td><td class="zentriert"><img src="https://tmssl.akamaized.net//images/flagge/verysmall/40.png?lm=1520612525" title="Deutschland" alt="Deutschland" class="flaggenrahmen"></td><td class="zentriert"><img src="https://tmssl.akamaized.net//images/wappen/verysmall/123.png?lm=1456997286" title="Karriereende" alt="Karriereende" class=""></td><td class="zentriert">1,94m</td><td class="zentriert">beidfüßig</td><td class="zentriert">31.08.2021</td><td class="zentriert"><a title="FC Schalke 04 II: Ablöse ablösefrei" href="/fc-schalke-04-ii/startseite/verein/34/saison_id/2021"><img src="https://tmssl.akamaized.net//images/wappen/verysmall/34.png?lm=1656580847" title="FC Schalke 04 II" alt="FC Schalke 04 II" class=""></a></td><td class="rechts hauptlink"><a href="/soren-ahlers/marktwertverlauf/spieler/333074">50 Tsd. €</a></td></tr>
+<tr class="odd">
+<td class="zentriert rueckennummer bg_Abwehr" title="Abwehr"><div class="rn_nummer">8</div></td><td class="posrela">
+<table class="inline-table">
+    <tbody><tr>
+        <td rowspan="2">
+            <img src="https://img.a.transfermarkt.technology/portrait/medium/292534-1755032356.jpg?lm=1" data-src="https://img.a.transfermarkt.technology/portrait/medium/292534-1755032356.jpg?lm=1" title="Eric Smith" alt="Eric Smith" class="bilderrahmen-fixed lazy entered loaded" data-ll-status="loaded">        </td>
+        <td class="hauptlink">
+            <a href="/eric-smith/profil/spieler/292534">
+                Eric Smith<span title="Fersenprobleme - Rückkehr unbekannt" class="verletzt-table icons_sprite">&nbsp;</span>            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Innenverteidiger        </td>
+    </tr>
+</tbody></table>
+</td><td class="zentriert">08.01.1997 (28)</td><td class="zentriert"><img src="https://tmssl.akamaized.net//images/flagge/verysmall/147.png?lm=1520611569" title="Schweden" alt="Schweden" class="flaggenrahmen"></td><td class="zentriert"><a title="FC St. Pauli" href="/fc-st-pauli/startseite/verein/35"><img src="https://tmssl.akamaized.net//images/wappen/verysmall/35.png?lm=1521036360" title="FC St. Pauli" alt="FC St. Pauli" class=""></a></td><td class="zentriert">1,92m</td><td class="zentriert">rechts</td><td class="zentriert">01.07.2021</td><td class="zentriert"><a title="KAA Gent: Ablöse 600 Tsd. €" href="/kaa-gent/startseite/verein/157/saison_id/2021"><img src="https://tmssl.akamaized.net//images/wappen/verysmall/157_1715694862.png?lm=1715694862" title=": Ablöse 600 Tsd. €" alt="KAA Gent" class=""></a></td><td class="rechts hauptlink"><a href="/eric-smith/marktwertverlauf/spieler/292534">5,00 Mio. €</a></td></tr>
+<tr class="even">
+<td class="zentriert rueckennummer bg_Abwehr" title="Abwehr"><div class="rn_nummer">4</div></td><td class="posrela">
+<table class="inline-table">
+    <tbody><tr>
+        <td rowspan="2">
+            <img src="https://img.a.transfermarkt.technology/portrait/medium/451906-1755032414.jpg?lm=1" data-src="https://img.a.transfermarkt.technology/portrait/medium/451906-1755032414.jpg?lm=1" title="David Nemeth" alt="David Nemeth" class="bilderrahmen-fixed lazy entered loaded" data-ll-status="loaded">        </td>
+        <td class="hauptlink">
+            <a href="/david-nemeth/profil/spieler/451906">
+                David Nemeth<span title="muskuläre Probleme - Rückkehr unbekannt" class="verletzt-table icons_sprite">&nbsp;</span>            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Innenverteidiger        </td>
+    </tr>
+</tbody></table>
+</td><td class="zentriert">18.03.2001 (24)</td><td class="zentriert"><img src="https://tmssl.akamaized.net//images/flagge/verysmall/127.png?lm=1520611569" title="Österreich" alt="Österreich" class="flaggenrahmen"></td><td class="zentriert"><a title="FC St. Pauli" href="/fc-st-pauli/startseite/verein/35"><img src="https://tmssl.akamaized.net//images/wappen/verysmall/35.png?lm=1521036360" title="FC St. Pauli" alt="FC St. Pauli" class=""></a></td><td class="zentriert">1,91m</td><td class="zentriert">beidfüßig</td><td class="zentriert">01.07.2022</td><td class="zentriert"><a title="1.FSV Mainz 05: Ablöse 1,30 Mio. €" href="/1-fsv-mainz-05/startseite/verein/39/saison_id/2022"><img src="https://tmssl.akamaized.net//images/wappen/verysmall/39.png?lm=1564748880" title="1.FSV Mainz 05" alt="1.FSV Mainz 05" class=""></a></td><td class="rechts hauptlink"><a href="/david-nemeth/marktwertverlauf/spieler/451906">4,00 Mio. €</a></td></tr>
+<tr class="odd">
+<td class="zentriert rueckennummer bg_Abwehr" title="Abwehr"><div class="rn_nummer">44</div></td><td class="posrela">
+<table class="inline-table">
+    <tbody><tr>
+        <td rowspan="2">
+            <img src="https://img.a.transfermarkt.technology/portrait/medium/400131-1642262598.jpg?lm=1" data-src="https://img.a.transfermarkt.technology/portrait/medium/400131-1642262598.jpg?lm=1" title="Siebe Van der Heyden" alt="Siebe Van der Heyden" class="bilderrahmen-fixed lazy entered loaded" data-ll-status="loaded">        </td>
+        <td class="hauptlink">
+            <a href="/siebe-van-der-heyden/profil/spieler/400131">
+                Siebe Van der Heyden            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Innenverteidiger        </td>
+    </tr>
+</tbody></table>
+</td><td class="zentriert">30.05.1998 (27)</td><td class="zentriert"><img src="https://tmssl.akamaized.net//images/flagge/verysmall/19.png?lm=1520611569" title="Belgien" alt="Belgien" class="flaggenrahmen"></td><td class="zentriert"><a title="KAA Gent" href="/kaa-gent/startseite/verein/157"><img src="https://tmssl.akamaized.net//images/wappen/verysmall/157.png?lm=1715694765" title="KAA Gent" alt="KAA Gent" class=""></a></td><td class="zentriert">1,85m</td><td class="zentriert">links</td><td class="zentriert">30.01.2025</td><td class="zentriert"><a title="RCD Mallorca: Ablöse ?" href="/rcd-mallorca/startseite/verein/237/saison_id/2024"><img src="https://tmssl.akamaized.net//images/wappen/verysmall/237.png?lm=1407484750" title="RCD Mallorca" alt="RCD Mallorca" class=""></a></td><td class="rechts hauptlink"><a href="/siebe-van-der-heyden/marktwertverlauf/spieler/400131">2,50 Mio. €</a></td></tr>
+<tr class="even">
+<td class="zentriert rueckennummer bg_Abwehr" title="Abwehr"><div class="rn_nummer">5</div></td><td class="posrela">
+<table class="inline-table">
+    <tbody><tr>
+        <td rowspan="2">
+            <img src="https://img.a.transfermarkt.technology/portrait/medium/154147-1755032459.jpg?lm=1" data-src="https://img.a.transfermarkt.technology/portrait/medium/154147-1755032459.jpg?lm=1" title="Hauke Wahl" alt="Hauke Wahl" class="bilderrahmen-fixed lazy entered loaded" data-ll-status="loaded">        </td>
+        <td class="hauptlink">
+            <a href="/hauke-wahl/profil/spieler/154147">
+                Hauke Wahl<span title="Innenbandzerrung  - Rückkehr unbekannt" class="verletzt-table icons_sprite">&nbsp;</span>            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Innenverteidiger        </td>
+    </tr>
+</tbody></table>
+</td><td class="zentriert">15.04.1994 (31)</td><td class="zentriert"><img src="https://tmssl.akamaized.net//images/flagge/verysmall/40.png?lm=1520612525" title="Deutschland" alt="Deutschland" class="flaggenrahmen"></td><td class="zentriert"><a title="FC St. Pauli" href="/fc-st-pauli/startseite/verein/35"><img src="https://tmssl.akamaized.net//images/wappen/verysmall/35.png?lm=1521036360" title="FC St. Pauli" alt="FC St. Pauli" class=""></a></td><td class="zentriert">1,89m</td><td class="zentriert">rechts</td><td class="zentriert">01.07.2023</td><td class="zentriert"><a title="Holstein Kiel: Ablöse ablösefrei" href="/holstein-kiel/startseite/verein/269/saison_id/2023"><img src="https://tmssl.akamaized.net//images/wappen/verysmall/269.png?lm=1740400529" title="Holstein Kiel" alt="Holstein Kiel" class=""></a></td><td class="rechts hauptlink"><a href="/hauke-wahl/marktwertverlauf/spieler/154147">1,50 Mio. €</a></td></tr>
+<tr class="odd">
+<td class="zentriert rueckennummer bg_Abwehr" title="Abwehr"><div class="rn_nummer">3</div></td><td class="posrela">
+<table class="inline-table">
+    <tbody><tr>
+        <td rowspan="2">
+            <img src="https://img.a.transfermarkt.technology/portrait/medium/139304-1755032511.jpg?lm=1" data-src="https://img.a.transfermarkt.technology/portrait/medium/139304-1755032511.jpg?lm=1" title="Karol Mets" alt="Karol Mets" class="bilderrahmen-fixed lazy entered loaded" data-ll-status="loaded">        </td>
+        <td class="hauptlink">
+            <a href="/karol-mets/profil/spieler/139304">
+                Karol Mets            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Innenverteidiger        </td>
+    </tr>
+</tbody></table>
+</td><td class="zentriert">16.05.1993 (32)</td><td class="zentriert"><img src="https://tmssl.akamaized.net//images/flagge/verysmall/47.png?lm=1520611569" title="Estland" alt="Estland" class="flaggenrahmen"></td><td class="zentriert"><a title="FC St. Pauli" href="/fc-st-pauli/startseite/verein/35"><img src="https://tmssl.akamaized.net//images/wappen/verysmall/35.png?lm=1521036360" title="FC St. Pauli" alt="FC St. Pauli" class=""></a></td><td class="zentriert">1,91m</td><td class="zentriert">links</td><td class="zentriert">01.07.2023</td><td class="zentriert"><a title="FC Zürich: Ablöse 450 Tsd. €" href="/fc-zurich/startseite/verein/260/saison_id/2023"><img src="https://tmssl.akamaized.net//images/wappen/verysmall/260.png?lm=1688506599" title="FC Zürich" alt="FC Zürich" class=""></a></td><td class="rechts hauptlink"><a href="/karol-mets/marktwertverlauf/spieler/139304">1,30 Mio. €</a></td></tr>
+<tr class="even">
+<td class="zentriert rueckennummer bg_Abwehr" title="Abwehr"><div class="rn_nummer">25</div></td><td class="posrela">
+<table class="inline-table">
+    <tbody><tr>
+        <td rowspan="2">
+            <img src="https://img.a.transfermarkt.technology/portrait/medium/236966-1755032561.jpg?lm=1" data-src="https://img.a.transfermarkt.technology/portrait/medium/236966-1755032561.jpg?lm=1" title="Adam Dzwigala" alt="Adam Dzwigala" class="bilderrahmen-fixed lazy entered loaded" data-ll-status="loaded">        </td>
+        <td class="hauptlink">
+            <a href="/adam-dzwigala/profil/spieler/236966">
+                Adam Dzwigala            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Innenverteidiger        </td>
+    </tr>
+</tbody></table>
+</td><td class="zentriert">25.09.1995 (29)</td><td class="zentriert"><img src="https://tmssl.akamaized.net//images/flagge/verysmall/135.png?lm=1520611569" title="Polen" alt="Polen" class="flaggenrahmen"></td><td class="zentriert"><a title="FC St. Pauli" href="/fc-st-pauli/startseite/verein/35"><img src="https://tmssl.akamaized.net//images/wappen/verysmall/35.png?lm=1521036360" title="FC St. Pauli" alt="FC St. Pauli" class=""></a></td><td class="zentriert">1,85m</td><td class="zentriert">rechts</td><td class="zentriert">17.12.2020</td><td class="zentriert"><a title="Vereinslos: Ablöse -" href="/vereinslos/startseite/verein/515/saison_id/2020"><img src="https://tmssl.akamaized.net//images/wappen/verysmall/515.png?lm=1456997255" title="Vereinslos" alt="Vereinslos" class=""></a></td><td class="rechts hauptlink"><a href="/adam-dzwigala/marktwertverlauf/spieler/236966">600 Tsd. €</a></td></tr>
+<tr class="odd">
+<td class="zentriert rueckennummer bg_Abwehr" title="Abwehr"><div class="rn_nummer">-</div></td><td class="posrela">
+<table class="inline-table">
+    <tbody><tr>
+        <td rowspan="2">
+            <img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/medium/default.jpg?lm=1" title="Emil Staugaard" alt="Emil Staugaard" class="bilderrahmen-fixed lazy lazy">        </td>
+        <td class="hauptlink">
+            <a href="/emil-staugaard/profil/spieler/541595">
+                Emil Staugaard<span title="Kreuzbandoperation - Rückkehr vsl. am 01.08.2026" class="verletzt-table icons_sprite">&nbsp;</span>            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Innenverteidiger        </td>
+    </tr>
+</tbody></table>
+</td><td class="zentriert">20.09.2001 (23)</td><td class="zentriert"><img src="https://tmssl.akamaized.net//images/flagge/verysmall/39.png?lm=1520611569" title="Dänemark" alt="Dänemark" class="flaggenrahmen"></td><td class="zentriert"><a title="VereinslosVereinslos" href="/vereinslos/startseite/verein/515"><img src="https://tmssl.akamaized.net//images/wappen/verysmall/515.png?lm=1456997255" title="Vereinslos" alt="Vereinslos" class=""></a></td><td class="zentriert">1,92m</td><td class="zentriert">links</td><td class="zentriert"></td><td class="zentriert">&nbsp;</td><td class="rechts hauptlink"><a href="/emil-staugaard/marktwertverlauf/spieler/541595">125 Tsd. €</a></td></tr>
+<tr class="even">
+<td class="zentriert rueckennummer bg_Abwehr" title="Abwehr"><div class="rn_nummer">34</div></td><td class="posrela">
+<table class="inline-table">
+    <tbody><tr>
+        <td rowspan="2">
+            <img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/medium/914890-1723631671.jpeg?lm=1" title="Muhammad Dahaba" alt="Muhammad Dahaba" class="bilderrahmen-fixed lazy lazy">        </td>
+        <td class="hauptlink">
+            <a href="/muhammad-dahaba/profil/spieler/914890">
+                Muhammad Dahaba            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Innenverteidiger        </td>
+    </tr>
+</tbody></table>
+</td><td class="zentriert">07.03.2005 (20)</td><td class="zentriert"><img src="https://tmssl.akamaized.net//images/flagge/verysmall/40.png?lm=1520612525" title="Deutschland" alt="Deutschland" class="flaggenrahmen"></td><td class="zentriert"><a title="FC St. Pauli II" href="/fc-st-pauli-ii/startseite/verein/225"><img src="https://tmssl.akamaized.net//images/wappen/verysmall/225.png?lm=1584293225" title="FC St. Pauli II" alt="FC St. Pauli II" class=""></a></td><td class="zentriert">1,94m</td><td class="zentriert">rechts</td><td class="zentriert">01.07.2024</td><td class="zentriert"><a title="FC St. Pauli II: Ablöse -" href="/fc-st-pauli-ii/startseite/verein/225/saison_id/2024"><img src="https://tmssl.akamaized.net//images/wappen/verysmall/225.png?lm=1584293225" title="FC St. Pauli II" alt="FC St. Pauli II" class=""></a></td><td class="rechts hauptlink"><a href="/muhammad-dahaba/marktwertverlauf/spieler/914890">125 Tsd. €</a></td></tr>
+<tr class="odd">
+<td class="zentriert rueckennummer bg_Abwehr" title="Abwehr"><div class="rn_nummer">21</div></td><td class="posrela">
+<table class="inline-table">
+    <tbody><tr>
+        <td rowspan="2">
+            <img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/medium/333903-1755032658.jpg?lm=1" title="Lars Ritzka" alt="Lars Ritzka" class="bilderrahmen-fixed lazy lazy">        </td>
+        <td class="hauptlink">
+            <a href="/lars-ritzka/profil/spieler/333903">
+                Lars Ritzka            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Linker Verteidiger        </td>
+    </tr>
+</tbody></table>
+</td><td class="zentriert">07.05.1998 (27)</td><td class="zentriert"><img src="https://tmssl.akamaized.net//images/flagge/verysmall/40.png?lm=1520612525" title="Deutschland" alt="Deutschland" class="flaggenrahmen"></td><td class="zentriert"><a title="FC St. Pauli" href="/fc-st-pauli/startseite/verein/35"><img src="https://tmssl.akamaized.net//images/wappen/verysmall/35.png?lm=1521036360" title="FC St. Pauli" alt="FC St. Pauli" class=""></a></td><td class="zentriert">1,85m</td><td class="zentriert">links</td><td class="zentriert">01.07.2021</td><td class="zentriert"><a title="SC Verl: Ablöse ablösefrei" href="/sc-verl/startseite/verein/93/saison_id/2021"><img src="https://tmssl.akamaized.net//images/wappen/verysmall/93.png?lm=1448037853" title="SC Verl" alt="SC Verl" class=""></a></td><td class="rechts hauptlink"><a href="/lars-ritzka/marktwertverlauf/spieler/333903">1,00 Mio. €</a></td></tr>
+<tr class="even">
+<td class="zentriert rueckennummer bg_Abwehr" title="Abwehr"><div class="rn_nummer">-</div></td><td class="posrela">
+<table class="inline-table">
+    <tbody><tr>
+        <td rowspan="2">
+            <img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/medium/1137980-1758891399.jpg?lm=1" title="Julien Yanda" alt="Julien Yanda" class="bilderrahmen-fixed lazy lazy">        </td>
+        <td class="hauptlink">
+            <a href="/julien-yanda/profil/spieler/1137980">
+                Julien Yanda            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Linker Verteidiger        </td>
+    </tr>
+</tbody></table>
+</td><td class="zentriert">22.08.2007 (17)</td><td class="zentriert"><img src="https://tmssl.akamaized.net//images/flagge/verysmall/40.png?lm=1520612525" title="Deutschland" alt="Deutschland" class="flaggenrahmen"></td><td class="zentriert"><a title="FC Bayern München II" href="/fc-bayern-munchen-ii/startseite/verein/28"><img src="https://tmssl.akamaized.net//images/wappen/verysmall/28.png?lm=1729503608" title="FC Bayern München II" alt="FC Bayern München II" class=""></a></td><td class="zentriert">1,83m</td><td class="zentriert">links</td><td class="zentriert"></td><td class="zentriert">&nbsp;</td><td class="rechts hauptlink"><a href="/julien-yanda/marktwertverlauf/spieler/1137980">250 Tsd. €</a></td></tr>
+<tr class="odd">
+<td class="zentriert rueckennummer bg_Abwehr" title="Abwehr"><div class="rn_nummer">23</div></td><td class="posrela">
+<table class="inline-table">
+    <tbody><tr>
+        <td rowspan="2">
+            <img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/medium/335993-1753984451.jpg?lm=1" title="Philipp Treu" alt="Philipp Treu" class="bilderrahmen-fixed lazy lazy">        </td>
+        <td class="hauptlink">
+            <a href="/philipp-treu/profil/spieler/335993">
+                Philipp Treu            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Rechter Verteidiger        </td>
+    </tr>
+</tbody></table>
+</td><td class="zentriert">03.12.2000 (24)</td><td class="zentriert"><img src="https://tmssl.akamaized.net//images/flagge/verysmall/40.png?lm=1520612525" title="Deutschland" alt="Deutschland" class="flaggenrahmen"></td><td class="zentriert"><a title="SC Freiburg" href="/sc-freiburg/startseite/verein/60"><img src="https://tmssl.akamaized.net//images/wappen/verysmall/60.png?lm=1517249279" title="SC Freiburg" alt="SC Freiburg" class=""></a></td><td class="zentriert">1,73m</td><td class="zentriert">rechts</td><td class="zentriert">01.07.2023</td><td class="zentriert"><a title="SC Freiburg II: Ablöse 500 Tsd. €" href="/sc-freiburg-ii/startseite/verein/245/saison_id/2023"><img src="https://tmssl.akamaized.net//images/wappen/verysmall/245.png?lm=1594709898" title="SC Freiburg II" alt="SC Freiburg II" class=""></a></td><td class="rechts hauptlink"><a href="/philipp-treu/marktwertverlauf/spieler/335993">5,00 Mio. €</a></td></tr>
+<tr class="even">
+<td class="zentriert rueckennummer bg_Abwehr" title="Abwehr"><div class="rn_nummer">2</div></td><td class="posrela">
+<table class="inline-table">
+    <tbody><tr>
+        <td rowspan="2">
+            <img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/medium/242661-1755032759.jpg?lm=1" title="Manolis Saliakas" alt="Manolis Saliakas" class="bilderrahmen-fixed lazy lazy">        </td>
+        <td class="hauptlink">
+            <a href="/manolis-saliakas/profil/spieler/242661">
+                Manolis Saliakas            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Rechter Verteidiger        </td>
+    </tr>
+</tbody></table>
+</td><td class="zentriert">12.09.1996 (28)</td><td class="zentriert"><img src="https://tmssl.akamaized.net//images/flagge/verysmall/56.png?lm=1520611569" title="Griechenland" alt="Griechenland" class="flaggenrahmen"></td><td class="zentriert"><a title="FC St. Pauli" href="/fc-st-pauli/startseite/verein/35"><img src="https://tmssl.akamaized.net//images/wappen/verysmall/35.png?lm=1521036360" title="FC St. Pauli" alt="FC St. Pauli" class=""></a></td><td class="zentriert">1,77m</td><td class="zentriert">rechts</td><td class="zentriert">01.07.2022</td><td class="zentriert"><a title="PAS Giannina: Ablöse ablösefrei" href="/pas-giannina/startseite/verein/2671/saison_id/2022"><img src="https://tmssl.akamaized.net//images/wappen/verysmall/2671.png?lm=1623427611" title="PAS Giannina" alt="PAS Giannina" class=""></a></td><td class="rechts hauptlink"><a href="/manolis-saliakas/marktwertverlauf/spieler/242661">3,00 Mio. €</a></td></tr>
+<tr class="odd">
+<td class="zentriert rueckennummer bg_Abwehr" title="Abwehr"><div class="rn_nummer">14</div></td><td class="posrela">
+<table class="inline-table">
+    <tbody><tr>
+        <td rowspan="2">
+            <img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/medium/587019-1755032806.jpg?lm=1" title="Fin Stevens" alt="Fin Stevens" class="bilderrahmen-fixed lazy lazy">        </td>
+        <td class="hauptlink">
+            <a href="/fin-stevens/profil/spieler/587019">
+                Fin Stevens            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Rechter Verteidiger        </td>
+    </tr>
+</tbody></table>
+</td><td class="zentriert">10.04.2003 (22)</td><td class="zentriert"><img src="https://tmssl.akamaized.net//images/flagge/verysmall/191.png?lm=1520611569" title="Wales" alt="Wales" class="flaggenrahmen"><br><img src="https://tmssl.akamaized.net//images/flagge/verysmall/189.png?lm=1520611569" title="England" alt="England" class="flaggenrahmen"></td><td class="zentriert"><a title="FC St. Pauli" href="/fc-st-pauli/startseite/verein/35"><img src="https://tmssl.akamaized.net//images/wappen/verysmall/35.png?lm=1521036360" title="FC St. Pauli" alt="FC St. Pauli" class=""></a></td><td class="zentriert">1,79m</td><td class="zentriert">rechts</td><td class="zentriert">26.07.2024</td><td class="zentriert"><a title="FC Brentford: Ablöse 600 Tsd. €" href="/fc-brentford/startseite/verein/1148/saison_id/2024"><img src="https://tmssl.akamaized.net//images/wappen/verysmall/1148.png?lm=1625150543" title="FC Brentford" alt="FC Brentford" class=""></a></td><td class="rechts hauptlink"><a href="/fin-stevens/marktwertverlauf/spieler/587019">500 Tsd. €</a></td></tr>
+<tr class="even">
+<td class="zentriert rueckennummer bg_Mittelfeld" title="Mittelfeld"><div class="rn_nummer">6</div></td><td class="posrela"><span class="wechsel-kader-wappen hide-for-small"><a title="Leihspieler von: New York City FC; Rückkehr: 30.06.2026" href="/new-york-city-fc/kadernaechstesaison/verein/40058/saison_id/2025"><img src="https://tmssl.akamaized.net//images/wappen/kaderquad/40058.png?lm=1726077065" title="New York City FC" alt="New York City FC" class=""></a></span><a title="Leihspieler von: New York City FC; Rückkehr: 30.06.2026" class="hide-for-small" href="/new-york-city-fc/kadernaechstesaison/verein/40058/saison_id/2025"><img src="/images/icons/leihe_beta_kader.png" width="19px" height="19px" class="wechsel-symbol"></a>
+<table class="inline-table">
+    <tbody><tr>
+        <td rowspan="2">
+            <img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/medium/393321-1755032856.jpg?lm=1" title="James Sands" alt="James Sands" class="bilderrahmen-fixed lazy lazy">        </td>
+        <td class="hauptlink">
+            <a href="/james-sands/profil/spieler/393321">
+                James Sands            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Defensives Mittelfeld        </td>
+    </tr>
+</tbody></table>
+</td><td class="zentriert">06.07.2000 (24)</td><td class="zentriert"><img src="https://tmssl.akamaized.net//images/flagge/verysmall/184.png?lm=1520611569" title="Vereinigte Staaten" alt="Vereinigte Staaten" class="flaggenrahmen"></td><td class="zentriert"><a title="FC St. Pauli" href="/fc-st-pauli/startseite/verein/35"><img src="https://tmssl.akamaized.net//images/wappen/verysmall/35.png?lm=1521036360" title="FC St. Pauli" alt="FC St. Pauli" class=""></a></td><td class="zentriert">1,86m</td><td class="zentriert">rechts</td><td class="zentriert">01.01.2025</td><td class="zentriert"><a title="New York City FC: Ablöse ?" href="/new-york-city-fc/startseite/verein/40058/saison_id/2024"><img src="https://tmssl.akamaized.net//images/wappen/verysmall/40058.png?lm=1726077065" title="New York City FC" alt="New York City FC" class=""></a></td><td class="rechts hauptlink"><a href="/james-sands/marktwertverlauf/spieler/393321">3,00 Mio. €</a></td></tr>
+<tr class="odd">
+<td class="zentriert rueckennummer bg_Mittelfeld" title="Mittelfeld"><div class="rn_nummer">42</div></td><td class="posrela">
+<table class="inline-table">
+    <tbody><tr>
+        <td rowspan="2">
+            <img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/medium/1003534-1755032903.jpg?lm=1" title="Marwin Schmitz" alt="Marwin Schmitz" class="bilderrahmen-fixed lazy lazy">        </td>
+        <td class="hauptlink">
+            <a href="/marwin-schmitz/profil/spieler/1003534">
+                Marwin Schmitz            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Defensives Mittelfeld        </td>
+    </tr>
+</tbody></table>
+</td><td class="zentriert">07.01.2007 (18)</td><td class="zentriert"><img src="https://tmssl.akamaized.net//images/flagge/verysmall/40.png?lm=1520612525" title="Deutschland" alt="Deutschland" class="flaggenrahmen"></td><td class="zentriert"><a title="FC St. Pauli" href="/fc-st-pauli/startseite/verein/35"><img src="https://tmssl.akamaized.net//images/wappen/verysmall/35.png?lm=1521036360" title="FC St. Pauli" alt="FC St. Pauli" class=""></a></td><td class="zentriert">1,80m</td><td class="zentriert">rechts</td><td class="zentriert">16.01.2025</td><td class="zentriert"><a title="FC St. Pauli II: Ablöse -" href="/fc-st-pauli-ii/startseite/verein/225/saison_id/2024"><img src="https://tmssl.akamaized.net//images/wappen/verysmall/225.png?lm=1584293225" title="FC St. Pauli II" alt="FC St. Pauli II" class=""></a></td><td class="rechts hauptlink"><a href="/marwin-schmitz/marktwertverlauf/spieler/1003534">200 Tsd. €</a></td></tr>
+<tr class="even">
+<td class="zentriert rueckennummer bg_Mittelfeld" title="Mittelfeld"><div class="rn_nummer">39</div></td><td class="posrela">
+<table class="inline-table">
+    <tbody><tr>
+        <td rowspan="2">
+            <img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/medium/690429-1756808998.jpg?lm=1" title="Robert Wagner" alt="Robert Wagner" class="bilderrahmen-fixed lazy lazy">        </td>
+        <td class="hauptlink">
+            <a href="/robert-wagner/profil/spieler/690429">
+                Robert Wagner            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Zentrales Mittelfeld        </td>
+    </tr>
+</tbody></table>
+</td><td class="zentriert">14.07.2003 (21)</td><td class="zentriert"><img src="https://tmssl.akamaized.net//images/flagge/verysmall/40.png?lm=1520612525" title="Deutschland" alt="Deutschland" class="flaggenrahmen"></td><td class="zentriert"><a title="SG Dynamo Dresden" href="/sg-dynamo-dresden/startseite/verein/129"><img src="https://tmssl.akamaized.net//images/wappen/verysmall/129.png?lm=1403259018" title="SG Dynamo Dresden" alt="SG Dynamo Dresden" class=""></a></td><td class="zentriert">1,81m</td><td class="zentriert">rechts</td><td class="zentriert">01.07.2024</td><td class="zentriert"><a title="SC Freiburg: Ablöse 200 Tsd. €" href="/sc-freiburg/startseite/verein/60/saison_id/2024"><img src="https://tmssl.akamaized.net//images/wappen/verysmall/60.png?lm=1517249279" title="SC Freiburg" alt="SC Freiburg" class=""></a></td><td class="rechts hauptlink"><a href="/robert-wagner/marktwertverlauf/spieler/690429">3,00 Mio. €</a></td></tr>
+<tr class="odd">
+<td class="zentriert rueckennummer bg_Mittelfeld" title="Mittelfeld"><div class="rn_nummer">24</div></td><td class="posrela">
+<table class="inline-table">
+    <tbody><tr>
+        <td rowspan="2">
+            <img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/medium/522223-1755033011.jpg?lm=1" title="Connor Metcalfe" alt="Connor Metcalfe" class="bilderrahmen-fixed lazy lazy">        </td>
+        <td class="hauptlink">
+            <a href="/connor-metcalfe/profil/spieler/522223">
+                Connor Metcalfe<span title="Knieprobleme - Rückkehr unbekannt" class="verletzt-table icons_sprite">&nbsp;</span>            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Zentrales Mittelfeld        </td>
+    </tr>
+</tbody></table>
+</td><td class="zentriert">05.11.1999 (25)</td><td class="zentriert"><img src="https://tmssl.akamaized.net//images/flagge/verysmall/12.png?lm=1520611569" title="Australien" alt="Australien" class="flaggenrahmen"></td><td class="zentriert"><a title="FC St. Pauli" href="/fc-st-pauli/startseite/verein/35"><img src="https://tmssl.akamaized.net//images/wappen/verysmall/35.png?lm=1521036360" title="FC St. Pauli" alt="FC St. Pauli" class=""></a></td><td class="zentriert">1,83m</td><td class="zentriert">links</td><td class="zentriert">01.07.2022</td><td class="zentriert"><a title="Melbourne City FC: Ablöse ablösefrei" href="/melbourne-city-fc/startseite/verein/25580/saison_id/2022"><img src="https://tmssl.akamaized.net//images/wappen/verysmall/25580.png?lm=1760229854" title="Melbourne City FC" alt="Melbourne City FC" class=""></a></td><td class="rechts hauptlink"><a href="/connor-metcalfe/marktwertverlauf/spieler/522223">2,50 Mio. €</a></td></tr>
+<tr class="even">
+<td class="zentriert rueckennummer bg_Mittelfeld" title="Mittelfeld"><div class="rn_nummer">7</div></td><td class="posrela">
+<table class="inline-table">
+    <tbody><tr>
+        <td rowspan="2">
+            <img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/medium/192557-1755032060.jpg?lm=1" title="Jackson Irvine" alt="Jackson Irvine" class="bilderrahmen-fixed lazy lazy">        </td>
+        <td class="hauptlink">
+            <a href="/jackson-irvine/profil/spieler/192557">
+                Jackson Irvine<span title="Mannschaftskapitän" class="kapitaenicon-table icons_sprite">&nbsp;</span>            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Zentrales Mittelfeld        </td>
+    </tr>
+</tbody></table>
+</td><td class="zentriert">07.03.1993 (32)</td><td class="zentriert"><img src="https://tmssl.akamaized.net//images/flagge/verysmall/12.png?lm=1520611569" title="Australien" alt="Australien" class="flaggenrahmen"><br><img src="https://tmssl.akamaized.net//images/flagge/verysmall/190.png?lm=1520611569" title="Schottland" alt="Schottland" class="flaggenrahmen"></td><td class="zentriert"><a title="FC St. Pauli" href="/fc-st-pauli/startseite/verein/35"><img src="https://tmssl.akamaized.net//images/wappen/verysmall/35.png?lm=1521036360" title="FC St. Pauli" alt="FC St. Pauli" class=""></a></td><td class="zentriert">1,89m</td><td class="zentriert">rechts</td><td class="zentriert">05.07.2021</td><td class="zentriert"><a title="Hibernian FC: Ablöse ablösefrei" href="/hibernian-fc/startseite/verein/903/saison_id/2021"><img src="https://tmssl.akamaized.net//images/wappen/verysmall/903.png?lm=1737462058" title="Hibernian FC" alt="Hibernian FC" class=""></a></td><td class="rechts hauptlink"><a href="/jackson-irvine/marktwertverlauf/spieler/192557">2,00 Mio. €</a></td></tr>
+<tr class="odd">
+<td class="zentriert rueckennummer bg_Mittelfeld" title="Mittelfeld"><div class="rn_nummer">20</div></td><td class="posrela">
+<table class="inline-table">
+    <tbody><tr>
+        <td rowspan="2">
+            <img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/medium/501049-1755033056.jpg?lm=1" title="Erik Ahlstrand" alt="Erik Ahlstrand" class="bilderrahmen-fixed lazy lazy">        </td>
+        <td class="hauptlink">
+            <a href="/erik-ahlstrand/profil/spieler/501049">
+                Erik Ahlstrand            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Zentrales Mittelfeld        </td>
+    </tr>
+</tbody></table>
+</td><td class="zentriert">14.10.2001 (23)</td><td class="zentriert"><img src="https://tmssl.akamaized.net//images/flagge/verysmall/147.png?lm=1520611569" title="Schweden" alt="Schweden" class="flaggenrahmen"></td><td class="zentriert"><a title="Heracles Almelo" href="/heracles-almelo/startseite/verein/1304"><img src="https://tmssl.akamaized.net//images/wappen/verysmall/1304.png?lm=1488213735" title="Heracles Almelo" alt="Heracles Almelo" class=""></a></td><td class="zentriert">1,84m</td><td class="zentriert">links</td><td class="zentriert">27.01.2024</td><td class="zentriert"><a title="Halmstads BK: Ablöse 650 Tsd. €" href="/halmstads-bk/startseite/verein/1011/saison_id/2023"><img src="https://tmssl.akamaized.net//images/wappen/verysmall/1011.png?lm=1500069553" title="Halmstads BK" alt="Halmstads BK" class=""></a></td><td class="rechts hauptlink"><a href="/erik-ahlstrand/marktwertverlauf/spieler/501049">500 Tsd. €</a></td></tr>
+<tr class="even">
+<td class="zentriert rueckennummer bg_Mittelfeld" title="Mittelfeld"><div class="rn_nummer">16</div></td><td class="posrela">
+<table class="inline-table">
+    <tbody><tr>
+        <td rowspan="2">
+            <img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/medium/329373-1755009056.png?lm=1" title="Carlo Boukhalfa" alt="Carlo Boukhalfa" class="bilderrahmen-fixed lazy lazy">        </td>
+        <td class="hauptlink">
+            <a href="/carlo-boukhalfa/profil/spieler/329373">
+                Carlo Boukhalfa            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Offensives Mittelfeld        </td>
+    </tr>
+</tbody></table>
+</td><td class="zentriert">03.05.1999 (26)</td><td class="zentriert"><img src="https://tmssl.akamaized.net//images/flagge/verysmall/40.png?lm=1520612525" title="Deutschland" alt="Deutschland" class="flaggenrahmen"></td><td class="zentriert"><a title="FC St. Gallen 1879" href="/fc-st-gallen-1879/startseite/verein/257"><img src="https://tmssl.akamaized.net//images/wappen/verysmall/257.png?lm=1692697904" title="FC St. Gallen 1879" alt="FC St. Gallen 1879" class=""></a></td><td class="zentriert">1,86m</td><td class="zentriert">links</td><td class="zentriert">01.07.2022</td><td class="zentriert"><a title="SC Freiburg II: Ablöse 500 Tsd. €" href="/sc-freiburg-ii/startseite/verein/245/saison_id/2022"><img src="https://tmssl.akamaized.net//images/wappen/verysmall/245.png?lm=1594709898" title="SC Freiburg II" alt="SC Freiburg II" class=""></a></td><td class="rechts hauptlink"><a href="/carlo-boukhalfa/marktwertverlauf/spieler/329373">2,00 Mio. €</a></td></tr>
+<tr class="odd">
+<td class="zentriert rueckennummer bg_Mittelfeld" title="Mittelfeld"><div class="rn_nummer">10</div></td><td class="posrela">
+<table class="inline-table">
+    <tbody><tr>
+        <td rowspan="2">
+            <img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/medium/346499-1755033100.jpg?lm=1" title="Danel Sinani" alt="Danel Sinani" class="bilderrahmen-fixed lazy lazy">        </td>
+        <td class="hauptlink">
+            <a href="/danel-sinani/profil/spieler/346499">
+                Danel Sinani            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Offensives Mittelfeld        </td>
+    </tr>
+</tbody></table>
+</td><td class="zentriert">05.04.1997 (28)</td><td class="zentriert"><img src="https://tmssl.akamaized.net//images/flagge/verysmall/99.png?lm=1520611569" title="Luxemburg" alt="Luxemburg" class="flaggenrahmen"><br><img src="https://tmssl.akamaized.net//images/flagge/verysmall/215.png?lm=1520611569" title="Serbien" alt="Serbien" class="flaggenrahmen"></td><td class="zentriert"><a title="FC St. Pauli" href="/fc-st-pauli/startseite/verein/35"><img src="https://tmssl.akamaized.net//images/wappen/verysmall/35.png?lm=1521036360" title="FC St. Pauli" alt="FC St. Pauli" class=""></a></td><td class="zentriert">1,85m</td><td class="zentriert">links</td><td class="zentriert">04.07.2023</td><td class="zentriert"><a title="Norwich City: Ablöse ablösefrei" href="/norwich-city/startseite/verein/1123/saison_id/2023"><img src="https://tmssl.akamaized.net//images/wappen/verysmall/1123.png?lm=1655469640" title="Norwich City" alt="Norwich City" class=""></a></td><td class="rechts hauptlink"><a href="/danel-sinani/marktwertverlauf/spieler/346499">1,50 Mio. €</a></td></tr>
+<tr class="even">
+<td class="zentriert rueckennummer bg_Sturm" title="Sturm"><div class="rn_nummer">13</div></td><td class="posrela">
+<table class="inline-table">
+    <tbody><tr>
+        <td rowspan="2">
+            <img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/medium/392163-1658413281.jpg?lm=1" title="Noah Weißhaupt" alt="Noah Weißhaupt" class="bilderrahmen-fixed lazy lazy">        </td>
+        <td class="hauptlink">
+            <a href="/noah-weisshaupt/profil/spieler/392163">
+                Noah Weißhaupt            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Linksaußen        </td>
+    </tr>
+</tbody></table>
+</td><td class="zentriert">20.09.2001 (23)</td><td class="zentriert"><img src="https://tmssl.akamaized.net//images/flagge/verysmall/40.png?lm=1520612525" title="Deutschland" alt="Deutschland" class="flaggenrahmen"></td><td class="zentriert"><a title="Hannover 96" href="/hannover-96/startseite/verein/42"><img src="https://tmssl.akamaized.net//images/wappen/verysmall/42.png?lm=1625590625" title="Hannover 96" alt="Hannover 96" class=""></a></td><td class="zentriert">1,81m</td><td class="zentriert">rechts</td><td class="zentriert">02.01.2025</td><td class="zentriert"><a title="SC Freiburg: Ablöse ?" href="/sc-freiburg/startseite/verein/60/saison_id/2024"><img src="https://tmssl.akamaized.net//images/wappen/verysmall/60.png?lm=1517249279" title="SC Freiburg" alt="SC Freiburg" class=""></a></td><td class="rechts hauptlink"><a href="/noah-weisshaupt/marktwertverlauf/spieler/392163">5,00 Mio. €</a></td></tr>
+<tr class="odd">
+<td class="zentriert rueckennummer bg_Sturm" title="Sturm"><div class="rn_nummer">26</div></td><td class="posrela">
+<table class="inline-table">
+    <tbody><tr>
+        <td rowspan="2">
+            <img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/medium/526466-1755201952.jpg?lm=1" title="Elias Saad" alt="Elias Saad" class="bilderrahmen-fixed lazy lazy">        </td>
+        <td class="hauptlink">
+            <a href="/elias-saad/profil/spieler/526466">
+                Elias Saad            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Linksaußen        </td>
+    </tr>
+</tbody></table>
+</td><td class="zentriert">27.12.1999 (25)</td><td class="zentriert"><img src="https://tmssl.akamaized.net//images/flagge/verysmall/173.png?lm=1520611569" title="Tunesien" alt="Tunesien" class="flaggenrahmen"><br><img src="https://tmssl.akamaized.net//images/flagge/verysmall/40.png?lm=1520612525" title="Deutschland" alt="Deutschland" class="flaggenrahmen"></td><td class="zentriert"><a title="Hannover 96" href="/hannover-96/startseite/verein/42"><img src="https://tmssl.akamaized.net//images/wappen/verysmall/42.png?lm=1625590625" title="Hannover 96" alt="Hannover 96" class=""></a></td><td class="zentriert">1,85m</td><td class="zentriert">rechts</td><td class="zentriert">01.01.2023</td><td class="zentriert"><a title="Eintracht Norderstedt: Ablöse 100 Tsd. €" href="/eintracht-norderstedt/startseite/verein/117/saison_id/2022"><img src="https://tmssl.akamaized.net//images/wappen/verysmall/117.png?lm=1403448700" title="Eintracht Norderstedt" alt="Eintracht Norderstedt" class=""></a></td><td class="rechts hauptlink"><a href="/elias-saad/marktwertverlauf/spieler/526466">4,00 Mio. €</a></td></tr>
+<tr class="even">
+<td class="zentriert rueckennummer bg_Sturm" title="Sturm"><div class="rn_nummer">38</div></td><td class="posrela">
+<table class="inline-table">
+    <tbody><tr>
+        <td rowspan="2">
+            <img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/medium/795387-1729624942.jpg?lm=1" title="Romeo Aigbekaen" alt="Romeo Aigbekaen" class="bilderrahmen-fixed lazy lazy">        </td>
+        <td class="hauptlink">
+            <a href="/romeo-aigbekaen/profil/spieler/795387">
+                Romeo Aigbekaen            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Linksaußen        </td>
+    </tr>
+</tbody></table>
+</td><td class="zentriert">22.06.2004 (21)</td><td class="zentriert"><img src="https://tmssl.akamaized.net//images/flagge/verysmall/40.png?lm=1520612525" title="Deutschland" alt="Deutschland" class="flaggenrahmen"><br><img src="https://tmssl.akamaized.net//images/flagge/verysmall/124.png?lm=1520611569" title="Nigeria" alt="Nigeria" class="flaggenrahmen"></td><td class="zentriert"><a title="FC St. Pauli II" href="/fc-st-pauli-ii/startseite/verein/225"><img src="https://tmssl.akamaized.net//images/wappen/verysmall/225.png?lm=1584293225" title="FC St. Pauli II" alt="FC St. Pauli II" class=""></a></td><td class="zentriert">1,89m</td><td class="zentriert">beidfüßig</td><td class="zentriert"></td><td class="zentriert">&nbsp;</td><td class="rechts hauptlink"><a href="/romeo-aigbekaen/marktwertverlauf/spieler/795387">100 Tsd. €</a></td></tr>
+<tr class="odd">
+<td class="zentriert rueckennummer bg_Sturm" title="Sturm"><div class="rn_nummer">17</div></td><td class="posrela">
+<table class="inline-table">
+    <tbody><tr>
+        <td rowspan="2">
+            <img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/medium/487850-1755033148.jpg?lm=1" title="Oladapo Afolayan" alt="Oladapo Afolayan" class="bilderrahmen-fixed lazy lazy">        </td>
+        <td class="hauptlink">
+            <a href="/oladapo-afolayan/profil/spieler/487850">
+                Oladapo Afolayan            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Rechtsaußen        </td>
+    </tr>
+</tbody></table>
+</td><td class="zentriert">11.09.1997 (27)</td><td class="zentriert"><img src="https://tmssl.akamaized.net//images/flagge/verysmall/189.png?lm=1520611569" title="England" alt="England" class="flaggenrahmen"><br><img src="https://tmssl.akamaized.net//images/flagge/verysmall/124.png?lm=1520611569" title="Nigeria" alt="Nigeria" class="flaggenrahmen"></td><td class="zentriert"><a title="Blackburn Rovers" href="/blackburn-rovers/startseite/verein/164"><img src="https://tmssl.akamaized.net//images/wappen/verysmall/164.png?lm=1495228542" title="Blackburn Rovers" alt="Blackburn Rovers" class=""></a></td><td class="zentriert">1,80m</td><td class="zentriert">rechts</td><td class="zentriert">19.01.2023</td><td class="zentriert"><a title="Bolton Wanderers: Ablöse 600 Tsd. €" href="/bolton-wanderers/startseite/verein/355/saison_id/2022"><img src="https://tmssl.akamaized.net//images/wappen/verysmall/355.png?lm=1407653952" title="Bolton Wanderers" alt="Bolton Wanderers" class=""></a></td><td class="rechts hauptlink"><a href="/oladapo-afolayan/marktwertverlauf/spieler/487850">4,00 Mio. €</a></td></tr>
+<tr class="even">
+<td class="zentriert rueckennummer bg_Sturm" title="Sturm"><div class="rn_nummer">29</div></td><td class="posrela"><span class="wechsel-kader-wappen hide-for-small"><a title="Neuzugang von: RC Lens; Datum: 01.07.2025; Ablöse: 3,00 Mio. €" href="/rc-lens/startseite/verein/826/saison_id/2025"><img src="https://tmssl.akamaized.net//images/wappen/kaderquad/826.png?lm=1595457059" title="RC Lens" alt="RC Lens" class=""></a></span><a title="Neuzugang von: RC Lens; Datum: 01.07.2025; Ablöse: 3,00 Mio. €" class="hide-for-small" href="/rc-lens/startseite/verein/826/saison_id/2025"><img src="/images/icons/zugang_beta_kader.png" class="wechsel-symbol" width="19px" height="19px"></a>
+<table class="inline-table">
+    <tbody><tr>
+        <td rowspan="2">
+            <img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/medium/691786-1723632746.jpeg?lm=1" title="Morgan Guilavogui" alt="Morgan Guilavogui" class="bilderrahmen-fixed lazy lazy">        </td>
+        <td class="hauptlink">
+            <a href="/morgan-guilavogui/profil/spieler/691786">
+                Morgan Guilavogui            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Rechtsaußen        </td>
+    </tr>
+</tbody></table>
+</td><td class="zentriert">10.03.1998 (27)</td><td class="zentriert"><img src="https://tmssl.akamaized.net//images/flagge/verysmall/59.png?lm=1520611569" title="Guinea" alt="Guinea" class="flaggenrahmen"><br><img src="https://tmssl.akamaized.net//images/flagge/verysmall/50.png?lm=1520611569" title="Frankreich" alt="Frankreich" class="flaggenrahmen"></td><td class="zentriert"><a title="Real Salt Lake City" href="/real-salt-lake-city/startseite/verein/6643"><img src="https://tmssl.akamaized.net//images/wappen/verysmall/6643.png?lm=1410197995" title="Real Salt Lake City" alt="Real Salt Lake City" class=""></a></td><td class="zentriert">1,89m</td><td class="zentriert">rechts</td><td class="zentriert">01.07.2025</td><td class="zentriert"><a title="RC Lens: Ablöse 3,00 Mio. €" href="/rc-lens/startseite/verein/826/saison_id/2025"><img src="https://tmssl.akamaized.net//images/wappen/verysmall/826.png?lm=1595457059" title="RC Lens" alt="RC Lens" class=""></a></td><td class="rechts hauptlink"><a href="/morgan-guilavogui/marktwertverlauf/spieler/691786">4,00 Mio. €</a></td></tr>
+<tr class="odd">
+<td class="zentriert rueckennummer bg_Sturm" title="Sturm"><div class="rn_nummer">18</div></td><td class="posrela">
+<table class="inline-table">
+    <tbody><tr>
+        <td rowspan="2">
+            <img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/medium/596821-1755033193.jpg?lm=1" title="Scott Banks" alt="Scott Banks" class="bilderrahmen-fixed lazy lazy">        </td>
+        <td class="hauptlink">
+            <a href="/scott-banks/profil/spieler/596821">
+                Scott Banks            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Rechtsaußen        </td>
+    </tr>
+</tbody></table>
+</td><td class="zentriert">26.09.2001 (23)</td><td class="zentriert"><img src="https://tmssl.akamaized.net//images/flagge/verysmall/190.png?lm=1520611569" title="Schottland" alt="Schottland" class="flaggenrahmen"><br><img src="https://tmssl.akamaized.net//images/flagge/verysmall/191.png?lm=1520611569" title="Wales" alt="Wales" class="flaggenrahmen"></td><td class="zentriert"><a title="FC Barnsley" href="/fc-barnsley/startseite/verein/349"><img src="https://tmssl.akamaized.net//images/wappen/verysmall/349.png?lm=1574162298" title="FC Barnsley" alt="FC Barnsley" class=""></a></td><td class="zentriert">1,83m</td><td class="zentriert">links</td><td class="zentriert">01.07.2024</td><td class="zentriert"><a title="Crystal Palace: Ablöse 400 Tsd. €" href="/crystal-palace/startseite/verein/873/saison_id/2024"><img src="https://tmssl.akamaized.net//images/wappen/verysmall/873.png?lm=1457723287" title="Crystal Palace" alt="Crystal Palace" class=""></a></td><td class="rechts hauptlink"><a href="/scott-banks/marktwertverlauf/spieler/596821">500 Tsd. €</a></td></tr>
+<tr class="even">
+<td class="zentriert rueckennummer bg_Sturm" title="Sturm"><div class="rn_nummer">11</div></td><td class="posrela">
+<table class="inline-table">
+    <tbody><tr>
+        <td rowspan="2">
+            <img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/medium/251303-1723632371.jpeg?lm=1" title="Johannes Eggestein" alt="Johannes Eggestein" class="bilderrahmen-fixed lazy lazy">        </td>
+        <td class="hauptlink">
+            <a href="/johannes-eggestein/profil/spieler/251303">
+                Johannes Eggestein            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Mittelstürmer        </td>
+    </tr>
+</tbody></table>
+</td><td class="zentriert">08.05.1998 (27)</td><td class="zentriert"><img src="https://tmssl.akamaized.net//images/flagge/verysmall/40.png?lm=1520612525" title="Deutschland" alt="Deutschland" class="flaggenrahmen"></td><td class="zentriert"><a title="FK Austria Wien" href="/fk-austria-wien/startseite/verein/14"><img src="https://tmssl.akamaized.net//images/wappen/verysmall/14.png?lm=1406739366" title="FK Austria Wien" alt="FK Austria Wien" class=""></a></td><td class="zentriert">1,83m</td><td class="zentriert">rechts</td><td class="zentriert">01.07.2022</td><td class="zentriert"><a title="Royal Antwerpen FC: Ablöse 600 Tsd. €" href="/royal-antwerpen-fc/startseite/verein/1096/saison_id/2022"><img src="https://tmssl.akamaized.net//images/wappen/verysmall/1096.png?lm=1623758865" title="Royal Antwerpen FC" alt="Royal Antwerpen FC" class=""></a></td><td class="rechts hauptlink"><a href="/johannes-eggestein/marktwertverlauf/spieler/251303">2,50 Mio. €</a></td></tr>
+<tr class="odd">
+<td class="zentriert rueckennummer bg_Sturm" title="Sturm"><div class="rn_nummer">9</div></td><td class="posrela">
+<table class="inline-table">
+    <tbody><tr>
+        <td rowspan="2">
+            <img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/medium/1280281-1755033280.jpg?lm=1" title="Abdoulie Ceesay" alt="Abdoulie Ceesay" class="bilderrahmen-fixed lazy lazy">        </td>
+        <td class="hauptlink">
+            <a href="/abdoulie-ceesay/profil/spieler/1280281">
+                Abdoulie Ceesay            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Mittelstürmer        </td>
+    </tr>
+</tbody></table>
+</td><td class="zentriert">05.01.2004 (21)</td><td class="zentriert"><img src="https://tmssl.akamaized.net//images/flagge/verysmall/52.png?lm=1520611569" title="Gambia" alt="Gambia" class="flaggenrahmen"></td><td class="zentriert"><a title="FC St. Pauli" href="/fc-st-pauli/startseite/verein/35"><img src="https://tmssl.akamaized.net//images/wappen/verysmall/35.png?lm=1521036360" title="FC St. Pauli" alt="FC St. Pauli" class=""></a></td><td class="zentriert">1,85m</td><td class="zentriert">&nbsp;</td><td class="zentriert">03.01.2025</td><td class="zentriert"><a title="Paide Linnameeskond: Ablöse 450 Tsd. €" href="/paide-linnameeskond/startseite/verein/23371/saison_id/2024"><img src="https://tmssl.akamaized.net//images/wappen/verysmall/23371.png?lm=1471892177" title="Paide Linnameeskond" alt="Paide Linnameeskond" class=""></a></td><td class="rechts hauptlink"><a href="/abdoulie-ceesay/marktwertverlauf/spieler/1280281">500 Tsd. €</a></td></tr>
+<tr class="even">
+<td class="zentriert rueckennummer bg_Sturm" title="Sturm"><div class="rn_nummer">-</div></td><td class="posrela"><span class="wechsel-kader-wappen hide-for-small"><a title="Rückkehr nach Leihe von: Debreceni VSC; Datum: 30.06.2025; Ablöse: Leih-Ende" href="/debreceni-vsc/startseite/verein/84/saison_id/2024"><img src="https://tmssl.akamaized.net//images/wappen/kaderquad/84.png?lm=1667989068" title="Debreceni VSC" alt="Debreceni VSC" class=""></a></span><a title="Rückkehr nach Leihe von: Debreceni VSC; Datum: 30.06.2025; Ablöse: Leih-Ende" class="hide-for-small" href="/debreceni-vsc/startseite/verein/84/saison_id/2024"><img src="/images/icons/rueckkehr_beta_kader.png" class="wechsel-symbol" width="19px" height="19px"></a>
+<table class="inline-table">
+    <tbody><tr>
+        <td rowspan="2">
+            <img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/medium/227511-1765225469.JPG?lm=1" title="Maurides" alt="Maurides" class="bilderrahmen-fixed lazy lazy">        </td>
+        <td class="hauptlink">
+            <a href="/maurides/profil/spieler/227511">
+                Maurides            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Mittelstürmer        </td>
+    </tr>
+</tbody></table>
+</td><td class="zentriert">10.03.1994 (31)</td><td class="zentriert"><img src="https://tmssl.akamaized.net//images/flagge/verysmall/26.png?lm=1520611569" title="Brasilien" alt="Brasilien" class="flaggenrahmen"></td><td class="zentriert"><a title="Radomiak Radom" href="/radomiak-radom/startseite/verein/7154"><img src="https://tmssl.akamaized.net//images/wappen/verysmall/7154.png?lm=1706715593" title="Radomiak Radom" alt="Radomiak Radom" class=""></a></td><td class="zentriert">1,89m</td><td class="zentriert">links</td><td class="zentriert">01.01.2023</td><td class="zentriert"><a title="Radomiak Radom: Ablöse 500 Tsd. €" href="/radomiak-radom/startseite/verein/7154/saison_id/2022"><img src="https://tmssl.akamaized.net//images/wappen/verysmall/7154.png?lm=1706715593" title="Radomiak Radom" alt="Radomiak Radom" class=""></a></td><td class="rechts hauptlink"><a href="/maurides/marktwertverlauf/spieler/227511">350 Tsd. €</a></td></tr>
+<tr class="odd">
+<td class="zentriert rueckennummer bg_Sturm" title="Sturm"><div class="rn_nummer">19</div></td><td class="posrela">
+<table class="inline-table">
+    <tbody><tr>
+        <td rowspan="2">
+            <img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/medium/88647-1723632561.jpeg?lm=1" title="Andreas Albers" alt="Andreas Albers" class="bilderrahmen-fixed lazy lazy">        </td>
+        <td class="hauptlink">
+            <a href="/andreas-albers/profil/spieler/88647">
+                Andreas Albers            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Mittelstürmer        </td>
+    </tr>
+</tbody></table>
+</td><td class="zentriert">23.03.1990 (35)</td><td class="zentriert"><img src="https://tmssl.akamaized.net//images/flagge/verysmall/39.png?lm=1520611569" title="Dänemark" alt="Dänemark" class="flaggenrahmen"></td><td class="zentriert"><img src="https://tmssl.akamaized.net//images/wappen/verysmall/123.png?lm=1456997286" title="Karriereende" alt="Karriereende" class=""></td><td class="zentriert">1,93m</td><td class="zentriert">rechts</td><td class="zentriert">01.07.2023</td><td class="zentriert"><a title="SSV Jahn Regensburg: Ablöse ablösefrei" href="/ssv-jahn-regensburg/startseite/verein/109/saison_id/2023"><img src="https://tmssl.akamaized.net//images/wappen/verysmall/109.png?lm=1656939001" title="SSV Jahn Regensburg" alt="SSV Jahn Regensburg" class=""></a></td><td class="rechts hauptlink"><a href="/andreas-albers/marktwertverlauf/spieler/88647">300 Tsd. €</a></td></tr>
+<tr class="even">
+<td class="zentriert rueckennummer bg_Sturm" title="Sturm"><div class="rn_nummer">27</div></td><td class="posrela">
+<table class="inline-table">
+    <tbody><tr>
+        <td rowspan="2">
+            <img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/medium/79967-1723632686.jpeg?lm=1" title="Simon Zoller" alt="Simon Zoller" class="bilderrahmen-fixed lazy lazy">        </td>
+        <td class="hauptlink">
+            <a href="/simon-zoller/profil/spieler/79967">
+                Simon Zoller            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Mittelstürmer        </td>
+    </tr>
+</tbody></table>
+</td><td class="zentriert">26.06.1991 (34)</td><td class="zentriert"><img src="https://tmssl.akamaized.net//images/flagge/verysmall/40.png?lm=1520612525" title="Deutschland" alt="Deutschland" class="flaggenrahmen"></td><td class="zentriert"><img src="https://tmssl.akamaized.net//images/wappen/verysmall/123.png?lm=1456997286" title="Karriereende" alt="Karriereende" class=""></td><td class="zentriert">1,79m</td><td class="zentriert">rechts</td><td class="zentriert">01.09.2023</td><td class="zentriert"><a title="VfL Bochum: Ablöse ?" href="/vfl-bochum/startseite/verein/80/saison_id/2023"><img src="https://tmssl.akamaized.net//images/wappen/verysmall/80.png?lm=1656583090" title="VfL Bochum" alt="VfL Bochum" class=""></a></td><td class="rechts hauptlink"><a href="/simon-zoller/marktwertverlauf/spieler/79967">300 Tsd. €</a></td></tr>
+</tbody>

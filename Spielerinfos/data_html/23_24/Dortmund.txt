@@ -1,0 +1,616 @@
+<tbody>
+<tr class="odd">
+<td class="zentriert rueckennummer bg_Torwart" title="Torwart"><div class="rn_nummer">1</div></td><td class="posrela">
+<table class="inline-table">
+    <tbody><tr>
+        <td rowspan="2">
+            <img src="https://img.a.transfermarkt.technology/portrait/medium/257814-1709559904.jpg?lm=1" data-src="https://img.a.transfermarkt.technology/portrait/medium/257814-1709559904.jpg?lm=1" title="Gregor Kobel" alt="Gregor Kobel" class="bilderrahmen-fixed lazy entered loaded" data-ll-status="loaded">        </td>
+        <td class="hauptlink">
+            <a href="/gregor-kobel/profil/spieler/257814">
+                Gregor Kobel            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Torwart        </td>
+    </tr>
+</tbody></table>
+</td><td class="zentriert">06.12.1997 (26)</td><td class="zentriert"><img src="https://tmssl.akamaized.net//images/flagge/verysmall/148.png?lm=1520611569" title="Schweiz" alt="Schweiz" class="flaggenrahmen"></td><td class="zentriert"><a title="Borussia Dortmund" href="/borussia-dortmund/startseite/verein/16"><img src="https://tmssl.akamaized.net//images/wappen/verysmall/16.png?lm=1396275280" title="Borussia Dortmund" alt="Borussia Dortmund" class=""></a></td><td class="zentriert">1,96m</td><td class="zentriert">rechts</td><td class="zentriert">01.07.2021</td><td class="zentriert"><a title="VfB Stuttgart: Ablöse 15,00 Mio. €" href="/vfb-stuttgart/startseite/verein/79/saison_id/2021"><img src="https://tmssl.akamaized.net//images/wappen/verysmall/79.png?lm=1680587427" title="VfB Stuttgart" alt="VfB Stuttgart" class=""></a></td><td class="rechts hauptlink"><a href="/gregor-kobel/marktwertverlauf/spieler/257814">40,00 Mio. €</a></td></tr>
+<tr class="even">
+<td class="zentriert rueckennummer bg_Torwart" title="Torwart"><div class="rn_nummer">35</div></td><td class="posrela">
+<table class="inline-table">
+    <tbody><tr>
+        <td rowspan="2">
+            <img src="https://img.a.transfermarkt.technology/portrait/medium/453737-1753692690.jpg?lm=1" data-src="https://img.a.transfermarkt.technology/portrait/medium/453737-1753692690.jpg?lm=1" title="Marcel Lotka" alt="Marcel Lotka" class="bilderrahmen-fixed lazy entered loaded" data-ll-status="loaded">        </td>
+        <td class="hauptlink">
+            <a href="/marcel-lotka/profil/spieler/453737">
+                Marcel Lotka            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Torwart        </td>
+    </tr>
+</tbody></table>
+</td><td class="zentriert">25.05.2001 (23)</td><td class="zentriert"><img src="https://tmssl.akamaized.net//images/flagge/verysmall/40.png?lm=1520612525" title="Deutschland" alt="Deutschland" class="flaggenrahmen"><br><img src="https://tmssl.akamaized.net//images/flagge/verysmall/135.png?lm=1520611569" title="Polen" alt="Polen" class="flaggenrahmen"></td><td class="zentriert"><a title="Fortuna Düsseldorf" href="/fortuna-dusseldorf/startseite/verein/38"><img src="https://tmssl.akamaized.net//images/wappen/verysmall/38.png?lm=1405514004" title="Fortuna Düsseldorf" alt="Fortuna Düsseldorf" class=""></a></td><td class="zentriert">1,91m</td><td class="zentriert">rechts</td><td class="zentriert">01.07.2022</td><td class="zentriert"><a title="Hertha BSC: Ablöse ablösefrei" href="/hertha-bsc/startseite/verein/44/saison_id/2022"><img src="https://tmssl.akamaized.net//images/wappen/verysmall/44.png?lm=1656580875" title="Hertha BSC" alt="Hertha BSC" class=""></a></td><td class="rechts hauptlink"><a href="/marcel-lotka/marktwertverlauf/spieler/453737">1,30 Mio. €</a></td></tr>
+<tr class="odd">
+<td class="zentriert rueckennummer bg_Torwart" title="Torwart"><div class="rn_nummer">33</div></td><td class="posrela">
+<table class="inline-table">
+    <tbody><tr>
+        <td rowspan="2">
+            <img src="https://img.a.transfermarkt.technology/portrait/medium/76158-1716381651.jpg?lm=1" data-src="https://img.a.transfermarkt.technology/portrait/medium/76158-1716381651.jpg?lm=1" title="Alexander Meyer" alt="Alexander Meyer" class="bilderrahmen-fixed lazy entered loaded" data-ll-status="loaded">        </td>
+        <td class="hauptlink">
+            <a href="/alexander-meyer/profil/spieler/76158">
+                Alexander Meyer            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Torwart        </td>
+    </tr>
+</tbody></table>
+</td><td class="zentriert">13.04.1991 (33)</td><td class="zentriert"><img src="https://tmssl.akamaized.net//images/flagge/verysmall/40.png?lm=1520612525" title="Deutschland" alt="Deutschland" class="flaggenrahmen"></td><td class="zentriert"><a title="Borussia Dortmund" href="/borussia-dortmund/startseite/verein/16"><img src="https://tmssl.akamaized.net//images/wappen/verysmall/16.png?lm=1396275280" title="Borussia Dortmund" alt="Borussia Dortmund" class=""></a></td><td class="zentriert">1,95m</td><td class="zentriert">rechts</td><td class="zentriert">01.07.2022</td><td class="zentriert"><a title="SSV Jahn Regensburg: Ablöse ablösefrei" href="/ssv-jahn-regensburg/startseite/verein/109/saison_id/2022"><img src="https://tmssl.akamaized.net//images/wappen/verysmall/109.png?lm=1656939001" title="SSV Jahn Regensburg" alt="SSV Jahn Regensburg" class=""></a></td><td class="rechts hauptlink"><a href="/alexander-meyer/marktwertverlauf/spieler/76158">800 Tsd. €</a></td></tr>
+<tr class="even">
+<td class="zentriert rueckennummer bg_Abwehr" title="Abwehr"><div class="rn_nummer">4</div></td><td class="posrela">
+<table class="inline-table">
+    <tbody><tr>
+        <td rowspan="2">
+            <img src="https://img.a.transfermarkt.technology/portrait/medium/388198-1709560457.jpg?lm=1" data-src="https://img.a.transfermarkt.technology/portrait/medium/388198-1709560457.jpg?lm=1" title="Nico Schlotterbeck" alt="Nico Schlotterbeck" class="bilderrahmen-fixed lazy entered loaded" data-ll-status="loaded">        </td>
+        <td class="hauptlink">
+            <a href="/nico-schlotterbeck/profil/spieler/388198">
+                Nico Schlotterbeck<span title="muskuläre Probleme - Rückkehr unbekannt" class="verletzt-table icons_sprite">&nbsp;</span>            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Innenverteidiger        </td>
+    </tr>
+</tbody></table>
+</td><td class="zentriert">01.12.1999 (24)</td><td class="zentriert"><img src="https://tmssl.akamaized.net//images/flagge/verysmall/40.png?lm=1520612525" title="Deutschland" alt="Deutschland" class="flaggenrahmen"></td><td class="zentriert"><a title="Borussia Dortmund" href="/borussia-dortmund/startseite/verein/16"><img src="https://tmssl.akamaized.net//images/wappen/verysmall/16.png?lm=1396275280" title="Borussia Dortmund" alt="Borussia Dortmund" class=""></a></td><td class="zentriert">1,91m</td><td class="zentriert">links</td><td class="zentriert">01.07.2022</td><td class="zentriert"><a title="SC Freiburg: Ablöse 20,00 Mio. €" href="/sc-freiburg/startseite/verein/60/saison_id/2022"><img src="https://tmssl.akamaized.net//images/wappen/verysmall/60.png?lm=1517249279" title="SC Freiburg" alt="SC Freiburg" class=""></a></td><td class="rechts hauptlink"><a href="/nico-schlotterbeck/marktwertverlauf/spieler/388198">40,00 Mio. €</a></td></tr>
+<tr class="odd">
+<td class="zentriert rueckennummer bg_Abwehr" title="Abwehr"><div class="rn_nummer">25</div></td><td class="posrela">
+<table class="inline-table">
+    <tbody><tr>
+        <td rowspan="2">
+            <img src="https://img.a.transfermarkt.technology/portrait/medium/166601-1709560223.jpg?lm=1" data-src="https://img.a.transfermarkt.technology/portrait/medium/166601-1709560223.jpg?lm=1" title="Niklas Süle" alt="Niklas Süle" class="bilderrahmen-fixed lazy entered loaded" data-ll-status="loaded">        </td>
+        <td class="hauptlink">
+            <a href="/niklas-sule/profil/spieler/166601">
+                Niklas Süle<span title="Oberschenkelzerrung - Rückkehr unbekannt" class="verletzt-table icons_sprite">&nbsp;</span>            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Innenverteidiger        </td>
+    </tr>
+</tbody></table>
+</td><td class="zentriert">03.09.1995 (28)</td><td class="zentriert"><img src="https://tmssl.akamaized.net//images/flagge/verysmall/40.png?lm=1520612525" title="Deutschland" alt="Deutschland" class="flaggenrahmen"></td><td class="zentriert"><a title="Borussia Dortmund" href="/borussia-dortmund/startseite/verein/16"><img src="https://tmssl.akamaized.net//images/wappen/verysmall/16.png?lm=1396275280" title="Borussia Dortmund" alt="Borussia Dortmund" class=""></a></td><td class="zentriert">1,95m</td><td class="zentriert">rechts</td><td class="zentriert">01.07.2022</td><td class="zentriert"><a title="FC Bayern München: Ablöse ablösefrei" href="/fc-bayern-munchen/startseite/verein/27/saison_id/2022"><img src="https://tmssl.akamaized.net//images/wappen/verysmall/27_1498251266.png?lm=1498251266" title=": Ablöse ablösefrei" alt="FC Bayern München" class=""></a></td><td class="rechts hauptlink"><a href="/niklas-sule/marktwertverlauf/spieler/166601">15,00 Mio. €</a></td></tr>
+<tr class="even">
+<td class="zentriert rueckennummer bg_Abwehr" title="Abwehr"><div class="rn_nummer">23</div></td><td class="posrela">
+<table class="inline-table">
+    <tbody><tr>
+        <td rowspan="2">
+            <img src="https://img.a.transfermarkt.technology/portrait/medium/119296-1709561046.jpg?lm=1" data-src="https://img.a.transfermarkt.technology/portrait/medium/119296-1709561046.jpg?lm=1" title="Emre Can" alt="Emre Can" class="bilderrahmen-fixed lazy entered loaded" data-ll-status="loaded">        </td>
+        <td class="hauptlink">
+            <a href="/emre-can/profil/spieler/119296">
+                Emre Can<span title="Mannschaftskapitän" class="kapitaenicon-table icons_sprite">&nbsp;</span><span title="Adduktorenbeschwerden - Rückkehr unbekannt" class="verletzt-table icons_sprite">&nbsp;</span>            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Innenverteidiger        </td>
+    </tr>
+</tbody></table>
+</td><td class="zentriert">12.01.1994 (30)</td><td class="zentriert"><img src="https://tmssl.akamaized.net//images/flagge/verysmall/40.png?lm=1520612525" title="Deutschland" alt="Deutschland" class="flaggenrahmen"><br><img src="https://tmssl.akamaized.net//images/flagge/verysmall/174.png?lm=1520611569" title="Türkei" alt="Türkei" class="flaggenrahmen"></td><td class="zentriert"><a title="Borussia Dortmund" href="/borussia-dortmund/startseite/verein/16"><img src="https://tmssl.akamaized.net//images/wappen/verysmall/16.png?lm=1396275280" title="Borussia Dortmund" alt="Borussia Dortmund" class=""></a></td><td class="zentriert">1,86m</td><td class="zentriert">rechts</td><td class="zentriert">01.07.2020</td><td class="zentriert"><a title="Juventus Turin: Ablöse 25,00 Mio. €" href="/juventus-turin/startseite/verein/506/saison_id/2020"><img src="https://tmssl.akamaized.net//images/wappen/verysmall/506.png?lm=1626441487" title="Juventus Turin" alt="Juventus Turin" class=""></a></td><td class="rechts hauptlink"><a href="/emre-can/marktwertverlauf/spieler/119296">10,00 Mio. €</a></td></tr>
+<tr class="odd">
+<td class="zentriert rueckennummer bg_Abwehr" title="Abwehr"><div class="rn_nummer">5</div></td><td class="posrela">
+<table class="inline-table">
+    <tbody><tr>
+        <td rowspan="2">
+            <img src="https://img.a.transfermarkt.technology/portrait/medium/284732-1730103772.jpg?lm=1" data-src="https://img.a.transfermarkt.technology/portrait/medium/284732-1730103772.jpg?lm=1" title="Ramy Bensebaini" alt="Ramy Bensebaini" class="bilderrahmen-fixed lazy entered loaded" data-ll-status="loaded">        </td>
+        <td class="hauptlink">
+            <a href="/ramy-bensebaini/profil/spieler/284732">
+                Ramy Bensebaini            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Innenverteidiger        </td>
+    </tr>
+</tbody></table>
+</td><td class="zentriert">16.04.1995 (29)</td><td class="zentriert"><img src="https://tmssl.akamaized.net//images/flagge/verysmall/4.png?lm=1520611569" title="Algerien" alt="Algerien" class="flaggenrahmen"></td><td class="zentriert"><a title="Borussia Dortmund" href="/borussia-dortmund/startseite/verein/16"><img src="https://tmssl.akamaized.net//images/wappen/verysmall/16.png?lm=1396275280" title="Borussia Dortmund" alt="Borussia Dortmund" class=""></a></td><td class="zentriert">1,87m</td><td class="zentriert">links</td><td class="zentriert">01.07.2023</td><td class="zentriert"><a title="Borussia Mönchengladbach: Ablöse ablösefrei" href="/borussia-monchengladbach/startseite/verein/18/saison_id/2023"><img src="https://tmssl.akamaized.net//images/wappen/verysmall/18.png?lm=1656585796" title="Borussia Mönchengladbach" alt="Borussia Mönchengladbach" class=""></a></td><td class="rechts hauptlink"><a href="/ramy-bensebaini/marktwertverlauf/spieler/284732">7,00 Mio. €</a></td></tr>
+<tr class="even">
+<td class="zentriert rueckennummer bg_Abwehr" title="Abwehr"><div class="rn_nummer">15</div></td><td class="posrela">
+<table class="inline-table">
+    <tbody><tr>
+        <td rowspan="2">
+            <img src="https://img.a.transfermarkt.technology/portrait/medium/39728-1709560545.jpg?lm=1" data-src="https://img.a.transfermarkt.technology/portrait/medium/39728-1709560545.jpg?lm=1" title="Mats Hummels" alt="Mats Hummels" class="bilderrahmen-fixed lazy entered loaded" data-ll-status="loaded">        </td>
+        <td class="hauptlink">
+            <a href="/mats-hummels/profil/spieler/39728">
+                Mats Hummels            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Innenverteidiger        </td>
+    </tr>
+</tbody></table>
+</td><td class="zentriert">16.12.1988 (35)</td><td class="zentriert"><img src="https://tmssl.akamaized.net//images/flagge/verysmall/40.png?lm=1520612525" title="Deutschland" alt="Deutschland" class="flaggenrahmen"></td><td class="zentriert"><img src="https://tmssl.akamaized.net//images/wappen/verysmall/123.png?lm=1456997286" title="Karriereende" alt="Karriereende" class=""></td><td class="zentriert">1,91m</td><td class="zentriert">rechts</td><td class="zentriert">01.07.2019</td><td class="zentriert"><a title="FC Bayern München: Ablöse 30,50 Mio. €" href="/fc-bayern-munchen/startseite/verein/27/saison_id/2019"><img src="https://tmssl.akamaized.net//images/wappen/verysmall/27_1498251266.png?lm=1498251266" title=": Ablöse 30,50 Mio. €" alt="FC Bayern München" class=""></a></td><td class="rechts hauptlink"><a href="/mats-hummels/marktwertverlauf/spieler/39728">5,00 Mio. €</a></td></tr>
+<tr class="odd">
+<td class="zentriert rueckennummer bg_Abwehr" title="Abwehr"><div class="rn_nummer">42</div></td><td class="posrela">
+<table class="inline-table">
+    <tbody><tr>
+        <td rowspan="2">
+            <img src="https://img.a.transfermarkt.technology/portrait/medium/804831-1757924716.png?lm=1" data-src="https://img.a.transfermarkt.technology/portrait/medium/804831-1757924716.png?lm=1" title="Hendry Blank" alt="Hendry Blank" class="bilderrahmen-fixed lazy entered loaded" data-ll-status="loaded">        </td>
+        <td class="hauptlink">
+            <a href="/hendry-blank/profil/spieler/804831">
+                Hendry Blank            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Innenverteidiger        </td>
+    </tr>
+</tbody></table>
+</td><td class="zentriert">21.08.2004 (19)</td><td class="zentriert"><img src="https://tmssl.akamaized.net//images/flagge/verysmall/40.png?lm=1520612525" title="Deutschland" alt="Deutschland" class="flaggenrahmen"><br><img src="https://tmssl.akamaized.net//images/flagge/verysmall/54.png?lm=1520611569" title="Ghana" alt="Ghana" class="flaggenrahmen"></td><td class="zentriert"><a title="Hannover 96" href="/hannover-96/startseite/verein/42"><img src="https://tmssl.akamaized.net//images/wappen/verysmall/42.png?lm=1625590625" title="Hannover 96" alt="Hannover 96" class=""></a></td><td class="zentriert">1,89m</td><td class="zentriert">links</td><td class="zentriert"></td><td class="zentriert">&nbsp;</td><td class="rechts hauptlink"><a href="/hendry-blank/marktwertverlauf/spieler/804831">2,50 Mio. €</a></td></tr>
+<tr class="even">
+<td class="zentriert rueckennummer bg_Abwehr" title="Abwehr"><div class="rn_nummer">47</div></td><td class="posrela">
+<table class="inline-table">
+    <tbody><tr>
+        <td rowspan="2">
+            <img src="https://img.a.transfermarkt.technology/portrait/medium/482573-1755184672.jpg?lm=1" data-src="https://img.a.transfermarkt.technology/portrait/medium/482573-1755184672.jpg?lm=1" title="Antonios Papadopoulos" alt="Antonios Papadopoulos" class="bilderrahmen-fixed lazy entered loaded" data-ll-status="loaded">        </td>
+        <td class="hauptlink">
+            <a href="/antonios-papadopoulos/profil/spieler/482573">
+                Antonios Papadopoulos            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Innenverteidiger        </td>
+    </tr>
+</tbody></table>
+</td><td class="zentriert">10.09.1999 (24)</td><td class="zentriert"><img src="https://tmssl.akamaized.net//images/flagge/verysmall/40.png?lm=1520612525" title="Deutschland" alt="Deutschland" class="flaggenrahmen"><br><img src="https://tmssl.akamaized.net//images/flagge/verysmall/56.png?lm=1520611569" title="Griechenland" alt="Griechenland" class="flaggenrahmen"></td><td class="zentriert"><a title="FC Lugano" href="/fc-lugano/startseite/verein/2790"><img src="https://tmssl.akamaized.net//images/wappen/verysmall/2790.png?lm=1766559214" title="FC Lugano" alt="FC Lugano" class=""></a></td><td class="zentriert">1,87m</td><td class="zentriert">rechts</td><td class="zentriert"></td><td class="zentriert">&nbsp;</td><td class="rechts hauptlink"><a href="/antonios-papadopoulos/marktwertverlauf/spieler/482573">1,00 Mio. €</a></td></tr>
+<tr class="odd">
+<td class="zentriert rueckennummer bg_Abwehr" title="Abwehr"><div class="rn_nummer">22</div></td><td class="posrela">
+<table class="inline-table">
+    <tbody><tr>
+        <td rowspan="2">
+            <img src="https://img.a.transfermarkt.technology/portrait/medium/485585-1704795222.jpg?lm=1" data-src="https://img.a.transfermarkt.technology/portrait/medium/485585-1704795222.jpg?lm=1" title="Ian Maatsen" alt="Ian Maatsen" class="bilderrahmen-fixed lazy entered loaded" data-ll-status="loaded">        </td>
+        <td class="hauptlink">
+            <a href="/ian-maatsen/profil/spieler/485585">
+                Ian Maatsen            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Linker Verteidiger        </td>
+    </tr>
+</tbody></table>
+</td><td class="zentriert">10.03.2002 (22)</td><td class="zentriert"><img src="https://tmssl.akamaized.net//images/flagge/verysmall/122.png?lm=1520611569" title="Niederlande" alt="Niederlande" class="flaggenrahmen"><br><img src="https://tmssl.akamaized.net//images/flagge/verysmall/161.png?lm=1520611569" title="Suriname" alt="Suriname" class="flaggenrahmen"></td><td class="zentriert"><a title="Aston Villa" href="/aston-villa/startseite/verein/405"><img src="https://tmssl.akamaized.net//images/wappen/verysmall/405.png?lm=1717155982" title="Aston Villa" alt="Aston Villa" class=""></a></td><td class="zentriert">1,78m</td><td class="zentriert">links</td><td class="zentriert">12.01.2024</td><td class="zentriert"><a title="FC Chelsea: Ablöse 2,30 Mio. €" href="/fc-chelsea/startseite/verein/631/saison_id/2023"><img src="https://tmssl.akamaized.net//images/wappen/verysmall/631.png?lm=1682435911" title="FC Chelsea" alt="FC Chelsea" class=""></a></td><td class="rechts hauptlink"><a href="/ian-maatsen/marktwertverlauf/spieler/485585">40,00 Mio. €</a></td></tr>
+<tr class="even">
+<td class="zentriert rueckennummer bg_Abwehr" title="Abwehr"><div class="rn_nummer">-</div></td><td class="posrela">
+<table class="inline-table">
+    <tbody><tr>
+        <td rowspan="2">
+            <img src="https://img.a.transfermarkt.technology/portrait/medium/854079-1657285624.jpg?lm=1" data-src="https://img.a.transfermarkt.technology/portrait/medium/854079-1657285624.jpg?lm=1" title="Guille Bueno" alt="Guille Bueno" class="bilderrahmen-fixed lazy entered loaded" data-ll-status="loaded">        </td>
+        <td class="hauptlink">
+            <a href="/guille-bueno/profil/spieler/854079">
+                Guille Bueno<span title="Kreuzbandanriss - Rückkehr vsl. am 31.10.2026" class="verletzt-table icons_sprite">&nbsp;</span>            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Linker Verteidiger        </td>
+    </tr>
+</tbody></table>
+</td><td class="zentriert">18.09.2002 (21)</td><td class="zentriert"><img src="https://tmssl.akamaized.net//images/flagge/verysmall/157.png?lm=1520611569" title="Spanien" alt="Spanien" class="flaggenrahmen"></td><td class="zentriert"><a title="Real Valladolid" href="/real-valladolid/startseite/verein/366"><img src="https://tmssl.akamaized.net//images/wappen/verysmall/366.png?lm=1720163563" title="Real Valladolid" alt="Real Valladolid" class=""></a></td><td class="zentriert">1,78m</td><td class="zentriert">links</td><td class="zentriert"></td><td class="zentriert">&nbsp;</td><td class="rechts hauptlink"><a href="/guille-bueno/marktwertverlauf/spieler/854079">600 Tsd. €</a></td></tr>
+<tr class="odd">
+<td class="zentriert rueckennummer bg_Abwehr" title="Abwehr"><div class="rn_nummer">26</div></td><td class="posrela">
+<table class="inline-table">
+    <tbody><tr>
+        <td rowspan="2">
+            <img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/medium/370789-1709561216.jpg?lm=1" title="Julian Ryerson" alt="Julian Ryerson" class="bilderrahmen-fixed lazy lazy">        </td>
+        <td class="hauptlink">
+            <a href="/julian-ryerson/profil/spieler/370789">
+                Julian Ryerson            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Rechter Verteidiger        </td>
+    </tr>
+</tbody></table>
+</td><td class="zentriert">17.11.1997 (26)</td><td class="zentriert"><img src="https://tmssl.akamaized.net//images/flagge/verysmall/125.png?lm=1520611569" title="Norwegen" alt="Norwegen" class="flaggenrahmen"><br><img src="https://tmssl.akamaized.net//images/flagge/verysmall/184.png?lm=1520611569" title="Vereinigte Staaten" alt="Vereinigte Staaten" class="flaggenrahmen"></td><td class="zentriert"><a title="Borussia Dortmund" href="/borussia-dortmund/startseite/verein/16"><img src="https://tmssl.akamaized.net//images/wappen/verysmall/16.png?lm=1396275280" title="Borussia Dortmund" alt="Borussia Dortmund" class=""></a></td><td class="zentriert">1,83m</td><td class="zentriert">rechts</td><td class="zentriert">17.01.2023</td><td class="zentriert"><a title="1.FC Union Berlin: Ablöse 5,00 Mio. €" href="/1-fc-union-berlin/startseite/verein/89/saison_id/2022"><img src="https://tmssl.akamaized.net//images/wappen/verysmall/89.png?lm=1402956210" title="1.FC Union Berlin" alt="1.FC Union Berlin" class=""></a></td><td class="rechts hauptlink"><a href="/julian-ryerson/marktwertverlauf/spieler/370789">20,00 Mio. €</a></td></tr>
+<tr class="even">
+<td class="zentriert rueckennummer bg_Abwehr" title="Abwehr"><div class="rn_nummer">17</div></td><td class="posrela">
+<table class="inline-table">
+    <tbody><tr>
+        <td rowspan="2">
+            <img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/medium/193900-1755201094.jpg?lm=1" title="Marius Wolf" alt="Marius Wolf" class="bilderrahmen-fixed lazy lazy">        </td>
+        <td class="hauptlink">
+            <a href="/marius-wolf/profil/spieler/193900">
+                Marius Wolf            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Rechter Verteidiger        </td>
+    </tr>
+</tbody></table>
+</td><td class="zentriert">27.05.1995 (29)</td><td class="zentriert"><img src="https://tmssl.akamaized.net//images/flagge/verysmall/40.png?lm=1520612525" title="Deutschland" alt="Deutschland" class="flaggenrahmen"></td><td class="zentriert"><a title="FC Augsburg" href="/fc-augsburg/startseite/verein/167"><img src="https://tmssl.akamaized.net//images/wappen/verysmall/167.png?lm=1656582897" title="FC Augsburg" alt="FC Augsburg" class=""></a></td><td class="zentriert">1,88m</td><td class="zentriert">rechts</td><td class="zentriert">02.07.2018</td><td class="zentriert"><a title="Eintracht Frankfurt: Ablöse 5,00 Mio. €" href="/eintracht-frankfurt/startseite/verein/24/saison_id/2018"><img src="https://tmssl.akamaized.net//images/wappen/verysmall/24.png?lm=1700074979" title="Eintracht Frankfurt" alt="Eintracht Frankfurt" class=""></a></td><td class="rechts hauptlink"><a href="/marius-wolf/marktwertverlauf/spieler/193900">3,00 Mio. €</a></td></tr>
+<tr class="odd">
+<td class="zentriert rueckennummer bg_Abwehr" title="Abwehr"><div class="rn_nummer">24</div></td><td class="posrela">
+<table class="inline-table">
+    <tbody><tr>
+        <td rowspan="2">
+            <img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/medium/100986-1741073106.jpg?lm=1" title="Thomas Meunier" alt="Thomas Meunier" class="bilderrahmen-fixed lazy lazy">        </td>
+        <td class="hauptlink">
+            <a href="/thomas-meunier/profil/spieler/100986">
+                Thomas Meunier<span title="Oberschenkelverletzung - Rückkehr unbekannt" class="verletzt-table icons_sprite">&nbsp;</span>            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Rechter Verteidiger        </td>
+    </tr>
+</tbody></table>
+</td><td class="zentriert">12.09.1991 (32)</td><td class="zentriert"><img src="https://tmssl.akamaized.net//images/flagge/verysmall/19.png?lm=1520611569" title="Belgien" alt="Belgien" class="flaggenrahmen"></td><td class="zentriert"><a title="LOSC Lille" href="/losc-lille/startseite/verein/1082"><img src="https://tmssl.akamaized.net//images/wappen/verysmall/1082.png?lm=1529521041" title="LOSC Lille" alt="LOSC Lille" class=""></a></td><td class="zentriert">1,91m</td><td class="zentriert">rechts</td><td class="zentriert">01.07.2020</td><td class="zentriert"><a title="FC Paris Saint-Germain: Ablöse ablösefrei" href="/fc-paris-saint-germain/startseite/verein/583/saison_id/2020"><img src="https://tmssl.akamaized.net//images/wappen/verysmall/583_1522053508.png?lm=1522053508" title=": Ablöse ablösefrei" alt="FC Paris Saint-Germain" class=""></a></td><td class="rechts hauptlink"><a href="/thomas-meunier/marktwertverlauf/spieler/100986">2,50 Mio. €</a></td></tr>
+<tr class="even">
+<td class="zentriert rueckennummer bg_Abwehr" title="Abwehr"><div class="rn_nummer">2</div></td><td class="posrela">
+<table class="inline-table">
+    <tbody><tr>
+        <td rowspan="2">
+            <img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/medium/388513-1661413734.jpg?lm=1" title="Mateu Morey" alt="Mateu Morey" class="bilderrahmen-fixed lazy lazy">        </td>
+        <td class="hauptlink">
+            <a href="/mateu-morey/profil/spieler/388513">
+                Mateu Morey            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Rechter Verteidiger        </td>
+    </tr>
+</tbody></table>
+</td><td class="zentriert">02.03.2000 (24)</td><td class="zentriert"><img src="https://tmssl.akamaized.net//images/flagge/verysmall/157.png?lm=1520611569" title="Spanien" alt="Spanien" class="flaggenrahmen"></td><td class="zentriert"><a title="RCD Mallorca" href="/rcd-mallorca/startseite/verein/237"><img src="https://tmssl.akamaized.net//images/wappen/verysmall/237.png?lm=1407484750" title="RCD Mallorca" alt="RCD Mallorca" class=""></a></td><td class="zentriert">1,73m</td><td class="zentriert">rechts</td><td class="zentriert">01.07.2019</td><td class="zentriert"><a title="FC Barcelona U19: Ablöse ablösefrei" href="/fc-barcelona-u19/startseite/verein/2470/saison_id/2019"><img src="https://tmssl.akamaized.net//images/wappen/verysmall/2470.png?lm=1406739548" title="FC Barcelona U19" alt="FC Barcelona U19" class=""></a></td><td class="rechts hauptlink"><a href="/mateu-morey/marktwertverlauf/spieler/388513">800 Tsd. €</a></td></tr>
+<tr class="odd">
+<td class="zentriert rueckennummer bg_Mittelfeld" title="Mittelfeld"><div class="rn_nummer">6</div></td><td class="posrela">
+<table class="inline-table">
+    <tbody><tr>
+        <td rowspan="2">
+            <img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/medium/244940-1709561120.jpg?lm=1" title="Salih Özcan" alt="Salih Özcan" class="bilderrahmen-fixed lazy lazy">        </td>
+        <td class="hauptlink">
+            <a href="/salih-ozcan/profil/spieler/244940">
+                Salih Özcan            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Defensives Mittelfeld        </td>
+    </tr>
+</tbody></table>
+</td><td class="zentriert">11.01.1998 (26)</td><td class="zentriert"><img src="https://tmssl.akamaized.net//images/flagge/verysmall/174.png?lm=1520611569" title="Türkei" alt="Türkei" class="flaggenrahmen"><br><img src="https://tmssl.akamaized.net//images/flagge/verysmall/40.png?lm=1520612525" title="Deutschland" alt="Deutschland" class="flaggenrahmen"></td><td class="zentriert"><a title="Borussia Dortmund" href="/borussia-dortmund/startseite/verein/16"><img src="https://tmssl.akamaized.net//images/wappen/verysmall/16.png?lm=1396275280" title="Borussia Dortmund" alt="Borussia Dortmund" class=""></a></td><td class="zentriert">1,83m</td><td class="zentriert">rechts</td><td class="zentriert">01.07.2022</td><td class="zentriert"><a title="1.FC Köln: Ablöse 5,00 Mio. €" href="/1-fc-koln/startseite/verein/3/saison_id/2022"><img src="https://tmssl.akamaized.net//images/wappen/verysmall/3.png?lm=1656580823" title="1.FC Köln" alt="1.FC Köln" class=""></a></td><td class="rechts hauptlink"><a href="/salih-ozcan/marktwertverlauf/spieler/244940">10,00 Mio. €</a></td></tr>
+<tr class="even">
+<td class="zentriert rueckennummer bg_Mittelfeld" title="Mittelfeld"><div class="rn_nummer">32</div></td><td class="posrela">
+<table class="inline-table">
+    <tbody><tr>
+        <td rowspan="2">
+            <img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/medium/718232-1720425936.jpg?lm=1" title="Abdoulaye Kamara" alt="Abdoulaye Kamara" class="bilderrahmen-fixed lazy lazy">        </td>
+        <td class="hauptlink">
+            <a href="/abdoulaye-kamara/profil/spieler/718232">
+                Abdoulaye Kamara            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Defensives Mittelfeld        </td>
+    </tr>
+</tbody></table>
+</td><td class="zentriert">06.11.2004 (19)</td><td class="zentriert"><img src="https://tmssl.akamaized.net//images/flagge/verysmall/59.png?lm=1520611569" title="Guinea" alt="Guinea" class="flaggenrahmen"><br><img src="https://tmssl.akamaized.net//images/flagge/verysmall/50.png?lm=1520611569" title="Frankreich" alt="Frankreich" class="flaggenrahmen"></td><td class="zentriert"><a title="1.FC Saarbrücken" href="/1-fc-saarbrucken/startseite/verein/1"><img src="https://tmssl.akamaized.net//images/wappen/verysmall/1.png?lm=1657876202" title="1.FC Saarbrücken" alt="1.FC Saarbrücken" class=""></a></td><td class="zentriert">1,85m</td><td class="zentriert">rechts</td><td class="zentriert"></td><td class="zentriert">&nbsp;</td><td class="rechts hauptlink"><a href="/abdoulaye-kamara/marktwertverlauf/spieler/718232">1,50 Mio. €</a></td></tr>
+<tr class="odd">
+<td class="zentriert rueckennummer bg_Mittelfeld" title="Mittelfeld"><div class="rn_nummer">8</div></td><td class="posrela">
+<table class="inline-table">
+    <tbody><tr>
+        <td rowspan="2">
+            <img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/medium/406640-1709560961.jpg?lm=1" title="Felix Nmecha" alt="Felix Nmecha" class="bilderrahmen-fixed lazy lazy">        </td>
+        <td class="hauptlink">
+            <a href="/felix-nmecha/profil/spieler/406640">
+                Felix Nmecha            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Zentrales Mittelfeld        </td>
+    </tr>
+</tbody></table>
+</td><td class="zentriert">10.10.2000 (23)</td><td class="zentriert"><img src="https://tmssl.akamaized.net//images/flagge/verysmall/40.png?lm=1520612525" title="Deutschland" alt="Deutschland" class="flaggenrahmen"><br><img src="https://tmssl.akamaized.net//images/flagge/verysmall/189.png?lm=1520611569" title="England" alt="England" class="flaggenrahmen"></td><td class="zentriert"><a title="Borussia Dortmund" href="/borussia-dortmund/startseite/verein/16"><img src="https://tmssl.akamaized.net//images/wappen/verysmall/16.png?lm=1396275280" title="Borussia Dortmund" alt="Borussia Dortmund" class=""></a></td><td class="zentriert">1,90m</td><td class="zentriert">rechts</td><td class="zentriert">03.07.2023</td><td class="zentriert"><a title="VfL Wolfsburg: Ablöse 30,00 Mio. €" href="/vfl-wolfsburg/startseite/verein/82/saison_id/2023"><img src="https://tmssl.akamaized.net//images/wappen/verysmall/82.png?lm=1503060755" title="VfL Wolfsburg" alt="VfL Wolfsburg" class=""></a></td><td class="rechts hauptlink"><a href="/felix-nmecha/marktwertverlauf/spieler/406640">20,00 Mio. €</a></td></tr>
+<tr class="even">
+<td class="zentriert rueckennummer bg_Mittelfeld" title="Mittelfeld"><div class="rn_nummer">20</div></td><td class="posrela">
+<table class="inline-table">
+    <tbody><tr>
+        <td rowspan="2">
+            <img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/medium/106987-1711745992.jpg?lm=1" title="Marcel Sabitzer" alt="Marcel Sabitzer" class="bilderrahmen-fixed lazy lazy">        </td>
+        <td class="hauptlink">
+            <a href="/marcel-sabitzer/profil/spieler/106987">
+                Marcel Sabitzer            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Zentrales Mittelfeld        </td>
+    </tr>
+</tbody></table>
+</td><td class="zentriert">17.03.1994 (30)</td><td class="zentriert"><img src="https://tmssl.akamaized.net//images/flagge/verysmall/127.png?lm=1520611569" title="Österreich" alt="Österreich" class="flaggenrahmen"></td><td class="zentriert"><a title="Borussia Dortmund" href="/borussia-dortmund/startseite/verein/16"><img src="https://tmssl.akamaized.net//images/wappen/verysmall/16.png?lm=1396275280" title="Borussia Dortmund" alt="Borussia Dortmund" class=""></a></td><td class="zentriert">1,78m</td><td class="zentriert">rechts</td><td class="zentriert">24.07.2023</td><td class="zentriert"><a title="FC Bayern München: Ablöse 19,00 Mio. €" href="/fc-bayern-munchen/startseite/verein/27/saison_id/2023"><img src="https://tmssl.akamaized.net//images/wappen/verysmall/27_1498251266.png?lm=1498251266" title=": Ablöse 19,00 Mio. €" alt="FC Bayern München" class=""></a></td><td class="rechts hauptlink"><a href="/marcel-sabitzer/marktwertverlauf/spieler/106987">20,00 Mio. €</a></td></tr>
+<tr class="odd">
+<td class="zentriert rueckennummer bg_Mittelfeld" title="Mittelfeld"><div class="rn_nummer">38</div></td><td class="posrela">
+<table class="inline-table">
+    <tbody><tr>
+        <td rowspan="2">
+            <img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/medium/884810-1753298128.jpg?lm=1" title="Kjell Wätjen" alt="Kjell Wätjen" class="bilderrahmen-fixed lazy lazy">        </td>
+        <td class="hauptlink">
+            <a href="/kjell-watjen/profil/spieler/884810">
+                Kjell Wätjen            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Zentrales Mittelfeld        </td>
+    </tr>
+</tbody></table>
+</td><td class="zentriert">16.02.2006 (18)</td><td class="zentriert"><img src="https://tmssl.akamaized.net//images/flagge/verysmall/40.png?lm=1520612525" title="Deutschland" alt="Deutschland" class="flaggenrahmen"></td><td class="zentriert"><a title="VfL Bochum" href="/vfl-bochum/startseite/verein/80"><img src="https://tmssl.akamaized.net//images/wappen/verysmall/80.png?lm=1656583090" title="VfL Bochum" alt="VfL Bochum" class=""></a></td><td class="zentriert">1,84m</td><td class="zentriert">rechts</td><td class="zentriert">01.07.2024</td><td class="zentriert"><a title="Borussia Dortmund U19: Ablöse -" href="/borussia-dortmund-u19/startseite/verein/1464/saison_id/2024"><img src="https://tmssl.akamaized.net//images/wappen/verysmall/1464.png?lm=1396275305" title="Borussia Dortmund U19" alt="Borussia Dortmund U19" class=""></a></td><td class="rechts hauptlink"><a href="/kjell-watjen/marktwertverlauf/spieler/884810">2,00 Mio. €</a></td></tr>
+<tr class="even">
+<td class="zentriert rueckennummer bg_Mittelfeld" title="Mittelfeld"><div class="rn_nummer">19</div></td><td class="posrela">
+<table class="inline-table">
+    <tbody><tr>
+        <td rowspan="2">
+            <img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/medium/187492-1709560849.jpg?lm=1" title="Julian Brandt" alt="Julian Brandt" class="bilderrahmen-fixed lazy lazy">        </td>
+        <td class="hauptlink">
+            <a href="/julian-brandt/profil/spieler/187492">
+                Julian Brandt            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Offensives Mittelfeld        </td>
+    </tr>
+</tbody></table>
+</td><td class="zentriert">02.05.1996 (28)</td><td class="zentriert"><img src="https://tmssl.akamaized.net//images/flagge/verysmall/40.png?lm=1520612525" title="Deutschland" alt="Deutschland" class="flaggenrahmen"></td><td class="zentriert"><a title="Borussia Dortmund" href="/borussia-dortmund/startseite/verein/16"><img src="https://tmssl.akamaized.net//images/wappen/verysmall/16.png?lm=1396275280" title="Borussia Dortmund" alt="Borussia Dortmund" class=""></a></td><td class="zentriert">1,85m</td><td class="zentriert">rechts</td><td class="zentriert">01.07.2019</td><td class="zentriert"><a title="Bayer 04 Leverkusen: Ablöse 25,00 Mio. €" href="/bayer-04-leverkusen/startseite/verein/15/saison_id/2019"><img src="https://tmssl.akamaized.net//images/wappen/verysmall/15.png?lm=1710156317" title="Bayer 04 Leverkusen" alt="Bayer 04 Leverkusen" class=""></a></td><td class="rechts hauptlink"><a href="/julian-brandt/marktwertverlauf/spieler/187492">40,00 Mio. €</a></td></tr>
+<tr class="odd">
+<td class="zentriert rueckennummer bg_Mittelfeld" title="Mittelfeld"><div class="rn_nummer">7</div></td><td class="posrela">
+<table class="inline-table">
+    <tbody><tr>
+        <td rowspan="2">
+            <img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/medium/504215-1760967520.jpg?lm=1" title="Giovanni Reyna" alt="Giovanni Reyna" class="bilderrahmen-fixed lazy lazy">        </td>
+        <td class="hauptlink">
+            <a href="/giovanni-reyna/profil/spieler/504215">
+                Giovanni Reyna<span title="muskuläre Probleme - Rückkehr unbekannt" class="verletzt-table icons_sprite">&nbsp;</span>            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Offensives Mittelfeld        </td>
+    </tr>
+</tbody></table>
+</td><td class="zentriert">13.11.2002 (21)</td><td class="zentriert"><img src="https://tmssl.akamaized.net//images/flagge/verysmall/184.png?lm=1520611569" title="Vereinigte Staaten" alt="Vereinigte Staaten" class="flaggenrahmen"><br><img src="https://tmssl.akamaized.net//images/flagge/verysmall/136.png?lm=1520611569" title="Portugal" alt="Portugal" class="flaggenrahmen"></td><td class="zentriert"><a title="Borussia Mönchengladbach" href="/borussia-monchengladbach/startseite/verein/18"><img src="https://tmssl.akamaized.net//images/wappen/verysmall/18.png?lm=1656585796" title="Borussia Mönchengladbach" alt="Borussia Mönchengladbach" class=""></a></td><td class="zentriert">1,87m</td><td class="zentriert">rechts</td><td class="zentriert">12.01.2020</td><td class="zentriert"><a title="Borussia Dortmund U19: Ablöse -" href="/borussia-dortmund-u19/startseite/verein/1464/saison_id/2019"><img src="https://tmssl.akamaized.net//images/wappen/verysmall/1464.png?lm=1396275305" title="Borussia Dortmund U19" alt="Borussia Dortmund U19" class=""></a></td><td class="rechts hauptlink"><a href="/giovanni-reyna/marktwertverlauf/spieler/504215">18,00 Mio. €</a></td></tr>
+<tr class="even">
+<td class="zentriert rueckennummer bg_Mittelfeld" title="Mittelfeld"><div class="rn_nummer">-</div></td><td class="posrela">
+<table class="inline-table">
+    <tbody><tr>
+        <td rowspan="2">
+            <img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/medium/102226-1699906886.jpg?lm=1" title="Thorgan Hazard" alt="Thorgan Hazard" class="bilderrahmen-fixed lazy lazy">        </td>
+        <td class="hauptlink">
+            <a href="/thorgan-hazard/profil/spieler/102226">
+                Thorgan Hazard            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Offensives Mittelfeld        </td>
+    </tr>
+</tbody></table>
+</td><td class="zentriert">29.03.1993 (31)</td><td class="zentriert"><img src="https://tmssl.akamaized.net//images/flagge/verysmall/19.png?lm=1520611569" title="Belgien" alt="Belgien" class="flaggenrahmen"></td><td class="zentriert"><a title="RSC Anderlecht" href="/rsc-anderlecht/startseite/verein/58"><img src="https://tmssl.akamaized.net//images/wappen/verysmall/58.png?lm=1718695206" title="RSC Anderlecht" alt="RSC Anderlecht" class=""></a></td><td class="zentriert">1,75m</td><td class="zentriert">rechts</td><td class="zentriert">01.07.2019</td><td class="zentriert"><a title="Borussia Mönchengladbach: Ablöse 25,50 Mio. €" href="/borussia-monchengladbach/startseite/verein/18/saison_id/2019"><img src="https://tmssl.akamaized.net//images/wappen/verysmall/18.png?lm=1656585796" title="Borussia Mönchengladbach" alt="Borussia Mönchengladbach" class=""></a></td><td class="rechts hauptlink"><a href="/thorgan-hazard/marktwertverlauf/spieler/102226">5,00 Mio. €</a></td></tr>
+<tr class="odd">
+<td class="zentriert rueckennummer bg_Mittelfeld" title="Mittelfeld"><div class="rn_nummer">11</div></td><td class="posrela">
+<table class="inline-table">
+    <tbody><tr>
+        <td rowspan="2">
+            <img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/medium/35207-1740776651.jpg?lm=1" title="Marco Reus" alt="Marco Reus" class="bilderrahmen-fixed lazy lazy">        </td>
+        <td class="hauptlink">
+            <a href="/marco-reus/profil/spieler/35207">
+                Marco Reus<span title="Oberschenkelverletzung - Rückkehr unbekannt" class="verletzt-table icons_sprite">&nbsp;</span>            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Offensives Mittelfeld        </td>
+    </tr>
+</tbody></table>
+</td><td class="zentriert">31.05.1989 (35)</td><td class="zentriert"><img src="https://tmssl.akamaized.net//images/flagge/verysmall/40.png?lm=1520612525" title="Deutschland" alt="Deutschland" class="flaggenrahmen"></td><td class="zentriert"><a title="Los Angeles Galaxy" href="/los-angeles-galaxy/startseite/verein/1061"><img src="https://tmssl.akamaized.net//images/wappen/verysmall/1061.png?lm=1493067070" title="Los Angeles Galaxy" alt="Los Angeles Galaxy" class=""></a></td><td class="zentriert">1,80m</td><td class="zentriert">rechts</td><td class="zentriert">01.07.2012</td><td class="zentriert"><a title="Borussia Mönchengladbach: Ablöse 17,10 Mio. €" href="/borussia-monchengladbach/startseite/verein/18/saison_id/2012"><img src="https://tmssl.akamaized.net//images/wappen/verysmall/18.png?lm=1656585796" title="Borussia Mönchengladbach" alt="Borussia Mönchengladbach" class=""></a></td><td class="rechts hauptlink"><a href="/marco-reus/marktwertverlauf/spieler/35207">5,00 Mio. €</a></td></tr>
+<tr class="even">
+<td class="zentriert rueckennummer bg_Mittelfeld" title="Mittelfeld"><div class="rn_nummer">30</div></td><td class="posrela">
+<table class="inline-table">
+    <tbody><tr>
+        <td rowspan="2">
+            <img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/medium/405690-1737124998.jpg?lm=1" title="Ole Pohlmann" alt="Ole Pohlmann" class="bilderrahmen-fixed lazy lazy">        </td>
+        <td class="hauptlink">
+            <a href="/ole-pohlmann/profil/spieler/405690">
+                Ole Pohlmann            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Offensives Mittelfeld        </td>
+    </tr>
+</tbody></table>
+</td><td class="zentriert">05.04.2001 (23)</td><td class="zentriert"><img src="https://tmssl.akamaized.net//images/flagge/verysmall/40.png?lm=1520612525" title="Deutschland" alt="Deutschland" class="flaggenrahmen"></td><td class="zentriert"><a title="Rio Ave FC" href="/rio-ave-fc/startseite/verein/2425"><img src="https://tmssl.akamaized.net//images/wappen/verysmall/2425.png?lm=1516613968" title="Rio Ave FC" alt="Rio Ave FC" class=""></a></td><td class="zentriert">1,83m</td><td class="zentriert">rechts</td><td class="zentriert">01.07.2023</td><td class="zentriert"><a title="Borussia Dortmund II: Ablöse -" href="/borussia-dortmund-ii/startseite/verein/17/saison_id/2023"><img src="https://tmssl.akamaized.net//images/wappen/verysmall/17.png?lm=1396275305" title="Borussia Dortmund II" alt="Borussia Dortmund II" class=""></a></td><td class="rechts hauptlink"><a href="/ole-pohlmann/marktwertverlauf/spieler/405690">1,50 Mio. €</a></td></tr>
+<tr class="odd">
+<td class="zentriert rueckennummer bg_Sturm" title="Sturm"><div class="rn_nummer">10</div></td><td class="posrela">
+<table class="inline-table">
+    <tbody><tr>
+        <td rowspan="2">
+            <img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/medium/401173-1688564217.jpg?lm=1" title="Jadon Sancho" alt="Jadon Sancho" class="bilderrahmen-fixed lazy lazy">        </td>
+        <td class="hauptlink">
+            <a href="/jadon-sancho/profil/spieler/401173">
+                Jadon Sancho            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Linksaußen        </td>
+    </tr>
+</tbody></table>
+</td><td class="zentriert">25.03.2000 (24)</td><td class="zentriert"><img src="https://tmssl.akamaized.net//images/flagge/verysmall/189.png?lm=1520611569" title="England" alt="England" class="flaggenrahmen"><br><img src="https://tmssl.akamaized.net//images/flagge/verysmall/76.png?lm=1520611569" title="Jamaika" alt="Jamaika" class="flaggenrahmen"></td><td class="zentriert"><a title="Aston Villa" href="/aston-villa/startseite/verein/405"><img src="https://tmssl.akamaized.net//images/wappen/verysmall/405.png?lm=1717155982" title="Aston Villa" alt="Aston Villa" class=""></a></td><td class="zentriert">1,80m</td><td class="zentriert">rechts</td><td class="zentriert">11.01.2024</td><td class="zentriert"><a title="Manchester United: Ablöse ?" href="/manchester-united/startseite/verein/985/saison_id/2023"><img src="https://tmssl.akamaized.net//images/wappen/verysmall/985.png?lm=1457975903" title="Manchester United" alt="Manchester United" class=""></a></td><td class="rechts hauptlink"><a href="/jadon-sancho/marktwertverlauf/spieler/401173">30,00 Mio. €</a></td></tr>
+<tr class="even">
+<td class="zentriert rueckennummer bg_Sturm" title="Sturm"><div class="rn_nummer">43</div></td><td class="posrela">
+<table class="inline-table">
+    <tbody><tr>
+        <td rowspan="2">
+            <img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/medium/670882-1736780080.jpg?lm=1" title="Jamie Gittens" alt="Jamie Gittens" class="bilderrahmen-fixed lazy lazy">        </td>
+        <td class="hauptlink">
+            <a href="/jamie-gittens/profil/spieler/670882">
+                Jamie Gittens<span title="Oberschenkelverletzung - Rückkehr vsl. am 20.03.2026" class="verletzt-table icons_sprite">&nbsp;</span>            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Linksaußen        </td>
+    </tr>
+</tbody></table>
+</td><td class="zentriert">08.08.2004 (19)</td><td class="zentriert"><img src="https://tmssl.akamaized.net//images/flagge/verysmall/189.png?lm=1520611569" title="England" alt="England" class="flaggenrahmen"><br><img src="https://tmssl.akamaized.net//images/flagge/verysmall/17.png?lm=1520611569" title="Barbados" alt="Barbados" class="flaggenrahmen"></td><td class="zentriert"><a title="FC Chelsea" href="/fc-chelsea/startseite/verein/631"><img src="https://tmssl.akamaized.net//images/wappen/verysmall/631.png?lm=1682435911" title="FC Chelsea" alt="FC Chelsea" class=""></a></td><td class="zentriert">1,78m</td><td class="zentriert">rechts</td><td class="zentriert">01.07.2022</td><td class="zentriert"><a title="Borussia Dortmund U19: Ablöse -" href="/borussia-dortmund-u19/startseite/verein/1464/saison_id/2022"><img src="https://tmssl.akamaized.net//images/wappen/verysmall/1464.png?lm=1396275305" title="Borussia Dortmund U19" alt="Borussia Dortmund U19" class=""></a></td><td class="rechts hauptlink"><a href="/jamie-gittens/marktwertverlauf/spieler/670882">28,00 Mio. €</a></td></tr>
+<tr class="odd">
+<td class="zentriert rueckennummer bg_Sturm" title="Sturm"><div class="rn_nummer">16</div></td><td class="posrela">
+<table class="inline-table">
+    <tbody><tr>
+        <td rowspan="2">
+            <img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/medium/819215-1733829401.jpg?lm=1" title="Julien Duranville" alt="Julien Duranville" class="bilderrahmen-fixed lazy lazy">        </td>
+        <td class="hauptlink">
+            <a href="/julien-duranville/profil/spieler/819215">
+                Julien Duranville            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Linksaußen        </td>
+    </tr>
+</tbody></table>
+</td><td class="zentriert">05.05.2006 (18)</td><td class="zentriert"><img src="https://tmssl.akamaized.net//images/flagge/verysmall/19.png?lm=1520611569" title="Belgien" alt="Belgien" class="flaggenrahmen"></td><td class="zentriert"><a title="FC Basel 1893" href="/fc-basel-1893/startseite/verein/26"><img src="https://tmssl.akamaized.net//images/wappen/verysmall/26.png?lm=1656417702" title="FC Basel 1893" alt="FC Basel 1893" class=""></a></td><td class="zentriert">1,73m</td><td class="zentriert">rechts</td><td class="zentriert">27.01.2023</td><td class="zentriert"><a title="RSC Anderlecht: Ablöse 8,50 Mio. €" href="/rsc-anderlecht/startseite/verein/58/saison_id/2022"><img src="https://tmssl.akamaized.net//images/wappen/verysmall/58_1693390150.png?lm=1693390150" title=": Ablöse 8,50 Mio. €" alt="RSC Anderlecht" class=""></a></td><td class="rechts hauptlink"><a href="/julien-duranville/marktwertverlauf/spieler/819215">8,50 Mio. €</a></td></tr>
+<tr class="even">
+<td class="zentriert rueckennummer bg_Sturm" title="Sturm"><div class="rn_nummer">27</div></td><td class="posrela">
+<table class="inline-table">
+    <tbody><tr>
+        <td rowspan="2">
+            <img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/medium/496094-1712859708.jpg?lm=1" title="Karim Adeyemi" alt="Karim Adeyemi" class="bilderrahmen-fixed lazy lazy">        </td>
+        <td class="hauptlink">
+            <a href="/karim-adeyemi/profil/spieler/496094">
+                Karim Adeyemi            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Rechtsaußen        </td>
+    </tr>
+</tbody></table>
+</td><td class="zentriert">18.01.2002 (22)</td><td class="zentriert"><img src="https://tmssl.akamaized.net//images/flagge/verysmall/40.png?lm=1520612525" title="Deutschland" alt="Deutschland" class="flaggenrahmen"><br><img src="https://tmssl.akamaized.net//images/flagge/verysmall/124.png?lm=1520611569" title="Nigeria" alt="Nigeria" class="flaggenrahmen"></td><td class="zentriert"><a title="Borussia Dortmund" href="/borussia-dortmund/startseite/verein/16"><img src="https://tmssl.akamaized.net//images/wappen/verysmall/16.png?lm=1396275280" title="Borussia Dortmund" alt="Borussia Dortmund" class=""></a></td><td class="zentriert">1,80m</td><td class="zentriert">links</td><td class="zentriert">01.07.2022</td><td class="zentriert"><a title="FC Red Bull Salzburg: Ablöse 30,00 Mio. €" href="/red-bull-salzburg/startseite/verein/409/saison_id/2022"><img src="https://tmssl.akamaized.net//images/wappen/verysmall/409.png?lm=1557737354" title="FC Red Bull Salzburg" alt="FC Red Bull Salzburg" class=""></a></td><td class="rechts hauptlink"><a href="/karim-adeyemi/marktwertverlauf/spieler/496094">28,00 Mio. €</a></td></tr>
+<tr class="odd">
+<td class="zentriert rueckennummer bg_Sturm" title="Sturm"><div class="rn_nummer">-</div></td><td class="posrela">
+<table class="inline-table">
+    <tbody><tr>
+        <td rowspan="2">
+            <img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/medium/684318-1721851536.jpg?lm=1" title="Samuel Bamba" alt="Samuel Bamba" class="bilderrahmen-fixed lazy lazy">        </td>
+        <td class="hauptlink">
+            <a href="/samuel-bamba/profil/spieler/684318">
+                Samuel Bamba            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Rechtsaußen        </td>
+    </tr>
+</tbody></table>
+</td><td class="zentriert">13.02.2004 (20)</td><td class="zentriert"><img src="https://tmssl.akamaized.net//images/flagge/verysmall/40.png?lm=1520612525" title="Deutschland" alt="Deutschland" class="flaggenrahmen"><br><img src="https://tmssl.akamaized.net//images/flagge/verysmall/193.png?lm=1520611569" title="DR Kongo" alt="DR Kongo" class="flaggenrahmen"></td><td class="zentriert"><a title="Willem II Tilburg" href="/willem-ii-tilburg/startseite/verein/403"><img src="https://tmssl.akamaized.net//images/wappen/verysmall/403.png?lm=1686931031" title="Willem II Tilburg" alt="Willem II Tilburg" class=""></a></td><td class="zentriert">1,79m</td><td class="zentriert">beidfüßig</td><td class="zentriert"></td><td class="zentriert">&nbsp;</td><td class="rechts hauptlink"><a href="/samuel-bamba/marktwertverlauf/spieler/684318">800 Tsd. €</a></td></tr>
+<tr class="even">
+<td class="zentriert rueckennummer bg_Sturm" title="Sturm"><div class="rn_nummer">21</div></td><td class="posrela">
+<table class="inline-table">
+    <tbody><tr>
+        <td rowspan="2">
+            <img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/medium/326029-1711746104.jpg?lm=1" title="Donyell Malen" alt="Donyell Malen" class="bilderrahmen-fixed lazy lazy">        </td>
+        <td class="hauptlink">
+            <a href="/donyell-malen/profil/spieler/326029">
+                Donyell Malen            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Mittelstürmer        </td>
+    </tr>
+</tbody></table>
+</td><td class="zentriert">19.01.1999 (25)</td><td class="zentriert"><img src="https://tmssl.akamaized.net//images/flagge/verysmall/122.png?lm=1520611569" title="Niederlande" alt="Niederlande" class="flaggenrahmen"><br><img src="https://tmssl.akamaized.net//images/flagge/verysmall/161.png?lm=1520611569" title="Suriname" alt="Suriname" class="flaggenrahmen"></td><td class="zentriert"><a title="AS Rom" href="/as-rom/startseite/verein/12"><img src="https://tmssl.akamaized.net//images/wappen/verysmall/12.png?lm=1751979202" title="AS Rom" alt="AS Rom" class=""></a></td><td class="zentriert">1,76m</td><td class="zentriert">rechts</td><td class="zentriert">27.07.2021</td><td class="zentriert"><a title="PSV Eindhoven: Ablöse 30,00 Mio. €" href="/psv-eindhoven/startseite/verein/383/saison_id/2021"><img src="https://tmssl.akamaized.net//images/wappen/verysmall/383.png?lm=1682925949" title="PSV Eindhoven" alt="PSV Eindhoven" class=""></a></td><td class="rechts hauptlink"><a href="/donyell-malen/marktwertverlauf/spieler/326029">40,00 Mio. €</a></td></tr>
+<tr class="odd">
+<td class="zentriert rueckennummer bg_Sturm" title="Sturm"><div class="rn_nummer">18</div></td><td class="posrela"><span class="wechsel-kader-wappen hide-for-small"><a title="Rückkehr nach Leihe von: OGC Nizza; Datum: 30.06.2025; Ablöse: Leih-Ende" href="/ogc-nizza/startseite/verein/417/saison_id/2024"><img src="https://tmssl.akamaized.net//images/wappen/kaderquad/417.png?lm=1408779490" title="OGC Nizza" alt="OGC Nizza" class=""></a></span><a title="Rückkehr nach Leihe von: OGC Nizza; Datum: 30.06.2025; Ablöse: Leih-Ende" class="hide-for-small" href="/ogc-nizza/startseite/verein/417/saison_id/2024"><img src="/images/icons/rueckkehr_beta_kader.png" class="wechsel-symbol" width="19px" height="19px"></a>
+<table class="inline-table">
+    <tbody><tr>
+        <td rowspan="2">
+            <img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/medium/467720-1739972793.jpg?lm=1" title="Youssoufa Moukoko" alt="Youssoufa Moukoko" class="bilderrahmen-fixed lazy lazy">        </td>
+        <td class="hauptlink">
+            <a href="/youssoufa-moukoko/profil/spieler/467720">
+                Youssoufa Moukoko            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Mittelstürmer        </td>
+    </tr>
+</tbody></table>
+</td><td class="zentriert">20.11.2004 (19)</td><td class="zentriert"><img src="https://tmssl.akamaized.net//images/flagge/verysmall/40.png?lm=1520612525" title="Deutschland" alt="Deutschland" class="flaggenrahmen"><br><img src="https://tmssl.akamaized.net//images/flagge/verysmall/31.png?lm=1520611569" title="Kamerun" alt="Kamerun" class="flaggenrahmen"></td><td class="zentriert"><a title="FC Kopenhagen" href="/fc-kopenhagen/startseite/verein/190"><img src="https://tmssl.akamaized.net//images/wappen/verysmall/190.png?lm=1722282896" title="FC Kopenhagen" alt="FC Kopenhagen" class=""></a></td><td class="zentriert">1,79m</td><td class="zentriert">links</td><td class="zentriert">29.07.2020</td><td class="zentriert"><a title="Borussia Dortmund U19: Ablöse -" href="/borussia-dortmund-u19/startseite/verein/1464/saison_id/2020"><img src="https://tmssl.akamaized.net//images/wappen/verysmall/1464.png?lm=1396275305" title="Borussia Dortmund U19" alt="Borussia Dortmund U19" class=""></a></td><td class="rechts hauptlink"><a href="/youssoufa-moukoko/marktwertverlauf/spieler/467720">22,00 Mio. €</a></td></tr>
+<tr class="even">
+<td class="zentriert rueckennummer bg_Sturm" title="Sturm"><div class="rn_nummer">14</div></td><td class="posrela">
+<table class="inline-table">
+    <tbody><tr>
+        <td rowspan="2">
+            <img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/medium/75489-1768815337.jpg?lm=1" title="Niclas Füllkrug" alt="Niclas Füllkrug" class="bilderrahmen-fixed lazy lazy">        </td>
+        <td class="hauptlink">
+            <a href="/niclas-fullkrug/profil/spieler/75489">
+                Niclas Füllkrug            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Mittelstürmer        </td>
+    </tr>
+</tbody></table>
+</td><td class="zentriert">09.02.1993 (31)</td><td class="zentriert"><img src="https://tmssl.akamaized.net//images/flagge/verysmall/40.png?lm=1520612525" title="Deutschland" alt="Deutschland" class="flaggenrahmen"></td><td class="zentriert"><a title="AC Mailand" href="/ac-mailand/startseite/verein/5"><img src="https://tmssl.akamaized.net//images/wappen/verysmall/5.png?lm=1605166627" title="AC Mailand" alt="AC Mailand" class=""></a></td><td class="zentriert">1,89m</td><td class="zentriert">rechts</td><td class="zentriert">31.08.2023</td><td class="zentriert"><a title="SV Werder Bremen: Ablöse 17,25 Mio. €" href="/sv-werder-bremen/startseite/verein/86/saison_id/2023"><img src="https://tmssl.akamaized.net//images/wappen/verysmall/86.png?lm=1403082298" title="SV Werder Bremen" alt="SV Werder Bremen" class=""></a></td><td class="rechts hauptlink"><a href="/niclas-fullkrug/marktwertverlauf/spieler/75489">15,00 Mio. €</a></td></tr>
+<tr class="odd">
+<td class="zentriert rueckennummer bg_Sturm" title="Sturm"><div class="rn_nummer">9</div></td><td class="posrela"><span class="wechsel-kader-wappen hide-for-small"><a title="Rückkehr nach Leihe von: FC Utrecht; Datum: 30.06.2025; Ablöse: Leih-Ende" href="/fc-utrecht/startseite/verein/200/saison_id/2024"><img src="https://tmssl.akamaized.net//images/wappen/kaderquad/200.png?lm=1628450351" title="FC Utrecht" alt="FC Utrecht" class=""></a></span><a title="Rückkehr nach Leihe von: FC Utrecht; Datum: 30.06.2025; Ablöse: Leih-Ende" class="hide-for-small" href="/fc-utrecht/startseite/verein/200/saison_id/2024"><img src="/images/icons/rueckkehr_beta_kader.png" class="wechsel-symbol" width="19px" height="19px"></a>
+<table class="inline-table">
+    <tbody><tr>
+        <td rowspan="2">
+            <img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/medium/181375-1745174015.jpg?lm=1" title="Sébastien Haller" alt="Sébastien Haller" class="bilderrahmen-fixed lazy lazy">        </td>
+        <td class="hauptlink">
+            <a href="/sebastien-haller/profil/spieler/181375">
+                Sébastien Haller<span title="Rippenprellung - Rückkehr unbekannt" class="verletzt-table icons_sprite">&nbsp;</span>            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Mittelstürmer        </td>
+    </tr>
+</tbody></table>
+</td><td class="zentriert">22.06.1994 (30)</td><td class="zentriert"><img src="https://tmssl.akamaized.net//images/flagge/verysmall/38.png?lm=1520611569" title="Elfenbeinküste" alt="Elfenbeinküste" class="flaggenrahmen"><br><img src="https://tmssl.akamaized.net//images/flagge/verysmall/50.png?lm=1520611569" title="Frankreich" alt="Frankreich" class="flaggenrahmen"></td><td class="zentriert"><a title="FC Utrecht" href="/fc-utrecht/startseite/verein/200"><img src="https://tmssl.akamaized.net//images/wappen/verysmall/200.png?lm=1628450351" title="FC Utrecht" alt="FC Utrecht" class=""></a></td><td class="zentriert">1,90m</td><td class="zentriert">rechts</td><td class="zentriert">06.07.2022</td><td class="zentriert"><a title="Ajax Amsterdam: Ablöse 31,00 Mio. €" href="/ajax-amsterdam/startseite/verein/610/saison_id/2022"><img src="https://tmssl.akamaized.net//images/wappen/verysmall/610_1750407814.png?lm=1750407814" title=": Ablöse 31,00 Mio. €" alt="Ajax Amsterdam" class=""></a></td><td class="rechts hauptlink"><a href="/sebastien-haller/marktwertverlauf/spieler/181375">10,00 Mio. €</a></td></tr>
+<tr class="even">
+<td class="zentriert rueckennummer bg_Sturm" title="Sturm"><div class="rn_nummer">29</div></td><td class="posrela">
+<table class="inline-table">
+    <tbody><tr>
+        <td rowspan="2">
+            <img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/medium/918414-1759780037.jpg?lm=1" title="Paris Brunner" alt="Paris Brunner" class="bilderrahmen-fixed lazy lazy">        </td>
+        <td class="hauptlink">
+            <a href="/paris-brunner/profil/spieler/918414">
+                Paris Brunner<span title="keine Spielberechtigung – UEFA Champions League – bis 26.02.2026" class="svg-icon suspension-icon"><svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+  <path d="M4.93 4.93L19.07 19.07M22 12C22 17.5228 17.5228 22 12 22C6.47715 22 2 17.5228 2 12C2 6.47715 6.47715 2 12 2C17.5228 2 22 6.47715 22 12Z" fill="none" stroke="currentColor" stroke-width="var(--stroke-width, 1.8)" stroke-linecap="round" stroke-linejoin="round"></path>
+</svg></span>            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Mittelstürmer        </td>
+    </tr>
+</tbody></table>
+</td><td class="zentriert">15.02.2006 (18)</td><td class="zentriert"><img src="https://tmssl.akamaized.net//images/flagge/verysmall/40.png?lm=1520612525" title="Deutschland" alt="Deutschland" class="flaggenrahmen"><br><img src="https://tmssl.akamaized.net//images/flagge/verysmall/193.png?lm=1520611569" title="DR Kongo" alt="DR Kongo" class="flaggenrahmen"></td><td class="zentriert"><a title="AS Monaco" href="/as-monaco/startseite/verein/162"><img src="https://tmssl.akamaized.net//images/wappen/verysmall/162.png?lm=1654781919" title="AS Monaco" alt="AS Monaco" class=""></a></td><td class="zentriert">1,86m</td><td class="zentriert">rechts</td><td class="zentriert"></td><td class="zentriert">&nbsp;</td><td class="rechts hauptlink">-</td></tr>
+</tbody>
