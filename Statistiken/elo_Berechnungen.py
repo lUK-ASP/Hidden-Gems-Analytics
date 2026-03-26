@@ -4,21 +4,29 @@ from datetime import datetime
 import os
 import json
 from google.oauth2 import service_account
+import streamlit as st  # Wichtig!
 
-if os.path.exists(os.path.expanduser("~/Downloads/business-inteligence-490515-b6c96d4e150a.json")):
-    client = bigquery.Client.from_service_account_json(
-        os.path.expanduser("~/Downloads/business-inteligence-490515-b6c96d4e150a.json"),
-        project="business-inteligence-490515"
-    )
+# Client initialisieren
+try:
+    if os.path.exists(os.path.expanduser("~/Downloads/business-inteligence-490515-b6c96d4e150a.json")):
+        client = bigquery.Client.from_service_account_json(
+            os.path.expanduser("~/Downloads/business-inteligence-490515-b6c96d4e150a.json"),
+            project="business-inteligence-490515"
+        )
+    else:
+        credentials_json = st.secrets["GCP_SERVICE_ACCOUNT_KEY"]  # Korrigiert!
+        credentials_info = json.loads(credentials_json)
+        credentials = service_account.Credentials.from_service_account_info(credentials_info)
+        client = bigquery.Client(
+            credentials=credentials,
+            project="business-inteligence-490515"
+        )
+except Exception as e:
+    print(f"Fehler beim Laden der Credentials: {e}")
+    client = None
 
-else:
-    credentials_json = os.environ.get("GCP_SERVICE_ACCOUNT_KEY")
-    credentials_info = json.loads(credentials_json)
-    credentials = service_account.Credentials.from_service_account_info(credentials_info)
-    client = bigquery.Client(
-        credentials=credentials,
-        project="business-inteligence-490515"
-    )
+# Rest des Codes...
+
 
 # Letzte Aktualisierung aus Elo_Aktuell laden
 try:
