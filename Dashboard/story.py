@@ -21,6 +21,41 @@ from Statistiken.load_statistiken import (
     get_team_comparison_stats_aggregated
 )
 from utils import SAISON_OPTIONS, create_analysis_table, create_comparison_table
+from Statistiken.extract_statistiken import get_marktwerte as _get_marktwerte
+
+
+# ============================================================================
+# DEBUG: WOHER KOMMEN DIE DATEN?
+# ============================================================================
+
+if st.checkbox("🔍 DEBUG: Datenquelle überprüfen"):
+    st.markdown("### Debug: Verfolgung der Datenquellen")
+
+    # 1. Check get_marktwerte() aus extract_statistiken
+    st.markdown("#### 1️⃣ get_marktwerte() (extract_statistiken.py):")
+    try:
+        from Statistiken.extract_statistiken import get_marktwerte as extract_marktwerte
+
+        df_extract = extract_marktwerte()
+        st.write(f"**Verfügbare Spalten:**")
+        st.write(sorted(df_extract.columns.tolist()))
+    except Exception as e:
+        st.error(f"Fehler: {e}")
+
+    # 2. Check get_underrated_players() aus load_statistiken
+    st.markdown("#### 2️⃣ get_underrated_players() (load_statistiken.py):")
+    try:
+        from Statistiken.load_statistiken import get_underrated_players
+
+        df_underrated = get_underrated_players(min_marktwert=0, max_marktwert=50_000_000)
+        st.write(f"**Verfügbare Spalten:**")
+        st.write(sorted(df_underrated.columns.tolist()))
+        st.write(f"\n**Sample-Daten:**")
+        st.dataframe(df_underrated.head(1), width='stretch')
+    except Exception as e:
+        st.error(f"Fehler: {e}")
+
+    st.divider()
 
 # ============================================================================
 # STREAMLIT KONFIGURATION
@@ -391,7 +426,9 @@ elif statistik_view == "Team-Analyse":
                 df_elo_combined = pd.concat(all_elo, ignore_index=True)
                 df_elo_combined = df_elo_combined.sort_values(["Saison", "Spieltag"])
 
-                df_elo_combined["Zeitpunkt"] = df_elo_combined["Saison"].astype(str) + "-" + df_elo_combined[
+                df_elo_combined["Saison_Label"] = (df_elo_combined["Saison"].astype(str) + "/" +
+                                                   (df_elo_combined["Saison"] + 1).astype(str).str[-2:])
+                df_elo_combined["Zeitpunkt"] = df_elo_combined["Saison_Label"] + "-ST" + df_elo_combined[
                     "Spieltag"].astype(str)
 
                 fig_elo = px.line(
@@ -610,9 +647,14 @@ elif statistik_view == "Team-Vergleiche":
                     df_elo1_combined = df_elo1_combined.sort_values(["Saison", "Spieltag"])
                     df_elo2_combined = df_elo2_combined.sort_values(["Saison", "Spieltag"])
 
-                    df_elo1_combined["Zeitpunkt"] = df_elo1_combined["Saison"].astype(str) + "-" + df_elo1_combined[
+                    df_elo1_combined["Saison_Label"] = (df_elo1_combined["Saison"].astype(str) + "/" +
+                                                        (df_elo1_combined["Saison"] + 1).astype(str).str[-2:])
+                    df_elo1_combined["Zeitpunkt"] = df_elo1_combined["Saison_Label"] + "-ST" + df_elo1_combined[
                         "Spieltag"].astype(str)
-                    df_elo2_combined["Zeitpunkt"] = df_elo2_combined["Saison"].astype(str) + "-" + df_elo2_combined[
+
+                    df_elo2_combined["Saison_Label"] = (df_elo2_combined["Saison"].astype(str) + "/" +
+                                                        (df_elo2_combined["Saison"] + 1).astype(str).str[-2:])
+                    df_elo2_combined["Zeitpunkt"] = df_elo2_combined["Saison_Label"] + "-ST" + df_elo2_combined[
                         "Spieltag"].astype(str)
 
                     data_elo = pd.concat([
@@ -824,6 +866,7 @@ elif statistik_view == "Spieler-Marktwert":
 elif statistik_view == "Spieler-Scouting":
     st.markdown("## Spieler-Scouting")
 
+    # Filter-Controls
     col1, col2, col3 = st.columns(3)
     with col1:
         min_mw = st.slider("Min. Marktwert (€)", 0, 50_000_000, 0, step=500_000)
@@ -838,11 +881,9 @@ elif statistik_view == "Spieler-Scouting":
     with col5:
         min_diff = st.slider("Min. Abweichung (€)", 0, 10_000_000, 0, step=500_000)
 
-    pos_filter = st.multiselect(
-        "Position filtern (optional)",
-        options=get_positionen()
-    )
+    pos_filter = st.multiselect("Position filtern (optional)", options=get_positionen())
 
+    # ML-Output
     df_ud = get_underrated_players(
         min_marktwert=min_mw,
         max_marktwert=max_mw,
@@ -851,17 +892,19 @@ elif statistik_view == "Spieler-Scouting":
         min_abweichung_eur=min_diff
     )
 
+    # Überblicks-Metriken
     st.markdown("### Scouting-Übersicht")
     col1, col2, col3 = st.columns(3)
     with col1:
         st.metric("Gesamt Spieler", len(df_ud))
     with col2:
-        avg_score = df_ud["underrated_score"].mean()
+        avg_score = df_ud["underrated_score"].mean() if not df_ud.empty else 0
         st.metric("Ø Scouting-Score", f"{avg_score:.2f}")
     with col3:
-        total_potential = df_ud["abweichung_eur"].sum()
+        total_potential = df_ud["abweichung_eur"].sum() if not df_ud.empty else 0
         st.metric("Gesamtes Potenzial (€)", f"{int(total_potential):,}".replace(",", "."))
 
+    # Optional nach Position filtern
     if pos_filter:
         df_ud = df_ud[df_ud["position"].isin(pos_filter)]
 
@@ -869,24 +912,62 @@ elif statistik_view == "Spieler-Scouting":
         st.info("Keine unterbewerteten Spieler gefunden mit diesen Filtern.")
     else:
         st.markdown("### Scout-Ergebnisse")
+
+        # 1) Rohdaten aus Scouting_View
+        from Statistiken.extract_statistiken import get_marktwerte as _get_marktwerte
+        df_raw = _get_marktwerte()[[
+            "spieler_id", "spieler_saison",
+            "einsaetze", "startelfeinsaetze", "minuten",
+            "statistik_tore", "statistik_vorlagen",
+            "gelbe_karten", "rote_karten"
+        ]]
+
+        # 2) ML-Daten
+        df_ml = df_ud.copy()
+
+        # 3) Merge beider DataFrames
+        df_combined = pd.merge(
+            df_ml,
+            df_raw,
+            how="left",
+            on=["spieler_id", "spieler_saison"]
+        )
+
+        # 4) Spalten-Auswahl und Umbenennung
         display_cols = [
-            "name", "team_name", "position",
-            "marktwert_eur", "pred_marktwert_eur",
-            "abweichung_eur", "underrated_score"
-        ]
-        df_disp = df_ud[display_cols].copy()
-        df_disp.columns = [
-            "Name", "Team", "Position",
-            "Aktueller MW (€)", "Prognostizierter MW (€)",
-            "Potenzial (€)", "Scouting-Score"
+            "vorname", "nachname", "team_name", "position",
+            "marktwert_eur", "pred_marktwert_eur", "abweichung_eur", "underrated_score",
+            "alter_lag", "elo_lag", "minuten_lag", "tore_pro_90_lag", "vorlagen_pro_90_lag",
+            "einsaetze", "startelfeinsaetze", "minuten",
+            "statistik_tore", "statistik_vorlagen",
+            "gelbe_karten", "rote_karten"
         ]
 
+        df_disp = df_combined[display_cols].copy()
+        df_disp.columns = [
+            "Vorname", "Nachname", "Team", "Position",
+            "Aktueller MW (€)", "Prognostizierter MW (€)", "Potenzial (€)", "Scouting-Score",
+            "Alter", "Team ELO", "Minuten (Lag)", "Tore/90 Min (Lag)", "Assists/90 Min (Lag)",
+            "Einsätze", "Startelfeinsätze", "Spielminuten",
+            "Tore", "Assists",
+            "Gelbe Karten", "Rote Karten"
+        ]
+
+        # 5) Formatierung
         for c in ["Aktueller MW (€)", "Prognostizierter MW (€)", "Potenzial (€)"]:
             df_disp[c] = df_disp[c].map(lambda x: f"{int(x):,}".replace(",", "."))
         df_disp["Scouting-Score"] = df_disp["Scouting-Score"].map(lambda x: f"{x:.2f}")
+        df_disp["Alter"] = df_disp["Alter"].fillna(0).astype(int)
+        df_disp["Team ELO"] = df_disp["Team ELO"].map(lambda x: f"{x:.1f}" if pd.notna(x) else "-")
+        df_disp["Minuten (Lag)"] = df_disp["Minuten (Lag)"].fillna(0).astype(int)
+        df_disp["Tore/90 Min (Lag)"] = df_disp["Tore/90 Min (Lag)"].map(lambda x: f"{x:.2f}" if pd.notna(x) else "-")
+        df_disp["Assists/90 Min (Lag)"] = df_disp["Assists/90 Min (Lag)"].map(lambda x: f"{x:.2f}" if pd.notna(x) else "-")
 
-        st.dataframe(df_disp, width='stretch', hide_index=True)
+        for col in ["Einsätze", "Startelfeinsätze", "Spielminuten", "Tore", "Assists", "Gelbe Karten", "Rote Karten"]:
+            df_disp[col] = df_disp[col].fillna(0).astype(int)
 
+        # 6) Ausgabe
+        st.dataframe(df_disp, width="stretch", hide_index=True)
 
 
 # ============================================================================
