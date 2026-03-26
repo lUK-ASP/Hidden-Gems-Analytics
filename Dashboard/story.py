@@ -47,7 +47,7 @@ tabs = [
     ("Tabelle", "Tabelle"),
     ("Spielplan", "Spielplan"),
     ("Team-Analyse", "Team-Analyse"),
-    ("Team-Vergleiche", "Team-Vergleiche"),
+    ("Team-Vergleich", "Team-Vergleiche"),
     ("Marktwert", "Spieler-Marktwert"),
     ("Scouting", "Spieler-Scouting")
 ]
