@@ -428,8 +428,7 @@ elif statistik_view == "Team-Analyse":
 
                 df_elo_combined["Saison_Label"] = (df_elo_combined["Saison"].astype(str) + "/" +
                                                    (df_elo_combined["Saison"] + 1).astype(str).str[-2:])
-                df_elo_combined["Zeitpunkt"] = df_elo_combined["Saison_Label"] + "-ST" + df_elo_combined[
-                    "Spieltag"].astype(str)
+                df_elo_combined["Zeitpunkt"] = df_elo_combined["Spieltag"].astype(str)
 
                 fig_elo = px.line(
                     df_elo_combined,
@@ -649,13 +648,11 @@ elif statistik_view == "Team-Vergleiche":
 
                     df_elo1_combined["Saison_Label"] = (df_elo1_combined["Saison"].astype(str) + "/" +
                                                         (df_elo1_combined["Saison"] + 1).astype(str).str[-2:])
-                    df_elo1_combined["Zeitpunkt"] = df_elo1_combined["Saison_Label"] + "-ST" + df_elo1_combined[
-                        "Spieltag"].astype(str)
+                    df_elo1_combined["Zeitpunkt"] = df_elo1_combined["Spieltag"].astype(str)
 
                     df_elo2_combined["Saison_Label"] = (df_elo2_combined["Saison"].astype(str) + "/" +
                                                         (df_elo2_combined["Saison"] + 1).astype(str).str[-2:])
-                    df_elo2_combined["Zeitpunkt"] = df_elo2_combined["Saison_Label"] + "-ST" + df_elo2_combined[
-                        "Spieltag"].astype(str)
+                    df_elo2_combined["Zeitpunkt"] = df_elo2_combined["Spieltag"].astype(str)
 
                     data_elo = pd.concat([
                         df_elo1_combined[["Zeitpunkt", "elo"]].assign(Team=team1),
