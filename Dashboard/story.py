@@ -930,6 +930,7 @@ elif statistik_view == "Spieler-Scouting":
             on=["spieler_id", "spieler_saison"]
         )
 
+
         # 4) Spalten-Auswahl und Umbenennung
         display_cols = [
             "vorname", "nachname", "team_name", "position",
