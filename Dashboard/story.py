@@ -22,7 +22,8 @@ from Statistiken.load_statistiken import (
 )
 from utils import SAISON_OPTIONS, create_analysis_table, create_comparison_table
 from Statistiken.extract_statistiken import get_marktwerte as _get_marktwerte
-
+import plotly.graph_objects as go
+from plotly.subplots import make_subplots
 
 # ============================================================================
 # STREAMLIT KONFIGURATION
@@ -319,20 +320,15 @@ elif statistik_view == "Team-Analyse":
         )
 
         if len(saisons) == 1:
-            # ===== EINZELNE SAISON =====
             st.markdown(f"## Team-Analyse {saison_labels[0]}")
             saison = saisons[0]
             analysis = get_team_analysis_stats_split(saison, team_select)
 
         else:
-            # ===== MEHRERE SAISONS - AGGREGIERT =====
             st.markdown(f"## Team-Analyse: {' + '.join(saison_labels)}")
-
-
             analysis = get_team_analysis_stats_split_aggregated(saisons, team_select)
 
         if analysis:
-            # 1. DREI GROSSE METRIKEN
             st.markdown("### Effizienz-Kennzahlen")
             col1, col2, col3 = st.columns(3)
 
@@ -343,9 +339,7 @@ elif statistik_view == "Team-Analyse":
             with col3:
                 st.metric(label="Tordiff./Spiel", value=analysis["Gesamt"]["Tordiff./Spiel"])
 
-            # 2. DETAILTABELLE MIT TABS
             st.markdown("### Detaillierte Statistiken")
-
             tab_heim, tab_auswaerts, tab_gesamt = st.tabs([" Heim", " Auswärts", " Gesamt"])
 
             with tab_heim:
@@ -354,16 +348,13 @@ elif statistik_view == "Team-Analyse":
 
             with tab_auswaerts:
                 auswaerts_data = create_analysis_table(analysis, "Auswärts")
-                st.dataframe(auswaerts_data, width='stretch', hide_index=True)  # Korrigiert
+                st.dataframe(auswaerts_data, width='stretch', hide_index=True)
 
             with tab_gesamt:
                 gesamt_data = create_analysis_table(analysis, "Gesamt")
-                st.dataframe(gesamt_data, width='stretch', hide_index=True)  # Korrigiert
+                st.dataframe(gesamt_data, width='stretch', hide_index=True)
 
-            # 4. ELO-VERLAUF
             st.markdown("### Form-Analyse")
-
-            # ===== ELO-STATISTIKEN =====
             st.markdown("#### Elo-Statistiken")
 
             elo_stats = get_elo_stats_for_team(team_select)
@@ -380,7 +371,7 @@ elif statistik_view == "Team-Analyse":
                     st.metric("Elo Tief", f"{elo_stats['elo_min']:.0f}")
 
             # ===== ELO-VERLAUF CHART =====
-            st.markdown("#### Elo-Entwicklung")
+            st.markdown("#### Elo-Entwicklung und Tabellenplatz")
 
             all_elo = []
             for saison in saisons:
@@ -393,27 +384,84 @@ elif statistik_view == "Team-Analyse":
                 df_elo_combined = pd.concat(all_elo, ignore_index=True)
                 df_elo_combined = df_elo_combined.sort_values(["Saison", "Spieltag"])
 
-                df_elo_combined["Saison_Label"] = (df_elo_combined["Saison"].astype(str) + "/" +
-                                                   (df_elo_combined["Saison"] + 1).astype(str).str[-2:])
+                # Erzeuge Index-Position für die X-Achse
+                df_elo_combined["Index"] = range(len(df_elo_combined))
                 df_elo_combined["Zeitpunkt"] = df_elo_combined["Spieltag"].astype(str)
 
-                fig_elo = px.line(
-                    df_elo_combined,
-                    x="Zeitpunkt",
-                    y="elo",
-                    markers=True,
-                    title=f"Elo-Entwicklung {team_select} ({' + '.join(saison_labels)})",
-                    labels={"Zeitpunkt": "Saison-Spieltag", "elo": "Elo-Rating"},
-                    color_discrete_sequence=["#1f77b4"]
+                # Customdata für Hover - formatiere Saison korrekt (23/24 statt nur 23)
+                df_elo_combined["Saison_Label"] = (
+                        df_elo_combined["Saison"].astype(str) + "/" +
+                        (df_elo_combined["Saison"] + 1).astype(str).str[-2:]
                 )
-                fig_elo.update_layout(height=400, xaxis_tickangle=-45)
+                # Spieltag bleibt der echte Spieltagwert (1-34)
+                df_elo_combined["Spieltag_Real"] = df_elo_combined["Spieltag"].astype(str)
+
+                fig_elo = make_subplots(specs=[[{"secondary_y": True}]])
+
+                # Elo-Linie
+                fig_elo.add_trace(
+                    go.Scatter(
+                        x=df_elo_combined["Index"],
+                        y=df_elo_combined["elo"],
+                        mode='lines+markers',
+                        name='Elo-Rating',
+                        line=dict(color='#1f77b4'),
+                        marker=dict(color='#1f77b4'),
+                        #customdata=df_elo_combined[["Saison_Label", "Spieltag_Real"]].values,
+                        #hovertemplate='<b>Saison: %{customdata[0]}</b><br>Spieltag: %{customdata[1]}<br>Elo: %{y:.2f}<extra></extra>'
+                    ),
+                    secondary_y=False
+                )
+
+                # Tabellenplatz-Linie
+                fig_elo.add_trace(
+                    go.Scatter(
+                        x=df_elo_combined["Index"],
+                        y=df_elo_combined["platz"],
+                        mode='lines+markers',
+                        name='Tabellenplatz',
+                        line=dict(color='#ff7f0e', dash='dot'),
+                        marker=dict(color='#ff7f0e'),
+                        customdata=df_elo_combined[["Saison_Label", "Spieltag_Real"]].values,
+                        hovertemplate='<b>Saison: %{customdata[0]}</b><br>Spieltag: %{customdata[1]}<br>Platz: %{y}<extra></extra>'
+                    ),
+                    secondary_y=True
+                )
+
+                # Tickwerte berechnen
+                tick_step = max(1, len(df_elo_combined) // 15)
+                tickvals = df_elo_combined["Index"][::tick_step].tolist()
+                ticktext = df_elo_combined["Spieltag"][::tick_step].tolist()
+
+                fig_elo.update_layout(
+                    title_text=f"Elo-Entwicklung und Tabellenplatz {team_select} ({' + '.join(saison_labels)})",
+                    height=400,
+                    xaxis_tickangle=-45,
+                    hovermode="x unified",
+                    xaxis=dict(
+                        tickvals=tickvals,
+                        ticktext=ticktext
+                    )
+                )
+
+                fig_elo.update_yaxes(
+                    title_text="<b>Elo-Rating</b>",
+                    secondary_y=False,
+                    range=[df_elo_combined["elo"].min() - 50, df_elo_combined["elo"].max() + 50]
+                )
+                fig_elo.update_yaxes(
+                    title_text="<b>Tabellenplatz</b>",
+                    secondary_y=True,
+                    autorange="reversed",
+                    tick0=1,
+                    dtick=1
+                )
+
                 st.plotly_chart(fig_elo, use_container_width=True)
             else:
                 st.info("Keine Elo-Daten für diese Saison(en) verfügbar.")
 
-            # 3. CHARTS
-
-
+            # Charts für Tore vs. Gegentore und andere Statistiken
             col1, col2 = st.columns(2)
 
             with col1:
@@ -482,12 +530,11 @@ elif statistik_view == "Team-Analyse":
                 )
                 fig4.update_layout(height=350)
                 st.plotly_chart(fig4, use_container_width=True)
-
         else:
             st.error("Keine Daten verfügbar für dieses Team.")
-
     else:
         st.warning("Bitte wähle mindestens eine Saison aus.")
+
 
 
 # ============================================================================
@@ -606,36 +653,107 @@ elif statistik_view == "Team-Vergleiche":
                     if not df_elo_t2.empty:
                         all_elo_team2.append(df_elo_t2)
 
-                if all_elo_team1 and all_elo_team2:
+                # Für jedes Team Daten kombinieren und vorbereiten
+                if all_elo_team1:
                     df_elo1_combined = pd.concat(all_elo_team1, ignore_index=True)
-                    df_elo2_combined = pd.concat(all_elo_team2, ignore_index=True)
-
                     df_elo1_combined = df_elo1_combined.sort_values(["Saison", "Spieltag"])
+
+                    # ← NEU: Gemeinsamer Index basierend auf Saison + Spieltag
+                    min_saison = df_elo1_combined["Saison"].min()
+                    df_elo1_combined["Index"] = (df_elo1_combined["Saison"] - min_saison) * 100 + df_elo1_combined[
+                        "Spieltag"]
+
+                    df_elo1_combined["Saison_Label"] = df_elo1_combined["Saison"].astype(str) + "/" + (
+                                df_elo1_combined["Saison"] + 1).astype(str).str[-2:]
+                    df_elo1_combined["Spieltag_Label"] = df_elo1_combined["Spieltag"].astype(str)
+
+                if all_elo_team2:
+                    df_elo2_combined = pd.concat(all_elo_team2, ignore_index=True)
                     df_elo2_combined = df_elo2_combined.sort_values(["Saison", "Spieltag"])
 
-                    df_elo1_combined["Saison_Label"] = (df_elo1_combined["Saison"].astype(str) + "/" +
-                                                        (df_elo1_combined["Saison"] + 1).astype(str).str[-2:])
-                    df_elo1_combined["Zeitpunkt"] = df_elo1_combined["Spieltag"].astype(str)
+                    # ← NEU: Gleicher Index-Berechnung wie Team 1!
+                    if all_elo_team1:
+                        min_saison = df_elo1_combined["Saison"].min()
+                    else:
+                        min_saison = df_elo2_combined["Saison"].min()
 
-                    df_elo2_combined["Saison_Label"] = (df_elo2_combined["Saison"].astype(str) + "/" +
-                                                        (df_elo2_combined["Saison"] + 1).astype(str).str[-2:])
-                    df_elo2_combined["Zeitpunkt"] = df_elo2_combined["Spieltag"].astype(str)
+                    df_elo2_combined["Index"] = (df_elo2_combined["Saison"] - min_saison) * 100 + df_elo2_combined[
+                        "Spieltag"]
 
+                    df_elo2_combined["Saison_Label"] = df_elo2_combined["Saison"].astype(str) + "/" + (
+                                df_elo2_combined["Saison"] + 1).astype(str).str[-2:]
+                    df_elo2_combined["Spieltag_Label"] = df_elo2_combined["Spieltag"].astype(str)
+
+                # Daten für Plotly kombinieren
+                data_elo = pd.DataFrame()
+
+                if all_elo_team1:
                     data_elo = pd.concat([
-                        df_elo1_combined[["Zeitpunkt", "elo"]].assign(Team=team1),
-                        df_elo2_combined[["Zeitpunkt", "elo"]].assign(Team=team2)
-                    ])
+                        df_elo1_combined[["Index", "Spieltag_Label", "elo", "Saison_Label"]].assign(Team=team1)
+                    ], ignore_index=True)
 
-                    fig_elo = px.line(
+                if all_elo_team2:
+                    data_elo = pd.concat([
                         data_elo,
-                        x="Zeitpunkt",
-                        y="elo",
-                        color="Team",
-                        markers=True,
+                        df_elo2_combined[["Index", "Spieltag_Label", "elo", "Saison_Label"]].assign(Team=team2)
+                    ], ignore_index=True)
+
+                # Zeichne das Diagramm
+                if not data_elo.empty:
+                    fig_elo = go.Figure()
+
+                    # Trace für Team 1
+                    if all_elo_team1:
+                        team1_data = data_elo[data_elo["Team"] == team1]
+                        fig_elo.add_trace(
+                            go.Scatter(
+                                x=team1_data["Index"],
+                                y=team1_data["elo"],
+                                mode='lines+markers',
+                                name=team1,
+                                connectgaps=False,
+                                hovertemplate='<b>' + team1 + '</b><br>Saison: %{customdata[0]}<br>Spieltag: %{customdata[1]}<br>Elo: %{y:.2f}<extra></extra>',
+                                customdata=team1_data[["Saison_Label", "Spieltag_Label"]].values,
+                                line=dict(color='#1f77b4'),
+                                marker=dict(color='#1f77b4')
+                            )
+                        )
+
+                    # Trace für Team 2
+                    if all_elo_team2:
+                        team2_data = data_elo[data_elo["Team"] == team2]
+                        fig_elo.add_trace(
+                            go.Scatter(
+                                x=team2_data["Index"],
+                                y=team2_data["elo"],
+                                mode='lines+markers',
+                                name=team2,
+                                connectgaps=False,
+                                hovertemplate='<b>' + team2 + '</b><br>Saison: %{customdata[0]}<br>Spieltag: %{customdata[1]}<br>Elo: %{y:.2f}<extra></extra>',
+                                customdata=team2_data[["Saison_Label", "Spieltag_Label"]].values,
+                                line=dict(color='#ff7f0e'),
+                                marker=dict(color='#ff7f0e')
+                            )
+                        )
+
+                    # Tickwerte nur mit Spieltag-Nummern
+                    tick_step = max(1, len(data_elo) // 15)
+                    tickvals = data_elo["Index"][::tick_step].tolist()
+                    ticktext = data_elo["Spieltag_Label"][::tick_step].tolist()
+
+                    fig_elo.update_layout(
                         title=f"Elo-Entwicklung {team1} vs {team2} ({' + '.join(saison_labels)})",
-                        labels={"Zeitpunkt": "Saison-Spieltag", "elo": "Elo-Rating"}
+                        height=400,
+                        hovermode="x unified",
+                        xaxis=dict(
+                            tickvals=tickvals,
+                            ticktext=ticktext,
+                            tickangle=-45
+                        ),
+                        yaxis=dict(title="Elo-Rating"),
+                        legend=dict(x=0, y=1)
                     )
-                    fig_elo.update_layout(height=400, xaxis_tickangle=-45)
+
                     st.plotly_chart(fig_elo, use_container_width=True)
                 else:
                     st.info("Keine Elo-Daten für diese Saison(en) verfügbar.")
