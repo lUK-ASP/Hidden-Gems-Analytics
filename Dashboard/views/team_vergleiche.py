@@ -57,7 +57,7 @@ def show():
             if len(saisons) == 1:
                 st.markdown(f"## Team-Vergleiche {saison_labels[0]}")
                 saison = saisons[0]
-                # ✅ Nutze cached_get_team_analysis
+
                 stats1 = cached_get_team_analysis(saison, team1)
                 stats2 = cached_get_team_analysis(saison, team2)
 
@@ -85,7 +85,7 @@ def show():
                 st.markdown("### Form-Analyse")
                 st.markdown("#### Elo-Statistiken")
 
-                # ✅ Nutze cached_get_elo_stats
+
                 elo_stats_team1 = cached_get_elo_stats(team1)
                 elo_stats_team2 = cached_get_elo_stats(team2)
 
@@ -122,7 +122,7 @@ def show():
                 all_elo_team2 = []
 
                 for saison in saisons:
-                    # ✅ Nutze cached_get_elo_history
+
                     df_elo_t1 = cached_get_elo_history(team1)
                     df_elo_t1 = df_elo_t1[df_elo_t1["Saison"] == saison]
                     if not df_elo_t1.empty:

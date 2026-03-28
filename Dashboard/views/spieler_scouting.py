@@ -32,10 +32,10 @@ def show():
     with col5:
         min_diff = st.slider("Min. Abweichung (€)", 0, 10_000_000, 0, step=500_000)
 
-    # ✅ Nutze cached_get_positionen
+
     pos_filter = st.multiselect("Position filtern (optional)", options=cached_get_positionen())
 
-    # ✅ Nutze cached_get_underrated_players mit den Slider-Werten
+
     df_ud = cached_get_underrated_players(
         min_marktwert=min_mw,
         max_marktwert=max_mw,
@@ -65,7 +65,7 @@ def show():
     else:
         st.markdown("### Scout-Ergebnisse")
 
-        # ✅ Nutze cached_get_marktwerte
+
         df_raw = cached_get_marktwerte()[[
             "spieler_id", "spieler_saison",
             "einsaetze", "startelfeinsaetze", "minuten",

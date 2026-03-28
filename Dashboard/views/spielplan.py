@@ -20,7 +20,7 @@ def show():
     saison = SAISON_OPTIONS[saison_label]
 
     try:
-        # ✅ Nutze cached_get_spiele statt get_spiele_mit_teamnamen
+
         all_matches = cached_get_spiele()
         saison_matches = all_matches[all_matches["Saison"] == saison]
 

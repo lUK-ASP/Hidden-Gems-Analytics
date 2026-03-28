@@ -17,7 +17,7 @@ from utils import (
 
 def show():
     try:
-        # ✅ Nutze cached Funktionen
+
         teams = cached_get_all_teams_for_players()
         team_select = st.selectbox(
             "Team wählen:",
@@ -33,7 +33,7 @@ def show():
         )
         st.markdown("## Marktwert")
 
-        # ✅ Nutze cached Funktion
+
         df_spieler = cached_get_player_market_value_history(team_select)
 
         vorname, nachname = spieler_select.split(" ", 1)
