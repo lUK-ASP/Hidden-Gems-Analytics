@@ -297,20 +297,22 @@ def prepare_comparison_elo_data(df: pd.DataFrame, min_saison: int = None) -> pd.
 
 def create_elo_comparison_figure(df_elo1: pd.DataFrame, df_elo2: pd.DataFrame,
                                  team1: str, team2: str, saison_labels: List[str]) -> go.Figure:
-    """Erstellt Elo-Vergleichs-Chart für zwei Teams."""
+    """Erstellt Elo-Vergleichs-Chart für zwei Teams mit Tabellenplatz in Hover-Box."""
     fig = go.Figure()
 
     fig.add_trace(go.Scatter(
         x=df_elo1["Index"], y=df_elo1["elo"], mode='lines+markers', name=team1,
-        connectgaps=False, customdata=df_elo1[["Saison_Label", "Spieltag_Label"]].values,
-        hovertemplate=f'<b>{team1}</b><br>Saison: %{{customdata[0]}}<br>Spieltag: %{{customdata[1]}}<br>Elo: %{{y:.2f}}<extra></extra>',
+        connectgaps=False,
+        customdata=df_elo1[["Saison_Label", "Spieltag_Label", "platz"]].values,
+        hovertemplate=f'<b>{team1}</b><br>Saison: %{{customdata[0]}}<br>Spieltag: %{{customdata[1]}}<br>Elo: %{{y:.2f}}<br>Platz: %{{customdata[2]:.0f}}<extra></extra>',
         line=dict(color='#1f77b4'), marker=dict(color='#1f77b4')
     ))
 
     fig.add_trace(go.Scatter(
         x=df_elo2["Index"], y=df_elo2["elo"], mode='lines+markers', name=team2,
-        connectgaps=False, customdata=df_elo2[["Saison_Label", "Spieltag_Label"]].values,
-        hovertemplate=f'<b>{team2}</b><br>Saison: %{{customdata[0]}}<br>Spieltag: %{{customdata[1]}}<br>Elo: %{{y:.2f}}<extra></extra>',
+        connectgaps=False,
+        customdata=df_elo2[["Saison_Label", "Spieltag_Label", "platz"]].values,
+        hovertemplate=f'<b>{team2}</b><br>Saison: %{{customdata[0]}}<br>Spieltag: %{{customdata[1]}}<br>Elo: %{{y:.2f}}<br>Platz: %{{customdata[2]:.0f}}<extra></extra>',
         line=dict(color='#ff7f0e'), marker=dict(color='#ff7f0e')
     ))
 
