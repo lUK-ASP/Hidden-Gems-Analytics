@@ -31,7 +31,7 @@ st.set_page_config(
 # ============================================================================
 
 st.title("Hidden Gems Analytics")
-
+st.markdown("---")
 # Session State für aktive View
 if "statistik_view" not in st.session_state:
     st.session_state.statistik_view = "Tabelle"
@@ -60,7 +60,7 @@ st.markdown("---")
 statistik_view = st.session_state.statistik_view
 
 
-st.markdown("---")
+
 
 # ============================================================================
 # ROUTER - ZEIGE AKTIVE VIEW
